@@ -51,11 +51,11 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Dokumentation InGrid Editor Profil METAVER'
+project = 'High quality metadata'
 copyright = '2021-{}, wemove'.format(
     datetime.datetime.now().year
 )
-author = 'jm'
+author = 'tw'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
