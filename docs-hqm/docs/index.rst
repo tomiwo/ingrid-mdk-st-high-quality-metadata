@@ -17,7 +17,7 @@ Leitfaden - Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise fü
 Profil: Metadatenkatalog Sachsen-Anhalt
 ========================================
 
-Version: 3.0, 15.07.2024
+Version: 3.0, 27.09.2024
 
 
 .. figure:: img/startseite/metadatenportale.png
