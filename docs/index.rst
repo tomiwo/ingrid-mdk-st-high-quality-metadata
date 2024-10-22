@@ -11,7 +11,7 @@ Leitfaden
 Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatenerfasser -
 =========================================================================================
 ===================================
-Portal: METAVER (Metadatenverbund)
+Portal: METAVER (MetadatenVerbund)
 ===================================
 ========================================
 Profil: Metadatenkatalog Sachsen-Anhalt
