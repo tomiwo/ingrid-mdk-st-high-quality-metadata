@@ -30,8 +30,6 @@ Status: in Bearbeitung
    optionen/erweiterungen.rst
    kommunikation/kontakt.rst
 
---------------------------------------------------------------------------------------------------------------
-
 .. figure:: img/startseite/metadatenportale.png
    :alt: Screenshots Metadatenportale
    :align: left
