@@ -25,11 +25,6 @@ Version: 3.0, 22.10.2024
 
    Abb.: Screenshots Metadatenportale
 
-
-..  note::  
-..  hint:: 
-
-
 --------------------------------------------------------------------------------------------------------------
 
 .. toctree::
@@ -37,10 +32,8 @@ Version: 3.0, 22.10.2024
    :caption: Thema 1
 
  start/einfuehrung.rst
-   .../.../Erläuterungen.rst
-   .../.../.rst
-   .../.../.rst
+ recht/recht.rst
+ optionen/datentypen.rst
+ erfassung/hinweise.rst
 
 --------------------------------------------------------------------------------------------------------------
-
-
