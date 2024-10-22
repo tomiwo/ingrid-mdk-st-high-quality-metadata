@@ -26,6 +26,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
    recht/grundlagen.rst
    erfassung/hinweise.rst
    optionen/erweiterungen.rst
+   `Bedienungsanleitung InGrid-Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/index.html>`_
    kommunikation/kontakt.rst
 
 .. figure:: img/startseite/metadatenportale.png
