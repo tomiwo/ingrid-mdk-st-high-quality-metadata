@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Qualitativ hochwertige Metadaten erfassen und pflegen'
+project = 'Leitfaden - Qualitativ hochwertige Metadaten erfassen und pflegen'
 copyright = '2024-{}, MID'.format(
     datetime.datetime.now().year
 )
