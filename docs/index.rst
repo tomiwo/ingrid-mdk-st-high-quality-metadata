@@ -11,7 +11,7 @@ Leitfaden
 Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatenerfasser -
 =========================================================================================
 ========================================
-Profil: Metadatenkatalog Sachsen-Anhalt
+Profil: METAVER - Metadatenkatalog Sachsen-Anhalt
 ========================================
 
 Version: 3.0, 22.10.2024
