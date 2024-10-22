@@ -4,7 +4,7 @@
   :keywords lang=de: InGrid, Editor, Metadatenkatalog, Metadaten, Qualität, hochwertig
 
 
-.. figure:: img/symbole/.png
+.. figure:: img/symbole/q.png
    :align: left
    :scale: 30
    :figwidth: 100 %
@@ -17,7 +17,7 @@ Leitfaden - Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise fü
 Profil: Metadatenkatalog Sachsen-Anhalt
 ========================================
 
-Version: 3.0, 17.10.2024
+Version: 3.0, 22.10.2024
 
 
 .. figure:: img/startseite/metadatenportale.png
