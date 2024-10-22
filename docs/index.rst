@@ -35,5 +35,6 @@ Version: 3.0, 22.10.2024
    recht/grundlagen.rst
    erfassung/hinweise.rst
    optionen/erweiterungen.rst
+   kommunikation/kontakt.rst
 
 --------------------------------------------------------------------------------------------------------------
