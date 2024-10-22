@@ -1,7 +1,7 @@
 .. meta::
   :description: Qualitativ hochwertige Metadaten erfassen und pflegen
-  :keywords: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Informationssysteme, Datenbanken, Datensammlungen, Dokumente, Literatur, Projekte, Fachinformationen, Umweltdaten, Geodaten, Erfassung, Beschreibung, Dokumentation, IGE-NG, InGrid Editor, Qualität, hochwertig
-  :keywords lang=de: InGrid, Editor, Metadatenkatalog, Metadaten, Qualität, hochwertig
+  :keywords: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Informationssysteme, Datenbanken, Datensammlungen, Dokumente, Literatur, Projekte, Fachinformationen, Umweltdaten, Geodaten, Erfassung, Pflege, Beschreibung, Dokumentation, IGE-NG, InGrid Editor, Qualität, hochwertig
+  :keywords lang=de: InGrid, Editor, Metadatenkatalog, Metadaten, Qualität, hochwertig, Erfassung, Pflege
 
 
 ==========
