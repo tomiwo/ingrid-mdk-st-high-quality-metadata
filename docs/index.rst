@@ -4,9 +4,6 @@
   :keywords lang=de: InGrid, Editor, Metadatenkatalog, Metadaten, Qualität, hochwertig, Erfassung, Pflege
 
 
-==========
-Leitfaden
-==========
 =========================================================================================
 Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatenerfasser -
 =========================================================================================
@@ -43,3 +40,4 @@ Status: in Bearbeitung
 
    Abb.: Screenshots Metadatenportale
 
+--------------------------------------------------------------------------------------------------------------
