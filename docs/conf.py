@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# docs-uvp-verbund documentation build configuration file, created by
+# docs-qualitativ-hochwertige-metadaten-erfassen-und-pflegen build configuration file, created by
 # sphinx-quickstart on Sun Mar 31 13:24:20 2019.
 #
 # This file is execfile()d with the current directory set to its
@@ -229,7 +229,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    ('index', 'uvp-verbund-bedienungsanleitung.tex', 'UVP-Verbund - Leitfaden',
+    ('index', 'qualitativ-hochwertige-metadaten-erfassen-und-pflegen.tex', 'Metadaten - Leitfaden',
      u'Torsten Wolff', 'guide'),
 ]
 
@@ -259,7 +259,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'uvp-verbund-bedienungsanleitung', 'UVP-Verbund - Bedienungsanleitungn',
+    (master_doc, 'qualitativ-hochwertige-metadaten-erfassen-und-pflegen', 'Qualitativ hochwertige Metadaten erfassen und pflegen',
      [author], 1)
 ]
 
