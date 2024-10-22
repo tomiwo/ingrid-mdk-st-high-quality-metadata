@@ -21,15 +21,6 @@ Version: 3.0, 22.10.2024
 
 Status: in Bearbeitung
 
-
-.. figure:: img/startseite/metadatenportale.png
-   :alt: Screenshots Metadatenportale
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-
-   Abb.: Screenshots Metadatenportale
-
 --------------------------------------------------------------------------------------------------------------
 
 .. toctree::
@@ -43,3 +34,12 @@ Status: in Bearbeitung
    kommunikation/kontakt.rst
 
 --------------------------------------------------------------------------------------------------------------
+
+.. figure:: img/startseite/metadatenportale.png
+   :alt: Screenshots Metadatenportale
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+   Abb.: Screenshots Metadatenportale
+
