@@ -1,7 +1,7 @@
 
--------------------------------------------------------
-Erweiterung der Metadatenerfassung um weitere Optionen
--------------------------------------------------------
+----------------------------------------------
+Erweiterung der Metadaten um weitere Optionen
+----------------------------------------------
 
 
 - INSPIRE

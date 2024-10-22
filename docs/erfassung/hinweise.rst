@@ -1,4 +1,4 @@
 
 ------------------------------------------------------
-Hinweise für die qualitätsgerechte Metadatenerfassung
+Hinweise für die Erfassung von hochwertigen Metadaten
 ------------------------------------------------------
