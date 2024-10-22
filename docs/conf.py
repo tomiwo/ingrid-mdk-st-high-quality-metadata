@@ -51,8 +51,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'High quality metadata'
-copyright = '2021-{}, wemove'.format(
+project = 'Qualitativ hochwertige Metadaten erfassen und pflegen'
+copyright = '2024-{}, MID'.format(
     datetime.datetime.now().year
 )
 author = 'tw'
