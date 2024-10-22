@@ -3,7 +3,7 @@ Einführung in das Thema Metadaten
 =================================
 
 
-.. figure:: img/startseite/metadatenportale.png
+.. figure:: ../img/startseite/metadatenportale.png
    :alt: Screenshots Metadatenportale
    :align: left
    :scale: 70
