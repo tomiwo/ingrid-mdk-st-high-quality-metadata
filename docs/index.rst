@@ -4,9 +4,12 @@
   :keywords lang=de: InGrid, Editor, Metadatenkatalog, Metadaten, Qualität, hochwertig
 
 
-=====================================================================================================
-Leitfaden - Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatenerfasser -
-=====================================================================================================
+====================================================================
+Leitfaden - Qualitativ hochwertige Metadaten erfassen und pflegen - 
+====================================================================
+===================================
+- Hinweise für Metadatenerfasser -
+===================================
 ========================================
 Profil: Metadatenkatalog Sachsen-Anhalt
 ========================================
