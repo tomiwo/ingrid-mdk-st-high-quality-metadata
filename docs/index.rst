@@ -29,7 +29,7 @@ Version: 3.0, 22.10.2024
 
 .. toctree::
    :maxdepth: 4
-   :caption: Thema 1
+   :caption: Inhalt
 
    start/einfuehrung.rst
    recht/grundlagen.rst
