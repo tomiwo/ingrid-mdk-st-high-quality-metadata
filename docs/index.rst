@@ -28,6 +28,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
    optionen/erweiterungen.rst
    kommunikation/kontakt.rst
 
+--------------------------------------------------------------------------------------------------------------
 
 .. figure:: img/startseite/metadatenportale.png
    :alt: Screenshots Metadatenportale
