@@ -30,16 +30,6 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 
 --------------------------------------------------------------------------------------------------------------
 
-.. figure:: img/startseite/metadatenportale.png
-   :alt: Screenshots Metadatenportale
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-
-   Abb.: Screenshots Metadatenportale
-
---------------------------------------------------------------------------------------------------------------
-
 .. note:: Hier kommen Sie zu der `Bedienungsanleitung für den InGrid-Editor. <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/index.html>`_
 
 --------------------------------------------------------------------------------------------------------------
