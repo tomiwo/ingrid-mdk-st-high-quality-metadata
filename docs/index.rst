@@ -28,12 +28,12 @@ Version: 3.0, 22.10.2024
 --------------------------------------------------------------------------------------------------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Thema 1
 
  start/einfuehrung.rst
- recht/recht.rst
- optionen/datentypen.rst
+ recht/rechliche-grundlagen.rst
+ optionen/auswahl.rst
  erfassung/hinweise.rst
 
 --------------------------------------------------------------------------------------------------------------
