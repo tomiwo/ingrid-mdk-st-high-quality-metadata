@@ -16,6 +16,8 @@ Profil: Metadatenkatalog Sachsen-Anhalt
 
 Version: 3.0, 22.10.2024
 
+Status: in Bearbeitung
+
 
 .. figure:: img/startseite/metadatenportale.png
    :alt: Screenshots Metadatenportale
