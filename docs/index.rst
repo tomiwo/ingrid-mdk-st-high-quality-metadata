@@ -39,6 +39,6 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 
 --------------------------------------------------------------------------------------------------------------
 
-.. hint:: Hier kommen Sie zu der `Bedienungsanleitung für den InGrid-Editor. <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/index.html>`_
+.. note:: Hier kommen Sie zu der `Bedienungsanleitung für den InGrid-Editor. <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/index.html>`_
 
 --------------------------------------------------------------------------------------------------------------
