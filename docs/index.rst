@@ -33,7 +33,7 @@ Version: 3.0, 22.10.2024
 
  start/einfuehrung.rst
  recht/rechliche-grundlagen.rst
- optionen/auswahl.rst
  erfassung/hinweise.rst
+ optionen/auswahl.rst
 
 --------------------------------------------------------------------------------------------------------------
