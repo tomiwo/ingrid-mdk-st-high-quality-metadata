@@ -31,9 +31,9 @@ Version: 3.0, 22.10.2024
    :maxdepth: 4
    :caption: Thema 1
 
- start/einfuehrung.rst
- recht/rechliche-grundlagen.rst
- erfassung/hinweise.rst
- optionen/auswahl.rst
+   start/einfuehrung.rst
+   recht/grundlagen.rst
+   erfassung/hinweise.rst
+   optionen/erweiterungen.rst
 
 --------------------------------------------------------------------------------------------------------------
