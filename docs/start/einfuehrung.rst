@@ -2,6 +2,16 @@
 Einführung in das Thema Metadaten
 =================================
 
+
+.. figure:: img/startseite/metadatenportale.png
+   :alt: Screenshots Metadatenportale
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+   Abb.: Screenshots Metadatenportale
+
+
 Metadaten stellen eine wesentliche Grundlage für die effiziente Nutzung und Verwaltung von Daten dar. Sie dienen der Beschreibung von Datenbeständen und ermöglichen die Erfassung, Suche und Präsentation relevanter Informationen. Der vorliegende Leitfaden richtet sich an Metadaten-Ersteller und Katalogbetreiber und bietet praktische Hinweise für die Erstellung und Pflege qualitativ hochwertiger Metadaten.
 Im Folgenden werden allgemeine Richtlinien für den Umgang mit Metadaten, die inhaltliche Erstellung von Datenbeschreibungen sowie die Präsentation von Metadaten erörtert. 
 
