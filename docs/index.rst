@@ -11,7 +11,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 | **Portal:** METAVER (MetadatenVerbund)
 | **Software:** InGrid (Open-Source)
 | **Komponente:** InGrid Editor
-| **Datenbank:** Metadatenkatalog
+| **Datenbank:** Metadatenkatalog Sachsen-Anhalt
 | **Profil:** Metadatenkatalog Sachsen-Anhalt
 
 | **Version:** 3.0, 07.11.2024
@@ -24,7 +24,6 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
    :caption: Grundlagen
 
    grundlagen/einfuehrung.rst
-   grundlagen/wichtige-begriffe.rst
    grundlagen/metadatenstandards.rst
 
 .. toctree::
