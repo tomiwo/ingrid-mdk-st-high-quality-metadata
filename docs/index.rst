@@ -1,9 +1,7 @@
 .. meta::
   :description: Qualitativ hochwertige Metadaten erfassen und pflegen
-  :keywords: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Informationssysteme, Datenbanken, Datensammlungen, Dokumente, Literatur, Projekte, Fachinformationen, Umweltdaten, Geodaten, Erfassung, Pflege, Beschreibung, Dokumentation, IGE-NG, InGrid Editor, Qualität, hochwertig
-  :keywords lang=de: InGrid, Editor, Metadatenkatalog, Metadaten, Qualität, hochwertig, Erfassung, Pflege
-
-
+  :keywords  lang=de: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Informationssysteme, Datenbanken, Datensammlungen, Dokumente, Literatur, Projekte, Fachinformationen, Umweltdaten, Geodaten, Erfassung, Pflege, Beschreibung, Dokumentation, IGE-NG, InGrid Editor, Qualität, hochwertig
+  
 =========================================================================================
 Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatenerfasser -
 =========================================================================================
@@ -13,7 +11,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 | **Portal:** METAVER (MetadatenVerbund)
 | **Profil:** Metadatenkatalog Sachsen-Anhalt
 
-| **Version:** 3.0, 06.11.2024
+| **Version:** 3.0, 07.11.2024
 | **Status:** in Bearbeitung
 
 --------------------------------------------------------------------------------------------------------------
@@ -42,7 +40,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
    anhang/checkliste.rst
    anhang/harvesting-prozess.rst
    anhang/glossar.rst
-   
+
 .. toctree::
    :maxdepth: 3
    :caption: Information
