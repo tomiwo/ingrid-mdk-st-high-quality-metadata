@@ -28,7 +28,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 
 .. toctree::
    :maxdepth: 3
-   :caption: QM für Metadaten
+   :caption: Qualitätsmanagement
 
    qualitaetsmanagement/bewertung.rst
    qualitaetsmanagement/bereitstellung.rst
