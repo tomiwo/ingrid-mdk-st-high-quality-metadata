@@ -1,6 +1,6 @@
 
 Einführung in das Thema Metadaten
-=================================
+==================================
 
 
 .. figure:: ../img/startseite/metadatenportale.png

@@ -13,20 +13,43 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 | **Portal:** METAVER (MetadatenVerbund)
 | **Profil:** Metadatenkatalog Sachsen-Anhalt
 
-| **Version:** 3.0, 22.10.2024
+| **Version:** 3.0, 06.11.2024
 | **Status:** in Bearbeitung
 
 --------------------------------------------------------------------------------------------------------------
 
 .. toctree::
-   :maxdepth: 4
-   :caption: Inhalt
+   :maxdepth: 3
+   :caption: Grundlagen
 
-   start/einfuehrung.rst
-   recht/grundlagen.rst
-   erfassung/hinweise.rst
-   optionen/erweiterungen.rst
-   kommunikation/kontakt.rst
+   grundlagen/einfuehrung.rst
+   grundlagen/wichtige-begriffe.rst
+   grundlagen/metadatenstandards.rst
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Qualitätsmanagement für Metadaten
+
+   qualitaetsmanagement/bewertung.rst
+   qualitaetsmanagement/bereitstellung.rst
+   qualitaetsmanagement/metadatenschema-ige.rst
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Anhang
+
+   anhang/rechtliche-grundlagen.rst
+   anhang/glossar.rst
+   anhang/harvesting.rst
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Information
+   
+   information/kontakt.rst
+   information/impressum.rst
+   information/quellen-bilder.rst
+  
 
 --------------------------------------------------------------------------------------------------------------
 
