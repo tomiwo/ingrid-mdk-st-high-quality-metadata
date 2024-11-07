@@ -11,8 +11,8 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 | **Portal:** METAVER (MetadatenVerbund)
 | **Software:** InGrid (Open-Source)
 | **Komponente:** InGrid Editor
-| **Datenbank:** Metadatenkatalog Sachsen-Anhalt
-| **Profil:** Metadatenkatalog Sachsen-Anhalt
+| **Datenbanken:** Metadatenkatalog und kommunaler Metadatenkatalog Sachsen-Anhalt
+| **Profile:** Metadatenkatalog und kommunaler Metadatenkatalog Sachsen-Anhalt
 
 | **Version:** 3.0, 07.11.2024
 | **Status:** in Bearbeitung
