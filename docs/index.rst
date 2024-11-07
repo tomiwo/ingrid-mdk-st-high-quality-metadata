@@ -38,6 +38,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
    :maxdepth: 3
    :caption: Anhang
 
+   anhang/checkliste.rst
    anhang/rechtliche-grundlagen.rst
    anhang/glossar.rst
    anhang/harvesting-prozess.rst
