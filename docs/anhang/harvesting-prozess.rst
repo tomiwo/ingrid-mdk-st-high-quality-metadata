@@ -18,7 +18,7 @@ Harvesting ist das systematische Sammeln (Ernten) von Informationen aus verschie
 
 | **Öffentliche Datenportale:** Hier wird Harvesting verwendet, um Informationen von verschiedenen Anbietern zu einzusammeln und an einem Ort bereitzustellen.
 | **Wissenschaftliche Forschung:** In der Forschung hilft Harvesting, relevante Informationen aus verschiedenen Quellen zu sammeln und zugänglich zu machen.
-| Digitale Bibliotheken: Bibliotheken nutzen Harvesting, um Informationen über Bücher und andere Medien zu sammeln und in ihren Katalogen anzuzeigen.
+| **Digitale Bibliotheken:** Bibliotheken nutzen Harvesting, um Informationen über Bücher und andere Medien zu sammeln und in ihren Katalogen anzuzeigen.
 
 **Technische Umsetzung**
 
