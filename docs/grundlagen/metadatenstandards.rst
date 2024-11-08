@@ -4,6 +4,18 @@ Metadatenstandards
 ===================
 
 
+ISO-19115
+----------
+
+Internationaler Standard zur Beschreibung von Geoinformationen
+
+----------------------------------------------------------------
+
+Der InGrid-Editor enthält Checkboxen, die angehakt werden können.
+Dadurch ändern sich die Eingabefelder für die Metadaten, es werden zusätzliche Eingabefelder eingeblendet.
+Diese Optionen werden im Folgenden beschrieben:
+
+
 Option - OpenData
 ------------------
 
