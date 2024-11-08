@@ -1,4 +1,4 @@
 
-Der Harvesting Prozess
+Der Harvesting-Prozess
 =======================
 
