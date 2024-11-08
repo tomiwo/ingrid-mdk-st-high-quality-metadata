@@ -25,3 +25,21 @@ Harvesting ist das systematische Sammeln (Ernten) von Informationen aus verschie
 | **Schnittstellen:** Es gibt bestimmte Standards, die helfen, den Austausch von Informationen zu erleichtern.
 | **Regelmäßige Aktualisierung:** Die gesammelten Daten werden regelmäßig aktualisiert, damit sie immer aktuell sind.
 | **Datenformate:** Die gesammelten Informationen werden in bestimmten Formaten (XML) gespeichert, die leicht zu lesen und zu verarbeiten sind.
+
+
+---------------------------------------------------------------
+
+Aktualisierungszyklen der Metadaten
+-----------------------------------
+
+---------------------------------------------------------------
+
+Portale die METAVER harvesten
+------------------------------
+
+---------------------------------------------------------------
+
+Portale die den Geodatenkatalog.de der GDI-DE harvesten
+--------------------------------------------------------
+
+---------------------------------------------------------------
