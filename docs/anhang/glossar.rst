@@ -1,5 +1,5 @@
 
-Glossar - Wichtige Begriffe
+Glossar - wichtige Begriffe
 ============================
 
 
