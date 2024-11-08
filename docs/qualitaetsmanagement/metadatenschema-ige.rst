@@ -1,6 +1,6 @@
 
-Qualitätskriterien im Metadatenschema des InGrid-Metadatenkataloges
-====================================================================
+Qualitätskriterien im InGrid-Metadatenkatalog
+==============================================
 
 
 Allgemeines
