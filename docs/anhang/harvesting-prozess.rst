@@ -2,7 +2,8 @@
 Der Harvesting-Prozess
 =======================
 
-**Was ist Harvesting?**
+Was ist Harvesting?
+-------------------
 
 Harvesting ist das systematische Sammeln (Ernten) von Informationen aus verschiedenen digitalen Quellen. Dabei wird häufig Software eingesetzt, die das Internet oder Datenbanken automatisch durchsucht, um diese Informationen zu finden und zu speichern. Harvesting ist also ein wichtiges Werkzeug, um Informationen aus verschiedenen Quellen zusammenzuführen und sie für die Nutzung verfügbar zu machen.
 
