@@ -10,7 +10,7 @@ Quellenangaben für die verwendeten Inhalte
 
 ------------------------------------------------------------------------------------------
 
-Quellenangaben für die Verwendeten Grafiken
+Quellenangaben für die verwendeten Grafiken
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ------------------------------------------------------------------------------------------
