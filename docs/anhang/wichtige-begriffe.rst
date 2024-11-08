@@ -1,6 +1,6 @@
 
-Wichtige Begriffe
-==================
+Erklärung wichtiger Begriffe
+=============================
 
 (Glossar / Schlagwörter / Schlüsselwörter / Keywords)
 
