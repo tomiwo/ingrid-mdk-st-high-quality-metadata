@@ -1,6 +1,0 @@
-
-Geodateninfrastruktur (GDI)
-===========================
-
-
-

@@ -24,7 +24,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
    :caption: Grundlagen
 
    grundlagen/einfuehrung.rst
-   grundlagen/geodateninfrastruktur.rst
+   grundlagen/metadateninfrastruktur.rst
    grundlagen/metadatenstandards.rst
 
 .. toctree::
