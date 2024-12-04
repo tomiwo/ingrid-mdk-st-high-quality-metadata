@@ -14,7 +14,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 | **Datenbanken:** Metadatenkatalog und kommunaler Metadatenkatalog Sachsen-Anhalt
 | **Metadatenprofile:** Metadatenkatalog und kommunaler Metadatenkatalog Sachsen-Anhalt
 
-| **Leitfaden-Version:** 3.0, 08.11.2024
+| **Leitfaden-Version:** 3.0, 04.12.2024
 | **Status:** in Bearbeitung
 
 --------------------------------------------------------------------------------------------------------------
@@ -34,13 +34,13 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
    qualitaetsmanagement/bewertung.rst
    qualitaetsmanagement/bereitstellung.rst
    qualitaetsmanagement/metadatenschema-ige.rst
+   qualitaetsmanagement/checkliste.rst
 
 .. toctree::
    :maxdepth: 3
    :caption: Anhang
 
    anhang/rechtliche-grundlagen.rst
-   anhang/checkliste.rst
    anhang/harvesting-prozess.rst
    anhang/wichtige-begriffe.rst
 
