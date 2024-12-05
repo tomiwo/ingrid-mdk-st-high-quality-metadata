@@ -34,13 +34,13 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
    qualitaetsmanagement/bewertung.rst
    qualitaetsmanagement/bereitstellung.rst
    qualitaetsmanagement/metadatenschema-ige.rst
-   qualitaetsmanagement/checkliste.rst
 
 .. toctree::
    :maxdepth: 3
    :caption: Anhang
 
    anhang/rechtliche-grundlagen.rst
+   anhang/checkliste.rst
    anhang/harvesting-prozess.rst
    anhang/wichtige-begriffe.rst
 
