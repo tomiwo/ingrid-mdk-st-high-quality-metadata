@@ -16,6 +16,8 @@ Eine typische Metadateninfrastruktur besteht aus den folgenden Elementen:
 | **Standardisierte Formate:** Verwendung von maschinenlesbaren, standardisierten Formaten wie XML zur Beschreibung von Metadaten.
 
 | **Suchfunktionen:** Ermöglichen das gezielte Suchen und Filtern von Daten anhand ihrer Metadaten.
+
+Durch die systematische Verwaltung von Metadaten können Organisationen ihre Datenbestände effizienter nutzen und den Wert ihrer Informationsressourcen steigern.
  
 
 .. figure:: ../img/metadateninfrastruktur/mis_1024.png
@@ -25,8 +27,6 @@ Eine typische Metadateninfrastruktur besteht aus den folgenden Elementen:
    :figwidth: 100%
 
    Abb.: Metadatenifrastruktur ausgehend vom Portal METAVER
-
-Durch die systematische Verwaltung von Metadaten können Organisationen ihre Datenbestände effizienter nutzen und den Wert ihrer Informationsressourcen steigern.
 
 
 **Warum gibt es innerhalb der Metadateninfrastruktur in Deutschland und der EU so viele Systeme/Portale, die Metadaten harvesten und für die Suche bereitstellen?**
