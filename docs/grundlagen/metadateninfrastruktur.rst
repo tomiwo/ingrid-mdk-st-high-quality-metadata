@@ -11,7 +11,7 @@ Eine typische Metadateninfrastruktur besteht aus den folgenden Elementen:
 | **Harvesting-Prozesse:** Automatisierte Prozesse zum Sammeln und Aktualisieren von Metadaten aus verschiedenen Quellen.
 | **Zentrale Metadatenkataloge:** Diese bündeln Metadaten aus verschiedenen Quellen zu einem zentralen Einstiegspunkt für die Recherche.
 | **Standardisierte Formate:** Verwendung von maschinenlesbaren, standardisierten Formaten wie XML zur Beschreibung von Metadaten.
-| **Suchfunktionen:**Ermöglichen das gezielte Suchen und Filtern von Daten anhand ihrer Metadaten.
+| **Suchfunktionen:** Ermöglichen das gezielte Suchen und Filtern von Daten anhand ihrer Metadaten.
  
 
 .. figure:: ../img/metadateninfrastruktur/mis_1024.png
