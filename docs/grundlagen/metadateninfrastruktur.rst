@@ -26,8 +26,6 @@ Eine typische Metadateninfrastruktur besteht aus den folgenden Elementen:
 
    Abb.: Metadatenifrastruktur ausgehend vom Portal METAVER
 
-
-Abb.: Metadatenifrastruktur ausgehend vom Portal METAVER
 Durch die systematische Verwaltung von Metadaten können Organisationen ihre Datenbestände effizienter nutzen und den Wert ihrer Informationsressourcen steigern.
 
 
