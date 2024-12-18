@@ -33,16 +33,6 @@ Durch die systematische Verwaltung von Metadaten können Organisationen ihre Dat
 
 **Warum gibt es innerhalb der Metadateninfrastruktur in Deutschland und der EU so viele Systeme/Portale, die Metadaten harvesten und für die Suche bereitstellen?**
 
-
-.. figure:: ../img/metadateninfrastruktur/metadatenportale.png
-   :alt: Screenshots Metadatenportale
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-
-   Abb.: Screenshots Metadatenkataloge und Metadatenportale innerhalb der Metadateninfrastruktur
-
-
 Es gibt mehrere Gründe für die Vielzahl von Metadaten-Harvesting-Systemen und -Portalen in Deutschland und der EU:
 
 | **Föderale Struktur:** In Deutschland führt die föderale Struktur dazu, dass verschiedene Behörden auf Bundes-, Landes- und kommunaler Ebene eigene Metadatensysteme betreiben.
@@ -58,6 +48,14 @@ Es gibt mehrere Gründe für die Vielzahl von Metadaten-Harvesting-Systemen und 
 | **Interoperabilität:** Die verschiedenen Systeme ermöglichen eine bessere Interoperabilität und grenzüberschreitende Nutzung von Geodaten.
 
 Diese Vielfalt an Systemen ermöglicht es, sowohl lokale als auch übergreifende Anforderungen zu erfüllen und gleichzeitig eine umfassende und effiziente Suche nach Geodatenressourcen zu gewährleisten.
+
+.. figure:: ../img/metadateninfrastruktur/metadatenportale.png
+   :alt: Screenshots Metadatenportale
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+   Abb.: Screenshots Metadatenkataloge und Metadatenportale innerhalb der Metadateninfrastruktur
 
 
 Metadateninformationssysteme und Portale innerhalb der Metadateninfrastrktur
