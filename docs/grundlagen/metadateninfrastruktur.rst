@@ -119,8 +119,7 @@ Das Portal umwelt.info dient als zentrale Suchmaschine und Zugriffspunkt für Um
 **Metadateninformationssysteme von Länderkooperationen**
 
 | **METAVER**
-| Metadatenverbund (Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Saarland,
-Sachsen & Sachsen-Anhalt)
+| Metadatenverbund (Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Saarland, Sachsen & Sachsen-Anhalt)
 
 METAVER dient als gemeinsames Metadatenportal für mehrere deutsche Bundesländer, um Geoinformationen und Umweltdaten zentral recherchierbar und zugänglich zu machen, wobei es die Auffindbarkeit, Nutzung und Verwaltung von Geodaten, Geodatendiensten und weiteren IT-gestützten Geodatenanwendungen erleichtert.
 
