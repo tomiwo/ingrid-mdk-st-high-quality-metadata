@@ -65,6 +65,7 @@ Metadateninformationssysteme und Portale innerhalb der Metadateninfrastrktur
 Europäische Kommission
 
 Das INSPIRE Geoportal der Europäischen Kommission dient der Schaffung einer gemeinsamen Geodateninfrastruktur in Europa, um die grenzübergreifende Nutzung von Geodaten zu erleichtern und gemeinschaftliche umweltpolitische Entscheidungen zu unterstützen.
+
 | https://inspire-geoportal.ec.europa.eu/
 
 
@@ -72,6 +73,7 @@ Das INSPIRE Geoportal der Europäischen Kommission dient der Schaffung einer gem
 Europäische Union
 
 Das European Data Portal dient als zentraler Zugangspunkt für offene Daten aus verschiedenen europäischen Ländern, um die Auffindbarkeit, Zugänglichkeit und Wiederverwendung von öffentlichen Informationen zu fördern.
+
 | https://data.europa.eu/de 
 
 
@@ -81,6 +83,7 @@ Das European Data Portal dient als zentraler Zugangspunkt für offene Daten aus 
 Förderale IT-Kooperation (FITKO)
 
 GovData dient als bundesweites Datenportal, über das Bund, Länder und Kommunen ihre offenen Verwaltungsdaten zentral auffindbar und zugänglich machen, um deren Nutzung und Weiterverwendung durch Verwaltung, Bürger, Unternehmen und Wissenschaft zu fördern.
+
 | https://www.govdata.de/
 
 
@@ -88,6 +91,7 @@ GovData dient als bundesweites Datenportal, über das Bund, Länder und Kommunen
 Geodateninfrastruktur Deutschland (GDI-DE)
 
 Der Geodatenkatalog.de dient als zentrales Metadaten-Auskunftssystem der Geodateninfrastruktur Deutschland (GDI-DE), das Metadaten über Geodaten, Geodatendienste und weitere IT-gestützte Geodatenanwendungen deutschlandweit über eine einheitliche Suchschnittstelle bereitstellt und recherchierbar macht.
+
 | https://gdk.gdi-de.org/
 
 
@@ -95,6 +99,7 @@ Der Geodatenkatalog.de dient als zentrales Metadaten-Auskunftssystem der Geodate
 Geodateninfrastruktur Deutschland (GDI-DE)
 
 Das Geoportal.de dient als "Schaufenster" der Geodateninfrastruktur Deutschland (GDI-DE), um Fachwissen in der Öffentlichkeit transparent zu machen und das Funktionieren der Konzepte und Empfehlungen der GDI-DE aufzuzeigen. Es ermöglicht den Zugriff auf ein umfassendes Angebot an frei zugänglichen Geoinformationen aus verschiedenen Bereichen.
+
 | https://geoportal.de/
 
 
@@ -103,6 +108,7 @@ Umweltbundesamt (UBA)
 Nationales Zentrum für Umwelt- und Naturschutzinformationen
 
 Das Portal umwelt.info dient als zentrale Suchmaschine und Zugriffspunkt für Umwelt- und Naturschutzinformationen in Deutschland, um die Auffindbarkeit und Nutzung von verstreuten Daten und Informationen aus verschiedenen Quellen zu erleichtern und zu verbessern.
+
 | https://mvp.umwelt.info/
 
 
@@ -113,6 +119,7 @@ Metadatenverbund (Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, 
 Sachsen & Sachsen-Anhalt)
 
 METAVER dient als gemeinsames Metadatenportal für mehrere deutsche Bundesländer, um Geoinformationen und Umweltdaten zentral recherchierbar und zugänglich zu machen, wobei es die Auffindbarkeit, Nutzung und Verwaltung von Geodaten, Geodatendiensten und weiteren IT-gestützten Geodatenanwendungen erleichtert.
+
 | https://metaver.de/
 
 
@@ -120,7 +127,8 @@ METAVER dient als gemeinsames Metadatenportal für mehrere deutsche Bundeslände
 Metadateninformationssystem der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV)
 
 Das AdV-MIS dient als zentrales Metainformationssystem der Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV), um Informationen über verfügbare digitale und analoge Geobasisdaten der deutschen Landesvermessung hinsichtlich Inhalt, Ausdehnung, Qualität, Raumbezug und Vertrieb bereitzustellen.
-https://advmis.geodatenzentrum.de/
+
+| https://advmis.geodatenzentrum.de/
 
 
 **Portale des Landes Sachsen-Anhalt, die Metadaten durchsuchen**
@@ -129,6 +137,7 @@ https://advmis.geodatenzentrum.de/
 Staatskanzlei Sachsen-Anhalt
 
 Die Suche im Landesportal Sachsen-Anhalt ermöglicht die Recherche von Geodatensätzen, Geodatendiensten und Geoanwendungen, die im Metadatenkatalog Sachsen-Anhalt erfasst sind, um deren Auffindbarkeit und Zugänglichkeit zu verbessern.
+
 | https://suche.sachsen-anhalt.de/ 
 
 
@@ -136,6 +145,7 @@ Die Suche im Landesportal Sachsen-Anhalt ermöglicht die Recherche von Geodatens
 Ministeriums für Wissenschaft, Energie, Klimaschutz und Umwelt (MWU) des Landes Sachsen-Anhalt
 
 Die Suche im Umweltportal Sachsen-Anhalt ermöglicht die Recherche von Umweltinformationen, einschließlich Metadaten zu Geodatensätzen, Geodatendiensten und Geoanwendungen, um deren Auffindbarkeit und Nutzung zu erleichtern und zu verbessern.
+
 | https://umwelt.sachsen-anhalt.de/
 
 
@@ -143,6 +153,7 @@ Die Suche im Umweltportal Sachsen-Anhalt ermöglicht die Recherche von Umweltinf
 Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)
 
 Die Suche nach Metadaten im Geoportal Sachsen-Anhalt dient dazu, Geodatensätze, Geodatendienste und Geoanwendungen auffindbar zu machen und grundlegende Informationen über deren Existenz und Verfügbarkeit zu liefern.
+
 | https://www.lvermgeo.sachsen-anhalt.de/de/gdp-geodatensuche.html
 
 
