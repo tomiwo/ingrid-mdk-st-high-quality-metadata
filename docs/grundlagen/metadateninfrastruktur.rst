@@ -65,9 +65,8 @@ Metadateninformationssysteme und Portale innerhalb der Metadateninfrastrktur
 
 **Zentrale Portale innerhalb der Europäischen Union, die Metadaten aus den EU-Mitgliedstaaten zusammenführen**
 
-**INSPIRE Geoportal**
-
-Europäische Kommission
+| **INSPIRE Geoportal**
+| Europäische Kommission
 
 Das INSPIRE Geoportal der Europäischen Kommission dient der Schaffung einer gemeinsamen Geodateninfrastruktur in Europa, um die grenzübergreifende Nutzung von Geodaten zu erleichtern und gemeinschaftliche umweltpolitische Entscheidungen zu unterstützen.
 
