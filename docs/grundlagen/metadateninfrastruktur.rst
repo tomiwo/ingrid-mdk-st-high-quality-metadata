@@ -14,7 +14,7 @@ Eine typische Metadateninfrastruktur besteht aus den folgenden Elementen:
 | **Suchfunktionen:**Ermöglichen das gezielte Suchen und Filtern von Daten anhand ihrer Metadaten.
  
 
-.. figure:: ../img/startseite/mis_1024.png
+.. figure:: ../img/metadateninfrastruktur/mis_1024.png
    :alt: Grafik Metadateninfrastruktur
    :align: left
    :scale: 70
@@ -30,7 +30,7 @@ Durch die systematische Verwaltung von Metadaten können Organisationen ihre Dat
 **Warum gibt es innerhalb der Metadateninfrastruktur in Deutschland und der EU so viele Systeme/Portale, die Metadaten harvesten und für die Suche bereitstellen?**
 
 
-.. figure:: ../img/startseite/metadatenportale.png
+.. figure:: ../img/metadateninfrastruktur/metadatenportale.png
    :alt: Screenshots Metadatenportale
    :align: left
    :scale: 70
