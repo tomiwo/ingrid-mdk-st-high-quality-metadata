@@ -107,7 +107,7 @@ Das Geoportal.de dient als "Schaufenster" der Geodateninfrastruktur Deutschland 
   https://geoportal.de/
 
 
-|**Umwelt.info**
+| **Umwelt.info**
 | Umweltbundesamt (UBA)
 | Nationales Zentrum für Umwelt- und Naturschutzinformationen
 
