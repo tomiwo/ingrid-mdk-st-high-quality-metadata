@@ -2,6 +2,9 @@
 Rechtliche Grundlagen für die Erfassung von Metadaten
 ======================================================
 
+------------------------------------------------------------------------------------------------------------------------------
+
+
 Europäische Richtlinien und Verordnungen
 -----------------------------------------
 
@@ -121,6 +124,8 @@ Das Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, 
 
 **Landesamt für Geologie und Bergwesen Sachsen-Anhalt:** `Häufig gestellte Fragen (FAQ) zum Geologiedatengesetz  <https://lagb.sachsen-anhalt.de/geologie/geologiedatengesetz/geologiedatengesetz-faq>`_
 
+
+---------------------------------------------------------------------------------------------------------------------------
 
 
 Landesrecht Sachsen-Anhalt

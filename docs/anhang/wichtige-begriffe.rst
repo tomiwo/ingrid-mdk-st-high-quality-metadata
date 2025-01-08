@@ -4,6 +4,8 @@ Glossar
 
 Schlagwörter / Schlüsselwörter / Keywords
 
+-----------------------------------------------------------------------------------------------
+
 
 Erklärungen zu allgemeinen Begriffen
 -------------------------------------
@@ -26,6 +28,7 @@ Datenqualität
 Metadatenqualität
 ^^^^^^^^^^^^^^^^^
 
+-----------------------------------------------------------------------------------------------
 
 
 Erklärungen zu GeoBegriffen
@@ -49,3 +52,5 @@ Geodatenportal Sachsen-Anhalt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `Erklärungen zu GeoBegriffen <https://www.lvermgeo.sachsen-anhalt.de/de/gdp-glossar.html>`_
+
+-----------------------------------------------------------------------------------------------
