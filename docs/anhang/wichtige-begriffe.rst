@@ -67,6 +67,7 @@ Geodatensätze sind spezielle Datensätze, die raumbezogene Informationen enthal
 **Arten von Geodatensätzen**
 
 Geodatensätze können in verschiedenen Formaten vorliegen:
+
 •	**Vektordaten:** Repräsentieren diskrete Objekte als Punkte, Linien oder Polygone.
 •	**Rasterdaten:** Stellen kontinuierliche Flächen als Gitter von Zellen dar.
 •	**Tabellendaten:** Enthalten Attributinformationen mit räumlichem Bezug.
@@ -74,6 +75,7 @@ Geodatensätze können in verschiedenen Formaten vorliegen:
 **Anwendungsbereiche**
 
 Geodatensätze finden in vielen Bereichen Anwendung:
+
 •	Stadtplanung und Raumordnung
 •	Umweltmonitoring und Naturschutz
 •	Verkehrs- und Logistikplanung
@@ -84,6 +86,7 @@ Geodatensätze finden in vielen Bereichen Anwendung:
 **Bedeutung für GIS**
 
 In Geografischen InformationsSystemen bilden Geodatensätze die Grundlage für:
+
 •	Räumliche Analysen
 •	Kartenerstellung und Visualisierung
 •	Modellierung von geografischen Prozessen
