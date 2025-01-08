@@ -40,11 +40,11 @@ Geodaten
 Geodatensätze
 ^^^^^^^^^^^^^
 
-Geodateninfrastruktur
-^^^^^^^^^^^^^^^^^^^^^^
+Geodateninfrastruktur (GDI)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-GIS
-^^^
+Geographisches Informationssystem (GIS)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -----------------------------------------------------------------------------------------------
 
