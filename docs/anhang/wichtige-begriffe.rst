@@ -13,11 +13,14 @@ Erklärungen zu allgemeinen Begriffen
 Daten
 ^^^^^
 
-Datensätze
+Datensatz
+^^^^^^^^^
+
+Datenserie
 ^^^^^^^^^^
 
-Ressourcen
-^^^^^^^^^^
+Ressource
+^^^^^^^^^
 
 Metadaten
 ^^^^^^^^^
@@ -37,8 +40,8 @@ Erklärungen zu GeoBegriffen
 Geodaten
 ^^^^^^^^
 
-Geodatensätze
-^^^^^^^^^^^^^
+Geodatensatz
+^^^^^^^^^^^^
 
 Geodateninfrastruktur (GDI)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
