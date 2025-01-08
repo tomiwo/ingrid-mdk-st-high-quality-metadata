@@ -1,9 +1,11 @@
 
-Erklärungen wichtiger Begriffe
-=============================
+Glossar
+=======
 
-Glossar / Schlagwörter / Schlüsselwörter / Keywords
-----------------------------------------------------
+Erklärungen wichtiger Begriffe
+------------------------------
+
+Schlagwörter / Schlüsselwörter / Keywords
 
 
 Daten
@@ -27,7 +29,7 @@ Geodatensätze
 
 
 Metadaten
-----------
+^^^^^^^^^
 
 
 Geodateninfrastruktur
