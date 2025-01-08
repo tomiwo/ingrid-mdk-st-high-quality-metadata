@@ -13,14 +13,14 @@ Erklärungen zu allgemeinen Begriffen
 Ressource
 ^^^^^^^^^
 
-| Daten
-^^^^^^^
+  | Daten
+^^^^^^^^^
 
-| Datensatz
-^^^^^^^^^^^
+  | Datensatz
+^^^^^^^^^^^^^
 
-| Datenserie
-^^^^^^^^^^^^
+  | Datenserie
+^^^^^^^^^^^^^^
 
 Datenqualität
 ^^^^^^^^^^^^^
