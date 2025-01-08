@@ -119,7 +119,7 @@ Das Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, 
 **Bundesministerium dser Justiz / Bundesamt der Justiz:** `Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, Sicherung und öffentlichen Bereitstellung geologischer Daten und zur Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben <https://www.gesetze-im-internet.de/geoldg/>`_
 
 
-**Landesamt für Geologie und Bergwesen Sachsen-Anhalt:** `Geologiedatengesetz FAQ <https://lagb.sachsen-anhalt.de/geologie/geologiedatengesetz/geologiedatengesetz-faq>`_
+**Landesamt für Geologie und Bergwesen Sachsen-Anhalt:** `Häufig gestellte Fragen (FAQ) zum Geologiedatengesetz  <https://lagb.sachsen-anhalt.de/geologie/geologiedatengesetz/geologiedatengesetz-faq>`_
 
 
 
