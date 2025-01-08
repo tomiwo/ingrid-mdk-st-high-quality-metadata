@@ -40,5 +40,5 @@ Datenqualität
 Metadatenqualität
 ------------------
 
-.. note:: Geodatenportal Sachsen-Anhalt: `Erklärungen zu GeoBegriffen <https://www.lvermgeo.sachsen-anhalt.de/de/gdp-glossar.html>`_
+.. note:: **Geodatenportal Sachsen-Anhalt:** `Erklärungen zu GeoBegriffen <https://www.lvermgeo.sachsen-anhalt.de/de/gdp-glossar.html>`_
 
