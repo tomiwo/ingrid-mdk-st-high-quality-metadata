@@ -48,8 +48,49 @@ Erklärungen zu GeoBegriffen
 Geodaten
 ^^^^^^^^
 
+Geodaten sind digitale Daten und Umweltdaten, denen eine bestimmte räumliche Lage auf der Erdoberfläche zugeordnet werden kann. Es kann sich um direkt gewonnene Primärdaten oder um weiterverarbeitete Sekundärdaten handeln. Von besonderer Bedeutung für Geodaten sind die Metadaten, die die eigentlichen raumbezogenen Daten beschreiben, z.B. hinsichtlich eines Zeitbezugs oder der Herkunft. Geodaten unterteilen sich in raumbezogene Geodaten “Geobasisdaten”, die in der Regel von den Vermessungsverwaltungen der Länder oder Kommunen bereitgestellt werden, und “Geofachdaten“, die aus verschiedenen raumbezogenen Fachdatenbanken stammen. Diese Daten werden in einem Geoinformationssystem verwaltet, auf das bei internetbasierten Systemen über einen Geobrowser (z.B. Sachsen-Anhalt Viewer) zugegriffen werden kann.
+
+
 Geodatensatz
 ^^^^^^^^^^^^
+
+Geodatensätze sind spezielle Datensätze, die raumbezogene Informationen enthalten und in Geografischen InformationsSystemen (GIS) verwendet werden. Sie kombinieren Standortdaten mit anderen Attributen, um geografische Phänomene zu beschreiben und zu analysieren.
+
+**Hauptmerkmale von Geodatensätzen**
+
+**Räumliche Komponente:** Geodatensätze enthalten immer eine räumliche Komponente, die die geografische Lage oder Ausdehnung eines Objekts beschreibt. Dies kann in Form von Koordinaten, Polygonen oder anderen geometrischen Formen vorliegen.
+
+**Attributdaten:** Neben der räumlichen Information beinhalten Geodatensätze zusätzliche Attribute, die Eigenschaften oder Merkmale des geografischen Objekts beschreiben.
+
+**Strukturierte Form:** Wie andere Datensätze sind auch Geodaten in einer strukturierten Form organisiert, oft in Tabellen oder Datenbanken.
+
+**Arten von Geodatensätzen**
+
+Geodatensätze können in verschiedenen Formaten vorliegen:
+•	**Vektordaten:** Repräsentieren diskrete Objekte als Punkte, Linien oder Polygone.
+•	**Rasterdaten:** Stellen kontinuierliche Flächen als Gitter von Zellen dar.
+•	**Tabellendaten:** Enthalten Attributinformationen mit räumlichem Bezug.
+
+**Anwendungsbereiche**
+
+Geodatensätze finden in vielen Bereichen Anwendung:
+•	Stadtplanung und Raumordnung
+•	Umweltmonitoring und Naturschutz
+•	Verkehrs- und Logistikplanung
+•	Katastrophenmanagement
+•	Ressourcenmanagement
+•	Marktanalyse und Standortplanung
+
+**Bedeutung für GIS**
+
+In Geografischen InformationsSystemen bilden Geodatensätze die Grundlage für:
+•	Räumliche Analysen
+•	Kartenerstellung und Visualisierung
+•	Modellierung von geografischen Prozessen
+•	Entscheidungsunterstützung in raumbezogenen Fragestellungen
+
+Geodatensätze ermöglichen es, komplexe räumliche Zusammenhänge zu erfassen, zu analysieren und zu visualisieren. Sie sind daher ein unverzichtbares Werkzeug in vielen Bereichen, die mit raumbezogenen Informationen arbeiten.
+
 
 Geodateninfrastruktur (GDI)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
