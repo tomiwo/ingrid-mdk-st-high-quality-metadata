@@ -16,6 +16,10 @@ Ressource
   | **Daten**
 ^^^^^^^^^^^^^
 
+- unstrukturierte Daten
+- strukturierte Daten
+
+
   | **Datensatz**
 ^^^^^^^^^^^^^^^^^
 
