@@ -4,7 +4,10 @@ Metadateninfrastruktur
 
 Eine Metadateninfrastruktur ist ein System zur Verwaltung, Organisation und übergreifenden Nutzung von Metadaten:
 Sie ermöglicht die effiziente Erfassung, Speicherung und Verarbeitung von Metadaten, um Daten besser auffindbar, verwaltbar und nutzbar zu machen.
+
 Bestandteile einer Metadateninfrastruktur
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Eine typische Metadateninfrastruktur besteht aus den folgenden Elementen:
 
 | **Katalogschnittstellen:** Diese ermöglichen den automatisierten Austausch von Metadaten zwischen verschiedenen Systemen, z.B. Catalog Service Web (CSW).
