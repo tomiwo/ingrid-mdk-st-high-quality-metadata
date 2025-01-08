@@ -37,11 +37,13 @@ Geodaten
 Geodatensätze
 ^^^^^^^^^^^^^
 
+Geodateninfrastruktur
+^^^^^^^^^^^^^^^^^^^^^^
+
 GIS
 ^^^
 
-Geodateninfrastruktur
-^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------------------------------------------------------
 
 Geodatenportal Sachsen-Anhalt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
