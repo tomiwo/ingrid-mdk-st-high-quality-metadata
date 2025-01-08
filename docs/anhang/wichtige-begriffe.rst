@@ -12,17 +12,17 @@ Ressource
 ^^^^^^^^^
 
   **Daten**
-^^^^^^^^^
+  ^^^^^^^^^
 
 - unstrukturierte Daten
 - strukturierte Daten
 
 
   **Datensatz**
-^^^^^^^^^^^^^
+  ^^^^^^^^^^^^^
 
   **Datenserie**
-^^^^^^^^^^^^^^
+  ^^^^^^^^^^^^^^
 
 Datenqualität
 ^^^^^^^^^^^^^
