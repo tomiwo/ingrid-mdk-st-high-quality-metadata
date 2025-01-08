@@ -11,17 +11,17 @@ Erklärungen zu allgemeinen Begriffen
 Ressource
 ^^^^^^^^^
 
-**Daten**
+  **Daten**
 ^^^^^^^^^
 
 - unstrukturierte Daten
 - strukturierte Daten
 
 
-**Datensatz**
+  **Datensatz**
 ^^^^^^^^^^^^^
 
-**Datenserie**
+  **Datenserie**
 ^^^^^^^^^^^^^^
 
 Datenqualität
