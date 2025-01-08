@@ -10,23 +10,23 @@ Schlagwörter / Schlüsselwörter / Keywords
 Erklärungen zu allgemeinen Begriffen
 -------------------------------------
 
-Daten
-^^^^^
-
-Datensatz
-^^^^^^^^^
-
-Datenserie
-^^^^^^^^^^
-
 Ressource
 ^^^^^^^^^
 
-Metadaten
-^^^^^^^^^
+| Daten
+^^^^^^^
+
+| Datensatz
+^^^^^^^^^^^
+
+| Datenserie
+^^^^^^^^^^^^
 
 Datenqualität
 ^^^^^^^^^^^^^
+
+Metadaten
+^^^^^^^^^
 
 Metadatenqualität
 ^^^^^^^^^^^^^^^^^
