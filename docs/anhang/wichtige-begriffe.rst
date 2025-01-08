@@ -5,40 +5,23 @@ Glossar
 Schlagwörter / Schlüsselwörter / Keywords
 
 
-Erklärungen von Begriffen
--------------------------
+Erklärungen von allgemeinen Begriffen
+-------------------------------------
 
 Daten
 ^^^^^
 
-
 Datensätze
 ^^^^^^^^^^
-
 
 Ressourcen
 ^^^^^^^^^^
 
-
-Geodaten
-^^^^^^^^
-
-
-Geodatensätze
-^^^^^^^^^^^^^
-
-
 Metadaten
 ^^^^^^^^^
 
-
-Geodateninfrastruktur
-^^^^^^^^^^^^^^^^^^^^^^
-
-
 Datenqualität
 ^^^^^^^^^^^^^
-
 
 Metadatenqualität
 ^^^^^^^^^^^^^^^^^
@@ -48,8 +31,19 @@ Metadatenqualität
 Erklärungen zu GeoBegriffen
 ---------------------------
 
+Geodaten
+^^^^^^^^
+
+Geodatensätze
+^^^^^^^^^^^^^
+
+GIS
+^^^
+
+Geodateninfrastruktur
+^^^^^^^^^^^^^^^^^^^^^^
+
 Geodatenportal Sachsen-Anhalt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `Erklärungen zu GeoBegriffen <https://www.lvermgeo.sachsen-anhalt.de/de/gdp-glossar.html>`_
-
