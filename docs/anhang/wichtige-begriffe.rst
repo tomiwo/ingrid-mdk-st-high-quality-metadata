@@ -2,11 +2,11 @@
 Glossar
 =======
 
-Erklärungen wichtiger Begriffe
-------------------------------
-
 Schlagwörter / Schlüsselwörter / Keywords
 
+
+Erklärungen wichtiger Begriffe
+------------------------------
 
 Daten
 ^^^^^
@@ -45,8 +45,8 @@ Metadatenqualität
 
 
 
-Erklärungen zu GeoBegriffen Begriffen
------------------------------------
+Erklärungen zu GeoBegriffen
+---------------------------
 
 Geodatenportal Sachsen-Anhalt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
