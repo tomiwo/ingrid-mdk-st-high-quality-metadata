@@ -71,7 +71,7 @@ Die als hochwertige Datensätze identifizierten Daten sind folgenden sechs Kateg
 
 **EUR-Lex:** `Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (Text von Bedeutung für den EWR) <https://eur-lex.europa.eu/legal-content/DE/TXT/?toc=OJ%3AL%3A2023%3A019%3AFULL&uri=uriserv%3AOJ.L_.2023.019.01.0043.01.DEU>`_
 
-**GovData:** `Hochwertige Datensätze - Die EU-Kommission verpflichtet seine Mitgliedsstaaten zur Freigabe hochwertiger Datensätze <https://www.govdata.de/informationen/hochwertige-datensaetze>`_
+**GovData:** `Häufig gestellte Fragen (FAQ) zur Durchführungsverordnung zur Festlegung bestimmter hochwertiger Datensätze <https://www.govdata.de/informationen/hochwertige-datensaetze>`_
 
 
 INSPIRE-Richtlinie
@@ -88,7 +88,6 @@ Die INSPIRE-Richtlinie (Infrastructure for Spatial Information in Europe) ist ei
 **Zugang der Öffentlichkeit:** Die INSPIRE-Richtlinie ermöglicht den Zugang der Öffentlichkeit zu Geodatensätzen und -diensten, wobei bestimmte Einschränkungen gelten können, z. B. aus Gründen der gesetzlichen Geheimhaltung, der öffentlichen Sicherheit, des geistigen Eigentums oder des Umweltschutzes.
 
 Die Europäische Kommission betreibt ein EU-weites INSPIRE Geoportal, das Zugang zu den nationalen Netzwerken bietet.
-
 
 **EUR-Lex:** `Die Geodateninfrastruktur der EU (INSPIRE) <https://eur-lex.europa.eu/DE/legal-content/summary/the-eu-s-infrastructure-for-spatial-information-inspire.html>`_
 
