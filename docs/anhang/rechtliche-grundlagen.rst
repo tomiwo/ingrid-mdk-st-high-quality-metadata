@@ -12,9 +12,7 @@ EU OD-PSI-Richtlinie
 Die Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors (Neufassung) (kurz Open Data und Public Sector Information-Richtlinie – OD-PSI-Richtlinie) reguliert die Weiterverwendung von Verwaltungsinformationen, zu denen man Zugang erhalten hat. Diese Informationen können Geodaten, Katasterinformationen, statistische oder rechtliche Informationen im Besitz öffentlicher Stellen oder öffentlicher Unternehmen sowie öffentlich finanzierte Forschungsdaten umfassen. Für bestimmte im Besitz öffentlicher Stellen oder öffentlicher Unternehmen befindlicher hochwertiger Datensätze werden zudem in einer Durchführungsverordnung die Modalitäten deren Veröffentlichung und Weiterverwendung geregelt. Die ODPSI-Richtlinie trat am 16. Juli 2019 in Kraft und ersetzt die PSI-Richtlinie aus dem Jahr 2003. Ihr Hauptziel ist die Schaffung eines Rechtsrahmens für die Weiterverwendung öffentlicher Informationen und zielt darauf ab, den Binnenmarkt zu stärken und die datengestützte Gesellschaft zu fördern. Im Folgenden werden einige wesentliche Punkte in Bezug auf Daten  und Metadaten gemäß der OD-PSI-Richtlinie dargelegt:
 
 
-**Zugang und Nutzung:**
-
-Die OD-PSI-Richtlinie regelt nicht den Zugang zu Verwaltungsinformationen, sondern die Bedingungen für die Weiterverwendung dieser Informationen. Der Zugang zu den betreffenden Informationen muss sich aus anderen Gesetzen ergeben, wie beispielsweise dem Informationsfreiheitsgesetz (IFG) oder der Umsetzung der INSPIRE-Richtlinie.
+**Zugang und Nutzung:** Die OD-PSI-Richtlinie regelt nicht den Zugang zu Verwaltungsinformationen, sondern die Bedingungen für die Weiterverwendung dieser Informationen. Der Zugang zu den betreffenden Informationen muss sich aus anderen Gesetzen ergeben, wie beispielsweise dem Informationsfreiheitsgesetz (IFG) oder der Umsetzung der INSPIRE-Richtlinie.
 Die Weiterverwendung von Geodaten ist in der PSI-Richtlinie geregelt. Diese betrifft die Weiterverwendung von Geodaten als „hochwertige Datensätze”. 
 
 Hochwertige Datensätze sind Dokumente, deren Weiterverwendung wichtige Vorteile für Gesellschaft, Umwelt und Wirtschaft bietet. Sie eignen sich insbesondere für die Schaffung von Mehrwertdiensten, Anwendungen und neuen Arbeitsplätzen. 
@@ -64,16 +62,16 @@ Die als hochwertige Datensätze identifizierten Daten sind folgenden sechs Kateg
 - Unternehmen und Eigentümerschaft von Unternehmen
 - Mobilität
 
-**Veröffentlichung und Zugänglichkeit:** Seit dem 09.06.2024 müssen öffentliche Stellen die in der DVO-HVD benannten hochwertigen Datensätze als offene Daten anbieten. Dies bedeutet insbesondere, dass die hochwertigen Datensätze
+**Veröffentlichung und Zugänglichkeit:** Seit dem 09.06.2024 müssen öffentliche Stellen die in der DVO-HVD benannten hochwertigen Datensätze als offene Daten anbieten. Dies bedeutet insbesondere, dass die hochwertigen Datensätze:
 
-- in einem maschinenlesbaren Format (z.B. CSV, JSON oder XML) und über Anwendungsprogrammierschnittstellen (APIs) sowie, sofern im Anhang angegeben, als “Massendownload” zur Verfügung gestellt werden.
+- in einem maschinenlesbaren Format (z.B. CSV, JSON oder XML) und über Anwendungsprogrammierschnittstellen (APIs) sowie, sofern im Anhang angegeben, als “Massendownload” zur Verfügung gestellt werden,
 - mit entsprechenden Metadaten zu beschreiben sind,
 - über das Internet frei zugänglich und 
 - unter einer offenen Lizenz frei nutzbar sein müssen.
 
 **EUR-Lex:** `Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (Text von Bedeutung für den EWR) <https://eur-lex.europa.eu/legal-content/DE/TXT/?toc=OJ%3AL%3A2023%3A019%3AFULL&uri=uriserv%3AOJ.L_.2023.019.01.0043.01.DEU>`_
 
-**GovData:** `Hochwertige Datensätze - Die EU-Kommission verpflichtet seine Mitgliedsstaaten zur Freigabe hochwertiger Datensätze <https://www.govdata.de/neues/-/blogs/hochwertige-datensatze>`_
+**GovData:** `Hochwertige Datensätze - Die EU-Kommission verpflichtet seine Mitgliedsstaaten zur Freigabe hochwertiger Datensätze <https://www.govdata.de/informationen/hochwertige-datensaetze>`_
 
 
 INSPIRE-Richtlinie
@@ -111,45 +109,51 @@ Hier einige wichtige Informationen dazu:
 Konzeption, Koordinierung und Kontrolle des InVeKoS erfolgen durch die Europäische Kommission. Für die konkrete Umsetzung sind die EU-Mitgliedstaaten zuständig.
 
 
-Geologiedatengesetz
-^^^^^^^^^^^^^^^^^^^
+**EUR-Lex:** `Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 <https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32013R1305>`_
+
+
+
+Geologiedatengesetz (GEOLDG)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Das Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, Sicherung und öffentlichen Bereitstellung geologischer Daten und zur Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben (Geologiedatengesetz - GeolDG) vom 19.06.2020 verpflichtet die zuständige Behörde (hier das Landesamt für Geologie und Bergwesen Sachsen-Anhalt) zur öffentlichen Bereitstellung bestimmter geologischer Daten.
 
+**Bundesministerium dser Justiz / Bundesamt der Justiz:** `Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, Sicherung und öffentlichen Bereitstellung geologischer Daten und zur Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben <https://www.gesetze-im-internet.de/geoldg/>`_
+
+
+**Landesamt für Geologie und bergwesen Sachsen-Anhalt:** `Geologiedatengesetz FAQ <https://lagb.sachsen-anhalt.de/geologie/geologiedatengesetz/geologiedatengesetz-faq>`_
 
 
 
 Landesrecht Sachsen-Anhalt
 ---------------------------
 
-Informationszugangsgesetz
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Informationszugangsgesetz Sachsen-Anhalt (IZG LSA)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Das Informationszugangsgesetz des Landes Sachsen-Anhalt (IZG LSA) regelt den Zugang zu amtlichen Informationen. Danach hat jedermann Anspruch auf Zugang zu Informationen der Behörden des Landes Sachsen-Anhalt, der Gemeinden, Gemeindeverbände und sonstiger öffentlich-rechtlicher Stellen. Die Informationen können durch Auskunftserteilung, Akteneinsicht oder in sonstiger Weise zugänglich gemacht werden. Es gibt jedoch Ausnahmen, z. B. wenn das Bekanntwerden der Informationen nachteilige Auswirkungen auf internationale Beziehungen, die Sicherheit oder laufende Gerichtsverfahren haben könnte. Weitere Einzelheiten können dem Gesetzestext entnommen werden.
 
 `Informationszugangsgesetz Sachsen-Anhalt (IZG LSA) vom 19. Juni 2008 <https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-InfZGSTrahmen>`_
 
 
-Umweltinformationsgesetz
-^^^^^^^^^^^^^^^^^^^^^^^^
+Umweltinformationsgesetz des Landes Sachsen-Anhalt (UIG LSA)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Das Umweltinformationsgesetz des Landes Sachsen-Anhalt (UIG LSA), das am 18. Februar 2006 in Kraft getreten ist, ermöglicht den Zugang zu Umweltinformationen. Jede natürliche oder juristische Person kann Informationen über Umweltbestandteile wie Luft, Wasser, Boden, biologische Vielfalt und Umweltfaktoren beantragen. Die Behörde kann den Antrag ablehnen, wenn die Daten nicht vorliegen oder aus allgemein zugänglichen Quellen beschafft werden können. Weitere Einzelheiten können dem Gesetzestext entnommen werden.
 
 `Umweltinformationsgesetz des Landes Sachsen-Anhalt (UIG LSA) vom 14. Februar 2006 <https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-UIGSTrahmen>`_
 
 
-Geodateninfrastrukturgesetz
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Geodateninfrastrukturgesetz für das Landes Sachsen-Anhalt (GDIG LSA)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Das Geodateninfrastrukturgesetz des Landes Sachsen-Anhalt (GDIG LSA) regelt den Aufbau und Betrieb der Geodateninfrastruktur Sachsen-Anhalt (GDI-LSA). Sie ist Teil der nationalen Geodateninfrastruktur und ermöglicht grundsätzlich den Zugang der Öffentlichkeit zu Geodaten und Geodatendiensten. Es schränkt den Zugang jedoch datenschutzrechtlich ein, insbesondere wenn personenbezogene Daten offenbart werden und schutzwürdige Interessen der Betroffenen beeinträchtigt werden könnten. Weitere Einzelheiten können dem Gesetzestext entnommen werden. Das GDIG LSA setzt die INSPIRE-Richtlinie in nationales Recht um.
-
 
 `Geodateninfrastrukturgesetz für das Land Sachsen-Anhalt (GDIG LSA) vom 14. Juli 2009 <https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-GDIGSTrahmen>`_
 
 
-Landesentwicklungsgesetz Sachsen-Anhalt
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Landesentwicklungsgesetz Sachsen-Anhalt (LEntwG LSA)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Das Landesentwicklungsgesetz Sachsen-Anhalt (LEntwG LSA) vom 23. April 2015 verpflichtet die zuständigen Stellen, Auszüge aus dem Amtlichen Raumordnungs-Informationssystem in definierten Standards mit den Geodatendiensten des Landes über das Geodatenportal und das Geodatennetzwerk des Landes bereitzustellen.
-
 
 `Landesentwicklungsgesetz Sachsen-Anhalt (LEntwG LSA) vom 23. April 2015 <https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-LEntwGSTrahmen>`_
