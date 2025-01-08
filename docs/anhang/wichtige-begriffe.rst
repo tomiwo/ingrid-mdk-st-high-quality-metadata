@@ -113,6 +113,22 @@ Das Ziel einer Geodateninfrastruktur ist es, Geodaten unterschiedlicher Herkunft
 Geographisches Informationssystem (GIS)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Ein geographisches Informationssystem (GIS) ist ein computergestütztes System zur Erfassung, Bearbeitung, Analyse und Präsentation von raumbezogenen Daten. Es besteht aus Hardware, Software, Daten und Anwendungen. 
+
+Ein GIS ermöglicht es, räumliche Informationen digital zu verarbeiten und zu visualisieren.
+
+Es kann:
+
+- Geodaten erfassen und speichern
+- Daten organisieren und verwalten
+- Räumliche Analysen durchführen
+- Ergebnisse in Form von Karten oder Diagrammen präsentieren
+
+Die Besonderheit eines GIS liegt in der Verknüpfung von Geometriedaten (Form und Lage von Geoobjekten) mit Sachdaten (beschreibende Informationen). Dies erlaubt komplexe räumliche Abfragen und Analysen, die Zusammenhänge sichtbar machen, die in Tabellen oder Listen nicht erkennbar wären.
+
+GIS findet Anwendung in vielen Bereichen wie Stadtplanung, Umweltschutz, Logistik, Marketing und Katastrophenmanagement. Es ermöglicht fundierte Entscheidungen basierend auf räumlichen Daten und deren Visualisierung.
+
+
 -----------------------------------------------------------------------------------------------
 
 Geodatenportal Sachsen-Anhalt
