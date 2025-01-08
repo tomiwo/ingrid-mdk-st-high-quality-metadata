@@ -1,5 +1,5 @@
 
-Erklärung wichtiger Begriffe
+Erklärungen wichtiger Begriffe
 =============================
 
 Glossar / Schlagwörter / Schlüsselwörter / Keywords
@@ -43,7 +43,7 @@ Metadatenqualität
 
 
 
-Erklärung zu GeoBegriffen Begriffen
+Erklärungen zu GeoBegriffen Begriffen
 -----------------------------------
 
 Geodatenportal Sachsen-Anhalt
