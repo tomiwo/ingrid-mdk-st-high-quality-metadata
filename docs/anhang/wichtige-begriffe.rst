@@ -16,7 +16,7 @@ Eine Ressource in Bezug auf Metadaten ist ein Objekt oder eine Informationseinhe
 Ressourcen können verschiedene Formen annehmen:
 
 | **Digitale Objekte:** Webdokumente, Bilder, Videos, PDFs und andere Dateitypen.
-| **Physische Objekte** Bücher, Gemälde oder andere materielle Gegenstände, die digital katalogisiert werden.
+| **Physische Objekte:** Bücher, Gemälde oder andere materielle Gegenstände, die digital katalogisiert werden.
 | **Konzepte:** Abstrakte Ideen oder Themen, die durch Metadaten strukturiert beschrieben werden.
 | **Personen und Organisationen:** Individuen oder Gruppen, deren Informationen in Metadatensystemen erfasst werden.
 | **Orte und Gebäude:** Geografische Lokationen oder Bauwerke, die durch Metadaten beschrieben werden.
