@@ -5,7 +5,7 @@ Glossar
 Schlagwörter / Schlüsselwörter / Keywords
 
 
-Erklärungen von allgemeinen Begriffen
+Erklärungen zu allgemeinen Begriffen
 -------------------------------------
 
 Daten
