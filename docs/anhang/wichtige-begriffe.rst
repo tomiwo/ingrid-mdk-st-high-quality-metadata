@@ -5,8 +5,8 @@ Glossar
 Schlagwörter / Schlüsselwörter / Keywords
 
 
-Erklärungen wichtiger Begriffe
-------------------------------
+Erklärungen von Begriffen
+-------------------------
 
 Daten
 ^^^^^
