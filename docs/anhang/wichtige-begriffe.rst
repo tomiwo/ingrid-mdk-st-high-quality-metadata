@@ -38,6 +38,9 @@ Datensatz
 Datenserie
 """"""""""
 
+Datensammlungen
+"""""""""""""""
+
 Datenqualität
 ^^^^^^^^^^^^^
 
