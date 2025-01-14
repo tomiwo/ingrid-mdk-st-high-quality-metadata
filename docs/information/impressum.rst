@@ -3,7 +3,7 @@
 Impressum
 ----------
 
-Koordinierungstelle Metadaten
+Koordinierungstelle Metadaten im
 Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt des Landes Sachsen-Anhalt
 Leipziger Straße 58
 39112 Magdeburg
