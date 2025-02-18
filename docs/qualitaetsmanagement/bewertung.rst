@@ -26,9 +26,6 @@ Tim Berners-Lee, Direktor des World Wide Web Consortiums (W3C), entwickelte das 
 
 Die Stufen sind kaskadierend: Damit ein Datensatz beispielsweise eine Drei-Sterne- Bewertung erhalten kann, müssen die Stufen eins bis drei vollständig erfüllt sein. Nachfolgend werden die einzelnen Stufen inklusive der Mehrwerte für Nutzerinnen und Nutzer sowie Datenanwenderinnen und Datenanwender vorgestellt. 
 
-hint:: Weiterführende Informationen und Beispiele für die Umsetzung der einzelnen Stufen finden sich unter: https://5stardata.info/de/.
-
-
 
 **☆ Offene Lizenz**
 
@@ -109,24 +106,24 @@ Das 5-Sterne-Modell trägt zur Weiterverwendbarkeit von offenen Daten bei. Die e
 Abb.: 5-Sterne-Modell von Tim Berners-Lee - Stufen
 
 
-*Quellenangabe: *11* Hausenblas, M. (2012): 5 ★ Open Data. Zuletzt aufgerufen im August 2019 unter https://5stardata.info/de/.*
-
-
 Eine Übersicht über maschineninterpretierbare und offene Formate liefern die folgenden Punkte (keine abschließende Aufzählung).
 
 
-**Maschinenlesbarkeit *12*:**
+**Maschinenlesbarkeit (12):**
 
 - Gar nicht bis gering: PDF, DOC, DOCX, GIF, JPG, JPEG, PNG, TIFF, GeoTIFF, ODT
 - Überwiegend: TXT, RTF, ODS, XLS, CSV, HTML, XLSX
 - Vollständig: XML, RDF, RSS, KMZ, DXF, GPX, GML
 
 
-**Offene Standards *13*:**
+**Offene Standards (13):**
 
 - Proprietäre Formate: XLS, DOC, PPT
 - Standardisierte, aber nicht offene Formate: RTF, GIF, JPG/JPEG, TIFF, GeoTIFF, DXF, GPX
 - Standardisierte, offene Formate: TXT, CSV, HTML, XML, RDF, ODT, ODS, RSS, XLSX, PDF, PNG, DOCX, KMZ, GML
+
+
+hint:: Weiterführende Informationen und Beispiele für die Umsetzung der einzelnen Stufen finden sich unter: https://5stardata.info/de/.
 
 
 Bewertung der Daten und der Metadatenqualität
@@ -143,5 +140,5 @@ hint: Verweis zum OpenData Ranking der Open Knowledge Foundation unter: https://
 
 
 
-*Quelle für dieses Dokument: https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019*
+*Quelleangabe für diesen Abschnitt: https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019*
 *Quellenangaben im Text: https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html*
