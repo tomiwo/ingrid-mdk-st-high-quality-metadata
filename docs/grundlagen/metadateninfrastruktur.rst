@@ -174,4 +174,6 @@ Die Suche nach Metadaten im Geoportal Sachsen-Anhalt dient dazu, Geodatensätze,
    :maxdepth: 1
    :caption: Harvesting
 
-   /harvesting-prozess.rst
+   harvesting-prozess.rst
+
+   ----------------------------------------------------------------------------------------------------------------------
