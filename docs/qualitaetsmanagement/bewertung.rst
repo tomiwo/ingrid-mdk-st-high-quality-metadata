@@ -2,18 +2,17 @@
 Bewertung der Daten- und der Metadatenqualität
 ===============================================
 
-Qualität der Offenheit und der Verwendbarkeit von Daten
---------------------------------------------------------
-
 Das Fraunhofer-Institut für Offene Kommunikationssysteme (FOKUS) hat in einem „Leitfaden für qualitativ Hochwertige Daten und Metadaten“ von 2019, unter Punkt 4 ein „Bewertungsschemata für die Qualität von Daten veröffentlicht. Hier ein Auszug aus diesem Dokument:
 
+Im Folgenden werden zwei Bewertungsschemata für die Qualität von Daten vorgestellt:
 
-Im Folgenden werden zwei Bewertungsschemata für die Qualität von Daten vorgestellt: 
-Das »5-Sterne-Modell« von Tim Berners-Lee, welches Daten allgemein in Hinblick auf ihre Offenheit und Verwendbarkeit bewertet und der »Global Open Data Index«, der speziell Qualitätsaspekte von Open Data betrachtet.
+| Das »5-Sterne-Modell« von Tim Berners-Lee, welches Daten allgemein in Hinblick auf ihre Offenheit und Verwendbarkeit bewertet
+| Der »Global Open Data Index«, der speziell Qualitätsaspekte von Open Data betrachtet.
 
 
+Qualität der Offenheit und der Verwendbarkeit von Daten - 5-Sterne-Modell
+-------------------------------------------------------------------------
 
-**5-Sterne-Modell**
 
 Tim Berners-Lee, Direktor des World Wide Web Consortiums (W3C), entwickelte das 5- Sterne Modell im Jahr 2001. 10 Das Modell bewertet die technische Verwendbarkeit und Zugänglichkeit von Datensätzen. Die einzelnen Stufen des 5-Sterne-Modells werden nachfolgend erläutert:
 
@@ -27,7 +26,7 @@ Tim Berners-Lee, Direktor des World Wide Web Consortiums (W3C), entwickelte das 
 
 Die Stufen sind kaskadierend: Damit ein Datensatz beispielsweise eine Drei-Sterne- Bewertung erhalten kann, müssen die Stufen eins bis drei vollständig erfüllt sein. Nachfolgend werden die einzelnen Stufen inklusive der Mehrwerte für Nutzerinnen und Nutzer sowie Datenanwenderinnen und Datenanwender vorgestellt. 
 
-Weiterführende Informationen und Beispiele für die Umsetzung der einzelnen Stufen finden sich unter: https://5stardata.info/de/.
+hint:: Weiterführende Informationen und Beispiele für die Umsetzung der einzelnen Stufen finden sich unter: https://5stardata.info/de/.
 
 
 
@@ -40,9 +39,6 @@ Der erste Stern wird – unabhängig von der eigentlichen Datenqualität – an 
 
 - Nutzende können den Datensatz lokal speichern, ändern und teilen.
 - Datenbereitsteller können mit geringem Aufwand einmalig festlegen, dass die Daten weiterverwendet werden dürfen.
-
-
-*Quellenangabe: *10* Weitere Informationen unter http://5stardata.info/en/.*
 
 
 
@@ -113,7 +109,7 @@ Das 5-Sterne-Modell trägt zur Weiterverwendbarkeit von offenen Daten bei. Die e
 Abb.: 5-Sterne-Modell von Tim Berners-Lee - Stufen
 
 
-*Quellenangabe: *11* Hausenblas, M. (2012): 5 ★ Open Data. Zuletzt aufgerufen im August 2019 unter https://5stardata.info/en/.*
+*Quellenangabe: *11* Hausenblas, M. (2012): 5 ★ Open Data. Zuletzt aufgerufen im August 2019 unter https://5stardata.info/de/.*
 
 
 Eine Übersicht über maschineninterpretierbare und offene Formate liefern die folgenden Punkte (keine abschließende Aufzählung).
@@ -133,19 +129,6 @@ Eine Übersicht über maschineninterpretierbare und offene Formate liefern die f
 - Standardisierte, offene Formate: TXT, CSV, HTML, XML, RDF, ODT, ODS, RSS, XLSX, PDF, PNG, DOCX, KMZ, GML
 
 
-*Quellenangaben:* 
-
-*12 Siehe Klessmann, J.; Denker, P.; Schulz, S. E.; u. a.; Bundesministerium des Innern (Hrsg.) (2012): Open Government Data Deutschland. Zuletzt aufgerufen im August 2019 unter: https://www.verwaltung-innovativ.de/SharedDocs/Publikationen/eGovernment/open_government_data_d  eutschland_langfassung.pdf? blob=publicationFile&v=5.*
-
-*13 Siehe ebd.*
-
-*14 Weitere Informationen unter https://opendefinition.org/od/2.1/en/.*
-
-*Quelle für dieses Dokument: https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019*
-
-
-
-
 Bewertung der Daten und der Metadatenqualität
 ----------------------------------------------
 
@@ -156,13 +139,9 @@ Der Global Open Data Index wird kontinuierlich von der Open Knowledge Foundation
 Der Global Open Data Index bewertet anhand verschiedener Fragen die Qualität von ausgewählten nationalen Regierungsdaten diverser Länder. Als Ergebnis der Bewertung erhalten die Länder einen »Score« für die Daten (höchstens 100%), sodass ein Ranking bezüglich der Qualität der untersuchten Datensätze entsteht. 40 Punkte können in dem Bereich der rechtlichen und technischen Offenheit der Datensätze erzielt werden, während Aspekte wie rechtzeitige Veröffentlichung, Verfügbarkeit und Zugänglichkeit mit insgesamt bis zu 60 Punkten bewertet werden.
 
 
+hint: Verweis zum OpenData Ranking der Open Knowledge Foundation unter: https://opendata.okfn.de/
 
-Verweis zum OpenData Ranking der Open Knowledge Foundation unter: https://opendata.okfn.de/
 
 
-Quellenangaben:
-
-12 Siehe Klessmann, J.; Denker, P.; Schulz, S. E.; u. a.; Bundesministerium des Innern (Hrsg.) (2012): Open Government Data Deutschland. Zuletzt aufgerufen im August 2019 unter
-https://www.verwaltung-innovativ.de/SharedDocs/Publikationen/eGovernment/open_government_data_d  eutschland_langfassung.pdf? blob=publicationFile&v=5.
-13 Siehe ebd.
-14 Weitere Informationen unter https://opendefinition.org/od/2.1/en/.
+*Quelle für dieses Dokument: https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019*
+*Quellenangaben im Text: https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html*
