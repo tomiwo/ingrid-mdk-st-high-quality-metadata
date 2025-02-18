@@ -106,7 +106,7 @@ Das 5-Sterne-Modell trägt zur Weiterverwendbarkeit von offenen Daten bei. Die e
 Abb.: 5-Sterne-Modell von Tim Berners-Lee - Stufen
 
 
-Eine Übersicht über maschineninterpretierbare und offene Formate liefern die folgenden Punkte (keine abschließende Aufzählung).
+Eine Übersicht über maschineninterpretierbare und offene Formate liefern die folgenden Punkte:
 
 
 **Maschinenlesbarkeit (12):**
@@ -126,19 +126,18 @@ Eine Übersicht über maschineninterpretierbare und offene Formate liefern die f
 hint:: Weiterführende Informationen und Beispiele für die Umsetzung der einzelnen Stufen finden sich unter: https://5stardata.info/de/.
 
 
-Bewertung der Daten und der Metadatenqualität
-----------------------------------------------
 
-**Global Open Data Index**
+Global Open Data Index
+----------------------
 
 Der Global Open Data Index wird kontinuierlich von der Open Knowledge Foundation erhoben. Der Index misst das Maß an Offenheit staatlicher bzw. öffentlicher (Verwaltungs-)Daten auf nationaler Ebene. Bezüglich der Definition offener Daten lehnt sich der Index an die Open Definition *14* an, die bspw. Prinzipien der offenen Lizenzierung, der Zugänglichkeit, dem Format sowie der Maschinenlesbarkeit formuliert.
 
 Der Global Open Data Index bewertet anhand verschiedener Fragen die Qualität von ausgewählten nationalen Regierungsdaten diverser Länder. Als Ergebnis der Bewertung erhalten die Länder einen »Score« für die Daten (höchstens 100%), sodass ein Ranking bezüglich der Qualität der untersuchten Datensätze entsteht. 40 Punkte können in dem Bereich der rechtlichen und technischen Offenheit der Datensätze erzielt werden, während Aspekte wie rechtzeitige Veröffentlichung, Verfügbarkeit und Zugänglichkeit mit insgesamt bis zu 60 Punkten bewertet werden.
 
 
-hint: Verweis zum OpenData Ranking der Open Knowledge Foundation unter: https://opendata.okfn.de/
+hint:: Verweis zum OpenData Ranking der Open Knowledge Foundation unter: https://opendata.okfn.de/
 
 
-
-*Quelleangabe für diesen Abschnitt: https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019*
-*Quellenangaben im Text: https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html*
+Quelleangaben für diesen Abschnitt:
+| *Fraunhofer FOKUS - Leitfaden für hochwertige Daten und Metadaten veröffentlicht: https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019*
+| *Quellenangaben im Text unter: https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html*
