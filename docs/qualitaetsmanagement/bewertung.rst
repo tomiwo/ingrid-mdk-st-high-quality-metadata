@@ -149,7 +149,7 @@ Verweise:
 | Open Knowledge Foundation (OKFN): https://opendata.okfn.de/
 
 
-*Quelleangaben für diesen Abschnitt:*
+*Quelleangaben:*
 
-- *`Fraunhofer FOKUS »Leitfaden für hochwertige Daten und Metadaten (2019)« <https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019>`_*
-- *`Quellenangaben für diesen Text <https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html>`_*
+- `Fraunhofer FOKUS »Leitfaden für hochwertige Daten und Metadaten (2019)« <https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019>`_
+- `Quellenangaben für diesen Text <https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html>`_
