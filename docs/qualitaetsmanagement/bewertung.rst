@@ -1,4 +1,5 @@
 
+==============================================
 Bewertung der Daten- und der Metadatenqualität
 ===============================================
 
@@ -8,6 +9,8 @@ Im Folgenden werden zwei Bewertungsschemata für die Qualität von Daten vorgest
 
 - Das »5-Sterne-Modell« von Tim Berners-Lee, welches Daten allgemein in Hinblick auf ihre Offenheit und Verwendbarkeit bewertet.
 - Der »Global Open Data Index«, der speziell Qualitätsaspekte von Open Data betrachtet.
+
+---------------------------------------------------------------------------------------------------------
 
 
 Qualität der Offenheit und der Verwendbarkeit von Daten - 5-Sterne-Modell

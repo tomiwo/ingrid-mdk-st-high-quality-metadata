@@ -1,7 +1,7 @@
 
-----------
+==========
 Impressum
-----------
+==========
 
 | Koordinierungstelle Metadaten im
 | Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt des Landes Sachsen-Anhalt
