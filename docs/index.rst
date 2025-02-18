@@ -41,13 +41,13 @@ Hinweis: Die Inhalte wurden teilweise mit künstlicher Intelligenz (KI) generier
    qualitaetsmanagement/bewertung.rst
    qualitaetsmanagement/bereitstellung.rst
    qualitaetsmanagement/metadatenschema-ige.rst
+   qualitaetsmanagement/checkliste.rst
 
 .. toctree::
    :maxdepth: 3
    :caption: Anhang
 
    anhang/rechtliche-grundlagen.rst
-   anhang/checkliste.rst
    anhang/links.rst
    anhang/harvesting-prozess.rst
    anhang/wichtige-begriffe.rst
