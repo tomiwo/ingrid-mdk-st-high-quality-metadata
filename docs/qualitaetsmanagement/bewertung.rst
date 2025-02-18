@@ -6,8 +6,8 @@ Das Fraunhofer-Institut für Offene Kommunikationssysteme (FOKUS) hat in einem �
 
 Im Folgenden werden zwei Bewertungsschemata für die Qualität von Daten vorgestellt:
 
-| Das »5-Sterne-Modell« von Tim Berners-Lee, welches Daten allgemein in Hinblick auf ihre Offenheit und Verwendbarkeit bewertet.
-| Der »Global Open Data Index«, der speziell Qualitätsaspekte von Open Data betrachtet.
+- Das »5-Sterne-Modell« von Tim Berners-Lee, welches Daten allgemein in Hinblick auf ihre Offenheit und Verwendbarkeit bewertet.
+- Der »Global Open Data Index«, der speziell Qualitätsaspekte von Open Data betrachtet.
 
 
 Qualität der Offenheit und der Verwendbarkeit von Daten - 5-Sterne-Modell
@@ -107,14 +107,14 @@ Das 5-Sterne-Modell trägt zur Weiterverwendbarkeit von offenen Daten bei. Die e
 
 .. figure:: ../img/beschaffenheit/daten/5-sterne-modell.png
    :alt: Stufen 5-Sterne-Modell
-   :align: right
+   :align: left
    :scale: 70
    :figwidth: 100%
 
 Abb.: 5-Sterne-Modell von Tim Berners-Lee - Stufen
 
 
-Eine Übersicht über maschineninterpretierbare und offene Formate liefern die folgenden Punkte:
+Die folgenden Punkte geben einen Überblick über einige maschinenlesbare und offene Formate:
 
 
 **Maschinenlesbarkeit (12):**
