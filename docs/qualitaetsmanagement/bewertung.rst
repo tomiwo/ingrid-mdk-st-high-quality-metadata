@@ -146,4 +146,4 @@ Der Global Open Data Index bewertet anhand verschiedener Fragen die Qualität vo
 *Quellenangaben:*
 
 - `Fraunhofer FOKUS »Leitfaden für hochwertige Daten und Metadaten (2019)« <https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019>`_
-- `Quellen zum Inhalt <https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html>`
+- `Quellen zum Inhalt <https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html>`_
