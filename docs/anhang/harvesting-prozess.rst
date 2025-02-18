@@ -29,51 +29,54 @@ Harvesting ist das systematische Sammeln (Ernten) von Informationen aus verschie
 | **Datenformate:** Die gesammelten Informationen werden in bestimmten Formaten (XML) gespeichert, die leicht zu lesen und zu verarbeiten sind.
 
 
------------------------------------
+------------------------------------------------------------------------------------------------------------
+
 Aktualisierungszyklen der Metadaten
 -----------------------------------
 
-| Indexierung des InGrid Editors für das METAVER-Portal: im laufenden Betrieb
-| Indexierung für die CSW-Schnittstelle - Redaktionsschluss: täglich 17:00 Uhr
-| Indexierung für die CSW-Schnittstelle: täglich 01:30 Uhr
-| Harvesting von METAVER durch den Geodatenkatalog der GDI-DE: täglich 17:35 Uhr
-| Harvesting Geodatenkatalog.de durch das Geoportal der GDI-DE: 
-| Harvesting Geodatenkatalog.de durch das INSPIRE Geoportal: 
-| Harvesting Geodatenkatalog.de durch das Europäisches Datenportal: 
+- Indexierung des InGrid Editors für das METAVER-Portal: im laufenden Betrieb
+- Indexierung für die CSW-Schnittstelle - Redaktionsschluss: täglich 17:00 Uhr
+- Indexierung für die CSW-Schnittstelle: täglich 01:30 Uhr
+- Harvesting von METAVER durch den Geodatenkatalog der GDI-DE: täglich 17:35 Uhr
+- Harvesting Geodatenkatalog.de durch das Geoportal der GDI-DE: 
+- Harvesting Geodatenkatalog.de durch das INSPIRE Geoportal: 
+- Harvesting Geodatenkatalog.de durch das Europäisches Datenportal: 
 
 
-------------------------------
+-------------------------------------------------------------------------------------------------------------
+
 Portale die METAVER harvesten
 ------------------------------
 
 **Bundesebene**
 
-| Geodatenkatalog.de (GDI-DE) - https://gdk.gdi-de.org/gdi-de/srv/ger/catalog.search#/home
-| GovData - https://www.govdata.de/
-| Suche im Umwelt.info (UBA) - https://umwelt.info/de/suche
+- Geodatenkatalog.de (GDI-DE) - https://gdk.gdi-de.org/gdi-de/srv/ger/catalog.search#/home
+- GovData - https://www.govdata.de/
+- Suche im Umwelt.info (UBA) - https://umwelt.info/de/suche
 
 
 **Landesebene**
 
-| Geodatenportal Sachsen-Anhalt - https://geodatenportal.sachsen-anhalt.de/gfds/de/gdp-geodatensuche.html
-| Suche im Landesportal https://sachsen-anhalt.de/
-| Suche im Umweltportal Sachsen-Anhalt - https://umwelt.sachsen-anhalt.de/
+- Geodatenportal Sachsen-Anhalt - https://geodatenportal.sachsen-anhalt.de/gfds/de/gdp-geodatensuche.html
+- Suche im Landesportal https://sachsen-anhalt.de/
+- Suche im Umweltportal Sachsen-Anhalt - https://umwelt.sachsen-anhalt.de/
 
 
---------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
+
 Portale die den Geodatenkatalog.de der GDI-DE harvesten
 --------------------------------------------------------
 
 **Bundesebene**
 
-| Geoportal.de (GDI-DE) - https://geoportal.de/
-| MetadatenInformationsSystem der AdV - https://advmis.geodatenzentrum.de/
+- Geoportal.de (GDI-DE) - https://geoportal.de/
+- MetadatenInformationsSystem der AdV - https://advmis.geodatenzentrum.de/
 
 
 **Europäische Ebene**
 
-| INSPIRE Geoportal - https://inspire-geoportal.ec.europa.eu/
-| Europäisches Datenportal - https://data.europa.eu/de
-| Global Earth Observation System of Systems (GEOSS) - https://www.geoportal.org/
+- INSPIRE Geoportal - https://inspire-geoportal.ec.europa.eu/
+- Europäisches Datenportal - https://data.europa.eu/de
+- Global Earth Observation System of Systems (GEOSS) - https://www.geoportal.org/
 
 ---------------------------------------------------------------
