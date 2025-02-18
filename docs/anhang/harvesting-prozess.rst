@@ -25,7 +25,12 @@ Indexierung & Harvesting der Metadatenkataloge ST
 
 **Harvesting der Metadatenkataloge ST**
 
-- Harvesting von METAVER durch den Geodatenkatalog der GDI-DE: täglich 17:35 Uhr
+- Harvesting der CSW-Schnittstelle METAVER durch den Geodatenkatalog der GDI-DE: täglich 17:35 Uhr
+- Harvesting der CSW-Schnittstelle METAVER durch GovData:
+
+
+**Harvesting Geodatenkatalog.de**
+
 - Harvesting Geodatenkatalog.de durch das Geoportal der GDI-DE: 
 - Harvesting Geodatenkatalog.de durch das INSPIRE Geoportal: 
 - Harvesting Geodatenkatalog.de durch das Europäisches Datenportal: 
