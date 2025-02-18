@@ -131,7 +131,7 @@ Die folgenden Punkte geben einen Überblick über einige maschinenlesbare und of
 - Standardisierte, offene Formate: TXT, CSV, HTML, XML, RDF, ODT, ODS, RSS, XLSX, PDF, PNG, DOCX, KMZ, GML
 
 
-.. hint:: Weiterführende Informationen und Beispiele für die Umsetzung der einzelnen Stufen finden sich unter: https://5stardata.info/de/.
+.. hint:: Weitere Informationen und Beispiele zur Umsetzung der einzelnen Schritte unter: `5 ★ Open Data <https://5stardata.info/de/`_ .
 
 
 
@@ -146,4 +146,4 @@ Der Global Open Data Index bewertet anhand verschiedener Fragen die Qualität vo
 *Quellenangaben:*
 
 - `Fraunhofer FOKUS »Leitfaden für hochwertige Daten und Metadaten (2019)« <https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019>`_
-- `Quellen zum Inhalt <https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html>`_
+- `Quellen zum Inhalt <https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html>`
