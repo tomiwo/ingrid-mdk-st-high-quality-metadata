@@ -17,17 +17,17 @@ Qualität der Offenheit und der Verwendbarkeit von Daten - 5-Sterne-Modell
 Tim Berners-Lee, Direktor des World Wide Web Consortiums (W3C), entwickelte das 5- Sterne Modell im Jahr 2001. (10) Das Modell bewertet die technische Verwendbarkeit und Zugänglichkeit von Datensätzen. Die einzelnen Stufen des 5-Sterne-Modells werden nachfolgend erläutert:
 
 
-| **☆ Offene Lizenz**
-| **☆ ☆ Wiederverwendbares Format**
-| **☆ ☆ ☆ Offenes Format**
-| **☆ ☆ ☆ ☆ Eindeutige Identifizierung (durch URIs)**
-| **☆ ☆ ☆ ☆ ☆ Vernetzung mit anderen Daten**
+| **★ Offene Lizenz**
+| **★★ Wiederverwendbares Format**
+| **★★★ Offenes Format**
+| **★★★★ Eindeutige Identifizierung (durch URIs)**
+| **★★★★★ Vernetzung mit anderen Daten**
 
 
 Die Stufen sind kaskadierend: Damit ein Datensatz beispielsweise eine Drei-Sterne- Bewertung erhalten kann, müssen die Stufen eins bis drei vollständig erfüllt sein. Nachfolgend werden die einzelnen Stufen inklusive der Mehrwerte für Nutzerinnen und Nutzer sowie Datenanwenderinnen und Datenanwender vorgestellt. 
 
 
-**☆ Offene Lizenz**
+**★ Offene Lizenz**
 
 Der erste Stern wird – unabhängig von der eigentlichen Datenqualität – an Datensätze verliehen, welche unter einer offenen Lizenz zur Verfügung gestellt werden. Dies bedeutet, dass der Datensatz für kommerzielle und nicht-kommerzielle Zwecke verwendet werden darf.
 
@@ -39,7 +39,7 @@ Der erste Stern wird – unabhängig von der eigentlichen Datenqualität – an 
 
 
 
-**☆☆ Wiederverwendbares Format**
+**★★ Wiederverwendbares Format**
 
 Ist ein Datensatz neben der offenen Lizenz zusätzlich leicht wiederverwendbar, erhält er zwei Sterne. Eine einfache Wiederverwendbarkeit wird durch die Nutzung von maschinenlesbaren Formaten, wie z.B. Microsoft Excel, erreicht.
 
@@ -52,8 +52,16 @@ Nutzende können:
 - die Daten in ein anderes Format exportieren.
 
 
+**★★★ Offenes Format**
 
-**☆☆☆☆ Eindeutige Identifizierung**
+Zur Erreichung der dritten Stufe muss der Datensatz unter einer offenen Lizenz in einem wiederverwendbaren, nicht proprietären Format bereitgestellt werden. Die Verwendung eines nicht proprietären Formates bedeutet, dass der Datensatz unabhängig von einer spezifischen Software verwendet werden kann.
+
+**Mehrwerte:**
+
+- Nutzende können den Datensatz verarbeiten, ohne eine proprietäre Software verwenden zu müssen.
+
+
+**★★★★ Eindeutige Identifizierung**
 
 Die vierte Stufe erreicht ein Datensatz, sofern er unter einer offenen Lizenz in einem wiederverwendbaren, offenen Format zur Verfügung gestellt und zusätzlich eindeutig identifiziert wird, z.B. durch die Verwendung von URIs (Uniform Resource Identifiers).
 
@@ -76,7 +84,7 @@ Datenbereitsteller können:
 - Verlinkungen von anderen Datenherausgebern zu den Daten erhalten.
 
 
-**☆☆☆☆☆ Vernetzung mit anderen Daten**
+**★★★★★ Vernetzung mit anderen Daten**
 
 Ein Datensatz erreicht die letzte Stufe, wenn alle vorherigen Stufen erreicht wurden und zusätzlich eine Verlinkung der Daten mit anderen Daten erfolgt. Diese Verlinkung ermöglicht es, den Datensatz in einen Kontext zu stellen und zwischen verschiedenen Datenpunkten zu navigieren.
 
