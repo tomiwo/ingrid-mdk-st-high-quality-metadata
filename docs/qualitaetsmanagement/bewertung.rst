@@ -127,15 +127,16 @@ Eine Übersicht über maschineninterpretierbare und offene Formate liefern die f
 
 
 
-Global Open Data Index
-----------------------
+Global Open Data Index der Open Knowledge Foundation
+-----------------------------------------------------
 
 Der Global Open Data Index wird kontinuierlich von der Open Knowledge Foundation erhoben. Der Index misst das Maß an Offenheit staatlicher bzw. öffentlicher (Verwaltungs-)Daten auf nationaler Ebene. Bezüglich der Definition offener Daten lehnt sich der Index an die Open Definition (14) an, die bspw. Prinzipien der offenen Lizenzierung, der Zugänglichkeit, dem Format sowie der Maschinenlesbarkeit formuliert.
 
 Der Global Open Data Index bewertet anhand verschiedener Fragen die Qualität von ausgewählten nationalen Regierungsdaten diverser Länder. Als Ergebnis der Bewertung erhalten die Länder einen »Score« für die Daten (höchstens 100%), sodass ein Ranking bezüglich der Qualität der untersuchten Datensätze entsteht. 40 Punkte können in dem Bereich der rechtlichen und technischen Offenheit der Datensätze erzielt werden, während Aspekte wie rechtzeitige Veröffentlichung, Verfügbarkeit und Zugänglichkeit mit insgesamt bis zu 60 Punkten bewertet werden.
 
 
-.. hint:: Verweise: 
+Verweise: 
+
 | Open Knowledge Foundation (OKFN): https://opendata.okfn.de/
 | OpenData Ranking (OKFN): https://opendataranking.de 
 
