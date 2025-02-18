@@ -135,7 +135,7 @@ Der Global Open Data Index wird kontinuierlich von der Open Knowledge Foundation
 Der Global Open Data Index bewertet anhand verschiedener Fragen die Qualität von ausgewählten nationalen Regierungsdaten diverser Länder. Als Ergebnis der Bewertung erhalten die Länder einen »Score« für die Daten (höchstens 100%), sodass ein Ranking bezüglich der Qualität der untersuchten Datensätze entsteht. 40 Punkte können in dem Bereich der rechtlichen und technischen Offenheit der Datensätze erzielt werden, während Aspekte wie rechtzeitige Veröffentlichung, Verfügbarkeit und Zugänglichkeit mit insgesamt bis zu 60 Punkten bewertet werden.
 
 
-.. hint:: Verweis zum OpenData Ranking der Open Knowledge Foundation unter: https://opendata.okfn.de/
+.. hint:: Verweis zum OpenData Ranking der Open Knowledge Foundation unter: https://opendata.okfn.de/ / https://opendataranking.de 
 
 
 Quelleangaben für diesen Abschnitt:
