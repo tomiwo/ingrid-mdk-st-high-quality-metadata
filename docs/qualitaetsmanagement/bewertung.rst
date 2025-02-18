@@ -143,5 +143,7 @@ Verweise:
 
 Quelleangaben für diesen Abschnitt:
 
-- *Fraunhofer FOKUS - Leitfaden für hochwertige Daten und Metadaten veröffentlicht:* https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019
-- *Quellenangaben im Text unter:* https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html
+- *Fraunhofer FOKUS - Leitfaden für hochwertige Daten und Metadaten veröffentlicht:* 
+- https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019
+- *Quellenangaben im Text unter:*
+-  https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html
