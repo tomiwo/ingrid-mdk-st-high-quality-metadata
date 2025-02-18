@@ -16,7 +16,8 @@ Quellenangaben für die verwendeten Inhalte
 | (10) - Weitere Informationen unter: http://5stardata.info/de/. 
 | (12)/(13) - Siehe Klessmann, J.; Denker, P.; Schulz, S. E.; u. a.;
 | Bundesministerium des Innern (Hrsg.) (2012): Open Government Data Deutschland. 
-| Zuletzt aufgerufen im August 2019 unter: https://www.verwaltung-innovativ.de/SharedDocs/Publikationen/eGovernment/open_government_data_deutschland_langfassung.pdf?blob=publicationFile&v=5.
+| Zuletzt aufgerufen im Februar 2025 unter: 
+| https://www.verwaltung-innovativ.de/SharedDocs/Publikationen/eGovernment/open_government_data_deutschland_langfassung.pdf?blob=publicationFile&v=5.
 | (14) - Weitere Informationen unter: https://opendefinition.org/od/2.1/de/
 
 ------------------------------------------------------------------------------------------
