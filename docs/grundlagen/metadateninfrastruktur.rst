@@ -59,6 +59,18 @@ Diese Vielfalt an Systemen ermöglicht es, sowohl lokale als auch übergreifende
    Abb.: Screenshots Metadatenkataloge und Metadatenportale innerhalb der Metadateninfrastruktur
 
 
+-------------------------------------------------------------------------------------------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Harvesting
+
+   harvesting-prozess.rst
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
 Metadateninformationssysteme und Portale innerhalb der Metadateninfrastrktur
 ----------------------------------------------------------------------------
 
@@ -167,13 +179,3 @@ Die Suche nach Metadaten im Geoportal Sachsen-Anhalt dient dazu, Geodatensätze,
 
   https://www.lvermgeo.sachsen-anhalt.de/de/gdp-geodatensuche.html
 
-
--------------------------------------------------------------------------------------------------------------------------
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Harvesting
-
-   harvesting-prozess.rst
-
-   ----------------------------------------------------------------------------------------------------------------------
