@@ -5,7 +5,7 @@ Bewertung der Daten- und der Metadatenqualität
 Qualität der Offenheit und der Verwendbarkeit von Daten
 --------------------------------------------------------
 
-Das Fraunhofer-Institut für Offene Kommunikationssysteme FOKUS hat in einem „Leitfaden für qualitativ Hochwertige Daten und Metadaten“ von 2019, unter Punkt 4 ein „Bewertungsschemata für die Qualität von Daten veröffentlicht. Hier ein Auszug aus diesem Dokument:
+Das Fraunhofer-Institut für Offene Kommunikationssysteme (FOKUS) hat in einem „Leitfaden für qualitativ Hochwertige Daten und Metadaten“ von 2019, unter Punkt 4 ein „Bewertungsschemata für die Qualität von Daten veröffentlicht. Hier ein Auszug aus diesem Dokument:
 
 
 Im Folgenden werden zwei Bewertungsschemata für die Qualität von Daten vorgestellt: 
@@ -18,11 +18,11 @@ Das »5-Sterne-Modell« von Tim Berners-Lee, welches Daten allgemein in Hinblick
 Tim Berners-Lee, Direktor des World Wide Web Consortiums (W3C), entwickelte das 5- Sterne Modell im Jahr 2001. 10 Das Modell bewertet die technische Verwendbarkeit und Zugänglichkeit von Datensätzen. Die einzelnen Stufen des 5-Sterne-Modells werden nachfolgend erläutert:
 
 
-☆ Offene Lizenz
-☆ ☆ Wiederverwendbares Format
-☆ ☆ ☆ Offenes Format
-☆ ☆ ☆ ☆ Eindeutige Identifizierung (durch URIs)
-☆ ☆ ☆ ☆ ☆ Vernetzung mit anderen Daten
+| **☆ Offene Lizenz**
+| **☆ ☆ Wiederverwendbares Format**
+| **☆ ☆ ☆ Offenes Format**
+| **☆ ☆ ☆ ☆ Eindeutige Identifizierung (durch URIs)**
+| **☆ ☆ ☆ ☆ ☆ Vernetzung mit anderen Daten**
 
 
 Die Stufen sind kaskadierend: Damit ein Datensatz beispielsweise eine Drei-Sterne- Bewertung erhalten kann, müssen die Stufen eins bis drei vollständig erfüllt sein. Nachfolgend werden die einzelnen Stufen inklusive der Mehrwerte für Nutzerinnen und Nutzer sowie Datenanwenderinnen und Datenanwender vorgestellt. 
