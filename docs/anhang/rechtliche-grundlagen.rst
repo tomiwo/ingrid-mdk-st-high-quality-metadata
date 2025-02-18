@@ -137,6 +137,8 @@ Das Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, 
 Landesrecht Sachsen-Anhalt
 ---------------------------
 
+---------------------------------------------------------------------------------------------------------------------------
+
 Informationszugangsgesetz Sachsen-Anhalt (IZG LSA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
