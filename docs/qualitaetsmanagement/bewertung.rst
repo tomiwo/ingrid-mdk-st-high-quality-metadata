@@ -138,18 +138,12 @@ Die folgenden Punkte geben einen Überblick über einige maschinenlesbare und of
 Global Open Data Index der Open Knowledge Foundation
 -----------------------------------------------------
 
-Der Global Open Data Index wird kontinuierlich von der Open Knowledge Foundation erhoben. Der Index misst das Maß an Offenheit staatlicher bzw. öffentlicher (Verwaltungs-)Daten auf nationaler Ebene. Bezüglich der Definition offener Daten lehnt sich der Index an die Open Definition (14) an, die bspw. Prinzipien der offenen Lizenzierung, der Zugänglichkeit, dem Format sowie der Maschinenlesbarkeit formuliert.
+Der `»Global Open Data Index« <https://opendataranking.de/>`_ wird kontinuierlich von der  `Open Knowledge Foundation (OKFN)<https://opendata.okfn.de/>`_  erhoben. Der Index misst das Maß an Offenheit staatlicher bzw. öffentlicher (Verwaltungs-)Daten auf nationaler Ebene. Bezüglich der Definition offener Daten lehnt sich der Index an die Open Definition (14) an, die bspw. Prinzipien der offenen Lizenzierung, der Zugänglichkeit, dem Format sowie der Maschinenlesbarkeit formuliert.
 
 Der Global Open Data Index bewertet anhand verschiedener Fragen die Qualität von ausgewählten nationalen Regierungsdaten diverser Länder. Als Ergebnis der Bewertung erhalten die Länder einen »Score« für die Daten (höchstens 100%), sodass ein Ranking bezüglich der Qualität der untersuchten Datensätze entsteht. 40 Punkte können in dem Bereich der rechtlichen und technischen Offenheit der Datensätze erzielt werden, während Aspekte wie rechtzeitige Veröffentlichung, Verfügbarkeit und Zugänglichkeit mit insgesamt bis zu 60 Punkten bewertet werden.
 
 
-Verweise: 
-
-| OpenData Ranking (OKFN): https://opendataranking.de/
-| Open Knowledge Foundation (OKFN): https://opendata.okfn.de/
-
-
-*Quelleangaben:*
+*Quellenangaben:*
 
 - `Fraunhofer FOKUS »Leitfaden für hochwertige Daten und Metadaten (2019)« <https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019>`_
 - `Quellenangaben für diesen Text <https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html>`_
