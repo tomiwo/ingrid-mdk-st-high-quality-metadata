@@ -11,14 +11,19 @@ Harvesting ist das systematische Sammeln (Ernten) von Informationen aus verschie
 
 ------------------------------------------------------------------------------------------------------------
 
----------------------------------------
-Indexierung & Harvesting der Metadaten
----------------------------------------
+--------------------------------------------------
+Indexierung & Harvesting der Metadatenkataloge ST
+--------------------------------------------------
+
+
+**Indexierung der Matadatenkataloge ST**
 
 - Indexierung des InGrid Editors für das METAVER-Portal: im laufenden Betrieb
 - Indexierung für die CSW-Schnittstelle - Redaktionsschluss: täglich 17:00 Uhr
 - Indexierung für die CSW-Schnittstelle: täglich 01:30 Uhr
 
+
+**Harvesting der Metadatenkataloge ST**
 
 - Harvesting von METAVER durch den Geodatenkatalog der GDI-DE: täglich 17:35 Uhr
 - Harvesting Geodatenkatalog.de durch das Geoportal der GDI-DE: 
