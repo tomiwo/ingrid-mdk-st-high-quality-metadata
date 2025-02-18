@@ -99,7 +99,7 @@ Das 5-Sterne-Modell trägt zur Weiterverwendbarkeit von offenen Daten bei. Die e
 
 .. figure:: ../img/beschaffenheit/daten/5-sterne-modell.png
    :alt: Stufen 5-Sterne-Modell
-   :align: left
+   :align: right
    :scale: 70
    :figwidth: 100%
 
