@@ -15,18 +15,7 @@ Erklärungen zu allgemeinen Begriffen
 Ressource
 ^^^^^^^^^
 
-Eine Ressource in Bezug auf Metadaten ist ein Objekt oder eine Informationseinheit, die durch Metadaten beschrieben wird. 
-
-Ressourcen können verschiedene Formen annehmen:
-
-| **Digitale Objekte:** Webdokumente, Bilder, Videos, PDFs und andere Dateitypen.
-| **Physische Objekte:** Bücher, Gemälde oder andere materielle Gegenstände, die digital katalogisiert werden.
-| **Konzepte:** Abstrakte Ideen oder Themen, die durch Metadaten strukturiert beschrieben werden.
-| **Personen und Organisationen:** Individuen oder Gruppen, deren Informationen in Metadatensystemen erfasst werden.
-| **Orte und Gebäude:** Geografische Lokationen oder Bauwerke, die durch Metadaten beschrieben werden.
-| **Datensammlungen:** Größere Datenmengen wie Datenbanken oder Datensätze.
-
-Die Ressource ist also das eigentliche Objekt oder die Information, über die die Metadaten Auskunft geben. Metadaten dienen dazu, diese Ressourcen zu beschreiben, zu identifizieren, zu verwalten und auffindbar zu machen. Sie ermöglichen eine strukturierte und maschinell verarbeitbare Darstellung der wichtigsten Merkmale und Eigenschaften der jeweiligen Ressource.
+Eine Ressource in Bezug auf Metadaten ist ein Objekt oder eine Informationseinheit, die durch Metadaten beschrieben wird. Die Ressource ist also das eigentliche Objekt oder die Information, über die die Metadaten Auskunft geben. Metadaten dienen dazu, diese Ressourcen zu beschreiben, zu identifizieren, zu verwalten und auffindbar zu machen. Sie ermöglichen eine strukturierte und maschinell verarbeitbare Darstellung der wichtigsten Merkmale und Eigenschaften der jeweiligen Ressource.
 
 
 Daten
