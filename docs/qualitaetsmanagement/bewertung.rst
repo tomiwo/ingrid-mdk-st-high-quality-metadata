@@ -131,7 +131,7 @@ Die folgenden Punkte geben einen Überblick über einige maschinenlesbare und of
 - Standardisierte, offene Formate: TXT, CSV, HTML, XML, RDF, ODT, ODS, RSS, XLSX, PDF, PNG, DOCX, KMZ, GML
 
 
-.. hint:: Weitere Informationen und Beispiele zur Umsetzung der einzelnen Schritte unter: `5 ★ Open Data <https://5stardata.info/de/`_ .
+.. hint:: Weitere Informationen und Beispiele zur Umsetzung der einzelnen Schritte unter: `5 ★ OFFENE DATEN <https://5stardata.info/de/>`_ .
 
 
 

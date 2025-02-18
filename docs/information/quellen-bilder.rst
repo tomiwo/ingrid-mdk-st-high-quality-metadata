@@ -27,7 +27,7 @@ Bildnachweise für die verwendeten Grafiken
 
 | Überschrift: Bewertung der Daten- und der Metadatenqualität
 | Überschrift: Qualität der Offenheit und der Verwendbarkeit von Daten
-| (11) Abb. - Hausenblas, M. (2012): 5 ★ Open Data.
+| (11) Abb. - Hausenblas, M. (2012): 5 ★ OFFENE DATEN.
 | Zuletzt aufgerufen im Februar 2025 unter: https://5stardata.info/de/
 
 ------------------------------------------------------------------------------------------
