@@ -9,7 +9,6 @@ Dieser Leitfaden wurde mit Hilfe künstlicher Intelligenz (KI/AI) erstellt.
 
 ------------------------------------------------------------------------------------------
 
--------------------------------------------
 Quellenangaben für die verwendeten Inhalte
 -------------------------------------------
 
@@ -26,7 +25,6 @@ Quellenangaben für die verwendeten Inhalte
 ------------------------------------------------------------------------------------------
 
 
-------------------------------------------
 Bildnachweise für die verwendeten Grafiken
 -------------------------------------------
 

@@ -137,6 +137,8 @@ Die folgenden Punkte geben einen Überblick über einige maschinenlesbare und of
 .. hint:: Weitere Infos und Beispiele zur Umsetzung der einzelnen Schritte unter: `5 ★ OFFENE DATEN <https://5stardata.info/de/>`_ .
 
 
+-----------------------------------------------------------------------------------------------------
+
 
 Global Open Data Index der Open Knowledge Foundation
 -----------------------------------------------------
