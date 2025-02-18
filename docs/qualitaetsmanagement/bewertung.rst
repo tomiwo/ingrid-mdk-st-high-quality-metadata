@@ -135,10 +135,12 @@ Der Global Open Data Index wird kontinuierlich von der Open Knowledge Foundation
 Der Global Open Data Index bewertet anhand verschiedener Fragen die Qualität von ausgewählten nationalen Regierungsdaten diverser Länder. Als Ergebnis der Bewertung erhalten die Länder einen »Score« für die Daten (höchstens 100%), sodass ein Ranking bezüglich der Qualität der untersuchten Datensätze entsteht. 40 Punkte können in dem Bereich der rechtlichen und technischen Offenheit der Datensätze erzielt werden, während Aspekte wie rechtzeitige Veröffentlichung, Verfügbarkeit und Zugänglichkeit mit insgesamt bis zu 60 Punkten bewertet werden.
 
 
-.. hint:: Verweise: Open Knowledge Foundation (OKFN): https://opendata.okfn.de/  / OpenData Ranking (OKFN): / https://opendataranking.de 
+.. hint:: Verweise: 
+| Open Knowledge Foundation (OKFN): https://opendata.okfn.de/
+| OpenData Ranking (OKFN): https://opendataranking.de 
 
 
 Quelleangaben für diesen Abschnitt:
 
-- *Fraunhofer FOKUS - Leitfaden für hochwertige Daten und Metadaten veröffentlicht: https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019*
-- *Quellenangaben im Text unter: https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html*
+- *Fraunhofer FOKUS - Leitfaden für hochwertige Daten und Metadaten veröffentlicht:* https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019
+- *Quellenangaben im Text unter:* https://qualitativ-hochwertige-metadaten-erfassen.readthedocs.io/de/latest/information/quellen-bilder.html
