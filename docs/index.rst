@@ -17,7 +17,14 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 | **Leitfaden-Version:** 3.0, 18.02.2025
 | **Status:** in Erstellung - Beta Version
 
---------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------
+
+Hinweis: Die Inhalte wurden teilweise mit künstlicher Intelligenz (KI/AI) generiert und anschließend überprüft.
+
+----------------------------------------------------------------------------------------------------------------
+
+
 
 .. toctree::
    :maxdepth: 3
