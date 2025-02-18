@@ -19,6 +19,7 @@ Indexierung & Harvesting der Metadaten
 - Indexierung für die CSW-Schnittstelle - Redaktionsschluss: täglich 17:00 Uhr
 - Indexierung für die CSW-Schnittstelle: täglich 01:30 Uhr
 
+
 - Harvesting von METAVER durch den Geodatenkatalog der GDI-DE: täglich 17:35 Uhr
 - Harvesting Geodatenkatalog.de durch das Geoportal der GDI-DE: 
 - Harvesting Geodatenkatalog.de durch das INSPIRE Geoportal: 
