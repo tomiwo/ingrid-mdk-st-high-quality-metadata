@@ -1,4 +1,6 @@
 
+
+=======
 Glossar
 =======
 
@@ -7,6 +9,8 @@ Glossar
 
 Erklärungen zu allgemeinen Begriffen
 -------------------------------------
+
+-----------------------------------------------------------------------------------------------
 
 Ressource
 ^^^^^^^^^
@@ -41,14 +45,22 @@ Datenserie
 Datensammlungen
 """""""""""""""
 
+-------------------------------------------------------------------------------------------------
+
 Datenqualität
 ^^^^^^^^^^^^^
+
+-------------------------------------------------------------------------------------------------
 
 Metadaten
 ^^^^^^^^^
 
+------------------------------------------------------------------------------------------------
+
 Metadatenqualität
 ^^^^^^^^^^^^^^^^^
+
+-----------------------------------------------------------------------------------------------
 
 Metadateninfrastruktur
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -64,11 +76,15 @@ Sie ermöglicht die effiziente Erfassung, Speicherung und Verarbeitung von Metad
 Erklärungen zu GeoBegriffen
 ---------------------------
 
+-----------------------------------------------------------------------------------------------
+
 Geodaten
 ^^^^^^^^
 
 Geodaten sind digitale Daten und Umweltdaten, denen eine bestimmte räumliche Lage auf der Erdoberfläche zugeordnet werden kann. Es kann sich um direkt gewonnene Primärdaten oder um weiterverarbeitete Sekundärdaten handeln. Von besonderer Bedeutung für Geodaten sind die Metadaten, die die eigentlichen raumbezogenen Daten beschreiben, z.B. hinsichtlich eines Zeitbezugs oder der Herkunft. Geodaten unterteilen sich in raumbezogene Geodaten “Geobasisdaten”, die in der Regel von den Vermessungsverwaltungen der Länder oder Kommunen bereitgestellt werden, und “Geofachdaten“, die aus verschiedenen raumbezogenen Fachdatenbanken stammen. Diese Daten werden in einem Geoinformationssystem verwaltet, auf das bei internetbasierten Systemen über einen Geobrowser (z.B. Sachsen-Anhalt Viewer) zugegriffen werden kann.
 
+
+------------------------------------------------------------------------------------------------
 
 Geodatensatz
 ^^^^^^^^^^^^
@@ -114,6 +130,8 @@ In Geografischen InformationsSystemen bilden Geodatensätze die Grundlage für:
 Geodatensätze ermöglichen es, komplexe räumliche Zusammenhänge zu erfassen, zu analysieren und zu visualisieren. Sie sind daher ein unverzichtbares Werkzeug in vielen Bereichen, die mit raumbezogenen Informationen arbeiten.
 
 
+-------------------------------------------------------------------------------------------------------------
+
 Geodateninfrastruktur (GDI)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -128,6 +146,8 @@ Eine Geodateninfrastruktur besteht aus mehreren Komponenten:
 
 Das Ziel einer Geodateninfrastruktur ist es, Geodaten unterschiedlicher Herkunft interoperabel und webbasiert verfügbar zu machen. Sie schafft damit einen umfassenden Rahmen für die Bereitstellung, den Austausch und die Nutzung von Geoinformationen, während eine Metadateninfrastruktur primär der Beschreibung und Auffindbarkeit dieser Daten dient.
 
+
+------------------------------------------------------------------------------------------------------------
 
 Geographisches Informationssystem (GIS)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
