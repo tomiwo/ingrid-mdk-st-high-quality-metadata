@@ -1,14 +1,17 @@
 
---------------------------
+===========================
 Quellen- und Bildnachweise
---------------------------
+===========================
+
+------------------------------------------------------------------------------------------
 
 Dieser Leitfaden wurde mit Hilfe künstlicher Intelligenz (KI/AI) erstellt.
 
 ------------------------------------------------------------------------------------------
 
+-------------------------------------------
 Quellenangaben für die verwendeten Inhalte
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------
 
 | Überschrift: Bewertung der Daten- und der Metadatenqualität
 | Überschrift: Qualität der Offenheit und der Verwendbarkeit von Daten
@@ -22,8 +25,9 @@ Quellenangaben für die verwendeten Inhalte
 
 ------------------------------------------------------------------------------------------
 
+------------------------------------------
 Bildnachweise für die verwendeten Grafiken
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------
 
 | Überschrift: Bewertung der Daten- und der Metadatenqualität
 | Überschrift: Qualität der Offenheit und der Verwendbarkeit von Daten
