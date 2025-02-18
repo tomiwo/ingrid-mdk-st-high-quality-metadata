@@ -20,7 +20,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 
 ----------------------------------------------------------------------------------------------------------------
 
-Hinweis: Die Inhalte wurden teilweise mit künstlicher Intelligenz (KI/AI) generiert und anschließend überprüft.
+Hinweis: Die Inhalte wurden teilweise mit künstlicher Intelligenz (KI) generiert und anschließend überprüft.
 
 ----------------------------------------------------------------------------------------------------------------
 
