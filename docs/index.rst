@@ -49,7 +49,6 @@ Hinweis: Die Inhalte wurden teilweise mit künstlicher Intelligenz (KI) generier
 
    anhang/rechtliche-grundlagen.rst
    anhang/links.rst
-   anhang/harvesting-prozess.rst
    anhang/wichtige-begriffe.rst
 
 .. toctree::

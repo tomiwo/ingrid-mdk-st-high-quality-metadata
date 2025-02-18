@@ -62,8 +62,10 @@ Diese Vielfalt an Systemen ermöglicht es, sowohl lokale als auch übergreifende
 Metadateninformationssysteme und Portale innerhalb der Metadateninfrastrktur
 ----------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------------------------------------------
+
 Zentrale Portale innerhalb der Europäischen Union, die Metadaten aus den EU-Mitgliedstaaten zusammenführen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------------------------------------------------------------------
 
 | **INSPIRE Geoportal**
 | Europäische Kommission
@@ -80,10 +82,10 @@ Das European Data Portal dient als zentraler Zugangspunkt für offene Daten aus 
 
   https://data.europa.eu/de 
 
+---------------------------------------------------------------------------------------------------------------------------
 
 Zentrale Kataloge / Portale in Deutschland, die Metadaten aus der Bundesrepublik zusammenführen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+-----------------------------------------------------------------------------------------------
 | **GovData**
 | Förderale IT-Kooperation (FITKO)
 
@@ -116,9 +118,10 @@ Das Portal umwelt.info dient als zentrale Suchmaschine und Zugriffspunkt für Um
 
   https://mvp.umwelt.info/
 
+--------------------------------------------------------------------------------------------------------------------------
 
 Metadateninformationssysteme von Länderkooperationen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------------
 
 | **METAVER**
 | Metadatenverbund (Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Saarland, Sachsen & Sachsen-Anhalt)
@@ -135,9 +138,11 @@ Das AdV-MIS dient als zentrales Metainformationssystem der Arbeitsgemeinschaft d
 
   https://advmis.geodatenzentrum.de/
 
+---------------------------------------------------------------------------------------------------------------------------
+
 
 Portale des Landes Sachsen-Anhalt, die Metadaten durchsuchen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------------------------
 
 | **Landesportal Sachsen-Anhalt (Suche)**
 | Staatskanzlei Sachsen-Anhalt
@@ -163,4 +168,10 @@ Die Suche nach Metadaten im Geoportal Sachsen-Anhalt dient dazu, Geodatensätze,
   https://www.lvermgeo.sachsen-anhalt.de/de/gdp-geodatensuche.html
 
 
+-------------------------------------------------------------------------------------------------------------------------
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Harvesting
+
+   /harvesting-prozess.rst
