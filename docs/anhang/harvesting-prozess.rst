@@ -32,6 +32,7 @@ Indexierung & Harvesting der Metadatenkataloge ST
 - Harvesting der CSW-Schnitttstelle ST durch das Geodatenportal ST:
 - Harvesting der CSW-Schnitttstelle ST durch das Landesportal ST:
 - Harvesting der CSW-Schnitttstelle ST durch das Umweltportal ST:
+- Harvesting der CSW-Schnitttstelle ST durch Umwelt.info:
 
 
 **Harvesting der CSW-Schnittstelle METAVER**
