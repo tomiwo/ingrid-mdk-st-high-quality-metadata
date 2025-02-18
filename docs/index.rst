@@ -43,6 +43,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
    anhang/checkliste.rst
    anhang/harvesting-prozess.rst
    anhang/wichtige-begriffe.rst
+   anhang/links.rst
 
 .. toctree::
    :maxdepth: 3
