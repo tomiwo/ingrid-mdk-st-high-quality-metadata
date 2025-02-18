@@ -3,9 +3,9 @@
 Der Harvesting-Prozess
 =======================
 
--------------------
-Was ist Harvesting?
--------------------
+-------------------------
+Was bedeutet Harvesting?
+-------------------------
 
 Harvesting ist das systematische Sammeln (Ernten) von Informationen aus verschiedenen Datenquellen. Dabei wird Software eingesetzt, die die Datenbanken automatisch durchsucht, um diese Informationen zusammenzuführen und zu speichern. Harvesting ist also ein wichtiges Werkzeug, um Informationen aus verschiedenen Datenquellen zusammenzuführen und sie für die Recherche verfügbar zu machen.
 
@@ -31,6 +31,7 @@ Harvesting ist das systematische Sammeln (Ernten) von Informationen aus verschie
 
 ------------------------------------------------------------------------------------------------------------
 
+-----------------------------------
 Aktualisierungszyklen der Metadaten
 -----------------------------------
 
@@ -45,6 +46,7 @@ Aktualisierungszyklen der Metadaten
 
 -------------------------------------------------------------------------------------------------------------
 
+------------------------------
 Portale die METAVER harvesten
 ------------------------------
 
@@ -64,6 +66,7 @@ Portale die METAVER harvesten
 
 --------------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------
 Portale die den Geodatenkatalog.de der GDI-DE harvesten
 --------------------------------------------------------
 
