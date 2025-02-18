@@ -137,8 +137,8 @@ Der Global Open Data Index bewertet anhand verschiedener Fragen die Qualität vo
 
 Verweise: 
 
-| Open Knowledge Foundation (OKFN): https://opendata.okfn.de/
 | OpenData Ranking (OKFN): https://opendataranking.de/
+| Open Knowledge Foundation (OKFN): https://opendata.okfn.de/
 
 
 Quelleangaben für diesen Abschnitt:
