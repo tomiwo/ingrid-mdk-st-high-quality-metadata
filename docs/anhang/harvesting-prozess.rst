@@ -23,10 +23,21 @@ Indexierung & Harvesting der Metadatenkataloge ST
 - Indexierung für die CSW-Schnittstelle: täglich 01:30 Uhr
 
 
-**Harvesting der Metadatenkataloge ST**
+**Harvesting der DCAT-AP.de-Schnittstelle METAVER ST**
+
+- Harvesting der DCAT-AP.de Schnittstelle METAVER durch GovData:
+
+
+**Harvesting der CSW-Schnittstelle METAVER Partner ST**
+
+- Harvesting der CSW-Schnitttstelle ST durch das Geodatenportal ST:
+- Harvesting der CSW-Schnitttstelle ST durch das Landesportal ST:
+- Harvesting der CSW-Schnitttstelle ST durch das Umweltportal ST:
+
+
+**Harvesting der CSW-Schnittstelle METAVER**
 
 - Harvesting der CSW-Schnittstelle METAVER durch den Geodatenkatalog der GDI-DE: täglich 17:35 Uhr
-- Harvesting der CSW-Schnittstelle METAVER durch GovData:
 
 
 **Harvesting Geodatenkatalog.de**
