@@ -13,7 +13,7 @@ Quellenangaben für die verwendeten Inhalte
 | Überschrift: Bewertung der Daten- und der Metadatenqualität
 | Überschrift: Qualität der Offenheit und der Verwendbarkeit von Daten
 
-| (11) - Hausenblas, M. (2012): 5 ★ Open Data. Zuletzt aufgerufen im August 2019 unter https://5stardata.info/de/
+| (10) - Weitere Informationen unter: http://5stardata.info/de/. 
 | (12)/(13) - Siehe Klessmann, J.; Denker, P.; Schulz, S. E.; u. a.;
 | Bundesministerium des Innern (Hrsg.) (2012): Open Government Data Deutschland. 
 | Zuletzt aufgerufen im August 2019 unter: https://www.verwaltung-innovativ.de/SharedDocs/Publikationen/eGovernment/open_government_data_deutschland_langfassung.pdf?blob=publicationFile&v=5.
@@ -26,8 +26,7 @@ Bildnachweise für die verwendeten Grafiken
 
 | Überschrift: Bewertung der Daten- und der Metadatenqualität
 | Überschrift: Qualität der Offenheit und der Verwendbarkeit von Daten
-
-Abb.: 5-Sterne-Modell von Tim Berners-Lee - Stufen: https://5stardata.info/de/
+| (11) Abb. - Hausenblas, M. (2012): 5 ★ Open Data. Zuletzt aufgerufen im Februar 2025 unter https://5stardata.info/de/
 
 ------------------------------------------------------------------------------------------
 
