@@ -16,14 +16,13 @@ Erklärungen zu allgemeinen Begriffen
 Daten
 ^^^^^
 
-Daten sind die grundlegendste Form von Informationen. Sie stellen rohe Fakten, Beobachtungen oder Messungen dar, die noch nicht organisiert oder analysiert wurden.
+Daten sind die einfachste Form der Information. Sie stellen rohe Fakten, Beobachtungen oder Messungen dar, die noch nicht aufbereitet oder analysiert wurden.
 
 Daten können vorliegen als:
 
-- unstrukturierte Daten - ohne vorgegebenes Format (z.B. Text, E-Mails, Bild- und Videoaten, Audio, Sozial-Media Inhalte)
-- Semi-strukturierte Daten - mit einer versteckten, nicht unmittelbar ersichtlichen Struktur (XML- oder JSON-Dateien)
-- strukturierte Daten - mit einem vordefinierten Schema (z.B. Relationale Datenbanken, Tabellen, CSV-Dateien, Datenkataloge)
-
+- unstrukturierte Daten - ohne vorgegebenes Format (z. B. Text, E-Mails, Bild- und Videodaten, Audio, Social-Media-Inhalte)
+- semi-strukturierte Daten - mit einer versteckten, nicht sofort ersichtlichen Struktur (XML- oder JSON-Dateien)
+- strukturierte Daten - mit einem vordefinierten Schema (z.B. relationale Datenbanken, Tabellen, CSV-Dateien, Datenkataloge)
 
 ------------------------------------------------------------------------------------------------
 
