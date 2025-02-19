@@ -27,7 +27,7 @@ Indexierung & Harvesting der Metadatenkataloge ST
 **Harvesting der DCAT-AP.de-Schnittstelle METAVER ST**
 
 - Harvesting der DCAT-AP.de Schnittstelle METAVER durch GovData:
-| jeden 2. Tag zwischen 01:30 Uhr und 08:00 Uhr
+- jeden 2. Tag zwischen 01:30 Uhr und 08:00 Uhr
 
 
 **Harvesting der CSW-Schnittstelle METAVER Partner ST**
@@ -41,7 +41,7 @@ Indexierung & Harvesting der Metadatenkataloge ST
 **Harvesting der CSW-Schnittstelle METAVER**
 
 - Harvesting der CSW-Schnittstelle METAVER durch den Geodatenkatalog der GDI-DE: 
-| täglich 17:35 Uhr
+- täglich 17:35 Uhr
 
 
 **Harvesting Geodatenkatalog.de**
