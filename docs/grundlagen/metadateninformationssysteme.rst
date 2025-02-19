@@ -106,4 +106,4 @@ Die Suche im Umweltportal Sachsen-Anhalt ermöglicht die Recherche von Umweltinf
 
 Die Suche nach Metadaten im Geoportal Sachsen-Anhalt dient dazu, Geodatensätze, Geodatendienste und Geoanwendungen auffindbar zu machen und grundlegende Informationen über deren Existenz und Verfügbarkeit zu liefern.
 
-  https://www.lvermgeo.sachsen-anhalt.de/de/gdp-geodatensuche.html
+  https://www.geodatenportal.sachsen-anhalt.de/gfds/de/gdp-geodatensuche.html
