@@ -82,7 +82,7 @@ Portale die den Geodatenkatalog.de der GDI-DE harvesten
 **Bundesebene**
 
 - Geoportal.de (GDI-DE) - https://geoportal.de/
-- MetadatenInformationsSystem der AdV - https://advmis.geodatenzentrum.de/
+- MetadatenInformationsSystem der AdV (AdV-MIS) - https://advmis.geodatenzentrum.de/
 
 
 **Europäische Ebene**
