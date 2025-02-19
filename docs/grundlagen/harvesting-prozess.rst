@@ -32,10 +32,10 @@ Indexierung & Harvesting der Metadatenkataloge ST
 
 **Harvesting der CSW-Schnittstelle METAVER Partner ST**
 
-- Harvesting der CSW-Schnitttstelle ST durch das Geodatenportal ST:
-- Harvesting der CSW-Schnitttstelle ST durch das Landesportal ST:
-- Harvesting der CSW-Schnitttstelle ST durch das Umweltportal ST:
-- Harvesting der CSW-Schnitttstelle ST durch Umwelt.info:
+- Harvesting der CSW-Schnittstelle ST durch das Geodatenportal ST:
+- Harvesting der CSW-Schnittstelle ST durch das Landesportal ST:
+- Harvesting der CSW-Schnittstelle ST durch das Umweltportal ST: täglich 3:15 UTC
+- Harvesting der CSW-Schnittstelle ST durch Umwelt.info:
 
 
 **Harvesting der CSW-Schnittstelle METAVER**

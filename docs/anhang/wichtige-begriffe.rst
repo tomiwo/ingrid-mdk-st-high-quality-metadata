@@ -31,7 +31,6 @@ Datensatz
 
 Ein Datensatz ist eine strukturierte Sammlung zusammengehöriger Daten, die eine bestimmte Einheit oder ein spezifisches Objekt repräsentieren. 
 
-
 -------------------------------------------------------------------------------------------------
 
 Datenserie
