@@ -104,6 +104,6 @@ Die Suche im Umweltportal Sachsen-Anhalt ermöglicht die Recherche von Umweltinf
 | **Geodatenportal Sachsen-Anhalt (Suche)**
 | Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)
 
-Die Suche nach Metadaten im Geoportal Sachsen-Anhalt dient dazu, Geodatensätze, Geodatendienste und Geoanwendungen auffindbar zu machen und grundlegende Informationen über deren Existenz und Verfügbarkeit zu liefern.
+Die Suche nach Metadaten im Geodatenportal Sachsen-Anhalt dient dazu, Geodatensätze, Geodatendienste und Geoanwendungen auffindbar zu machen und grundlegende Informationen über deren Existenz und Verfügbarkeit zu liefern.
 
   https://www.geodatenportal.sachsen-anhalt.de/gfds/de/gdp-geodatensuche.html
