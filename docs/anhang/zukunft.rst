@@ -6,7 +6,7 @@ Blick in die Zukunft
 OGC APIs
 --------
 
-Eine OGC API ist eine moderne, standardisierte Schnittstelle für den Zugriff auf und die Verarbeitung von Geodaten, die vom Open Geospatial Consortium (OGC) [https://ogcapi.ogc.org/#standards] entwickelt wurde.
+Eine OGC API ist eine moderne, standardisierte Schnittstelle für den Zugriff auf und die Verarbeitung von Geodaten, die vom `Open Geospatial Consortium (OGC) <https://ogcapi.ogc.org/#standards>`_ offiziell in Betrieb genommen. In der `Metadaten-/Datensuche <https://umwelt.info/de/suche>`_ entwickelt wurde.
 
 **Hauptmerkmale**
 
