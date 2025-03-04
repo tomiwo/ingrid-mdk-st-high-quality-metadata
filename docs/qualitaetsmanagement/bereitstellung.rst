@@ -12,23 +12,27 @@ Die FAIR-Prinzipien sind Leitlinien für die optimale Aufbereitung von Daten und
 
 FAIR steht für:
 
-1. **Findable (Auffindbar)**: 
-   - (Meta-)Daten erhalten einen global eindeutigen und dauerhaften Identifier.
-   - Daten werden durch detaillierte Metadaten beschrieben.
-   - (Meta-)Daten werden in durchsuchbaren Verzeichnissen registriert.
+**Findable (Auffindbar)**:
 
-2. **Accessible (Zugänglich)**:
-   - Daten und Metadaten sind über offene Standard-Kommunikationsprotokolle zugänglich.
-   - Metadaten bleiben auch dann verfügbar, wenn die eigentlichen Daten nicht (mehr) zugänglich sind.
+- (Meta-)Daten erhalten einen global eindeutigen und dauerhaften Identifier.
+- Daten werden durch detaillierte Metadaten beschrieben.
+- (Meta-)Daten werden in durchsuchbaren Verzeichnissen registriert.
 
-3. **Interoperable (Interoperabel)**:
-   - Die Daten können mit anderen Datensätzen kombiniert und ausgetauscht werden.
-   - Verwendung von kontrollierten Vokabularen, Klassifikationen oder Ontologien.
+**Accessible (Zugänglich)**:
 
-4. **Reusable (Wiederverwendbar)**:
-   - Gute Beschreibung der Daten und Metadaten
-   - Klare Angabe der Nutzungsbedingungen und Verwendung einer möglichst offenen Datennutzungslizenz.
-   - Ursprungsangaben zur Bewertung der Daten.
+- Daten und Metadaten sind über offene Standard-Kommunikationsprotokolle zugänglich.
+- Metadaten bleiben auch dann verfügbar, wenn die eigentlichen Daten nicht (mehr) zugänglich sind.
+
+**Interoperable (Interoperabel)**:
+
+- Die Daten können mit anderen Datensätzen kombiniert und ausgetauscht werden.
+- Verwendung von kontrollierten Vokabularen, Klassifikationen oder Ontologien.
+
+**Reusable (Wiederverwendbar)**:
+
+- Gute Beschreibung der Daten und Metadaten
+- Klare Angabe der Nutzungsbedingungen und Verwendung einer möglichst offenen Datennutzungslizenz.
+- Ursprungsangaben zur Bewertung der Daten.
 
 Die FAIR-Prinzipien gelten sowohl für die eigentlichen Datenelemente (z.B. Texte, Bilder, 3D-Modelle) als auch für die beschreibenden Metadaten. Sie zielen darauf ab, den Austausch und die Wiederverwendbarkeit von Daten zu fördern und sind bereits für viele Forschungseinrichtungen weltweit Standard.
 
