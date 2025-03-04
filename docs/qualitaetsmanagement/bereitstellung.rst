@@ -41,9 +41,7 @@ FAIR steht für:
 Die FAIR-Prinzipien gelten sowohl für die eigentlichen Datenelemente (z.B. Texte, Bilder, 3D-Modelle) als auch für die beschreibenden Metadaten. Sie zielen darauf ab, den Austausch und die Wiederverwendbarkeit von Daten zu fördern und sind bereits für viele Forschungseinrichtungen weltweit Standard.
 
 
-**Praxisbeispiel:**
-
-Das Umweltbundesamt hat am 27.01.2025 das Portal `Umwelt.info <https://umwelt.info/de/>`_ offiziell in Betrieb genommen. In der `Metadaten-/Datensuche <https://umwelt.info/de/suche>`_ erfolgt eine Bewertung der Metadaten und Daten nach den FAIR-Prinzipien.
+.. seealso:: **Praxisbeispiel:** Das Umweltbundesamt hat am 27.01.2025 das Portal `Umwelt.info <https://umwelt.info/de/>`_ offiziell in Betrieb genommen. In der `Metadaten-/Datensuche <https://umwelt.info/de/suche>`_ erfolgt eine Bewertung der Metadaten und Daten nach den FAIR-Prinzipien.
 
 
 ---------------------------------------------------------------------------------------------
