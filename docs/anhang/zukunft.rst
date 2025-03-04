@@ -8,7 +8,7 @@ Blick in die Zukunft
 OGC APIs
 --------
 
-Eine OGC API ist eine moderne, standardisierte Schnittstelle für den Zugriff auf und die Verarbeitung von Geodaten, die vom `Open Geospatial Consortium (OGC) <https://ogcapi.ogc.org/#standards>`_ offiziell in Betrieb genommen. In der `Metadaten-/Datensuche <https://umwelt.info/de/suche>`_ entwickelt wurde.
+Die OGC APIs sind eine Familie von Standards, die vom `Open Geospatial Consortium (OGC) <https://ogcapi.ogc.org/#standards>`_ entwickelt wurden, um den Zugang und die Nutzung von Geodaten über das Web zu vereinfachen und zu standardisieren. Diese APIs sind modular aufgebaut und definieren wiederverwendbare Bausteine für raumbezogene Web-APIs.
 
 **Hauptmerkmale**
 
@@ -22,7 +22,7 @@ Eine OGC API ist eine moderne, standardisierte Schnittstelle für den Zugriff au
 - **Abfragemöglichkeiten:** Sie bieten Funktionen zum Filtern und Abfragen von Daten.
 - **Formatunterstützung:** Antworten werden typischerweise in JSON oder HTML geliefert.
 
-OGC APIs sind eine Weiterentwicklung älterer Standards und sollen die Integration von Geodaten in moderne Webanwendungen erleichtern.
+OGC APIs sind eine Weiterentwicklung älterer Standards und sollen die Integration von Geodaten in moderne Anwendungen erleichtern.
 
 
 ---------------------------------------------------------------------------------------------
@@ -42,7 +42,7 @@ Welche APIs ersetzen welche Standards?
 
 **OGC API - Maps:** Soll den Web Map Service (WMS) ersetzen.
 
-- Ermöglicht das Anzeigen von Karten in Kartenviewern.
+- Ermöglicht das Anzeigen von digitalen Karten in Kartenviewern.
 
 **OGC API - Tiles:** Nachfolger des Web Map Tile Service (WMTS). 
 
