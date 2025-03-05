@@ -47,10 +47,10 @@ Indexierung & Harvesting der Metadatenkataloge ST
 
 **Harvesting Geodatenkatalog.de**
 
-- Harvesting Geodatenkatalog.de durch das Geoportal der GDI-DE: 
+- Harvesting Geodatenkatalog.de durch das Geoportal der GDI-DE: täglich
 - Harvesting Geodatenkatalog.de durch das Metadateninformationssystem der AdV: täglich abends
 - Harvesting Geodatenkatalog.de durch das INSPIRE Geoportal: Januar (INSPIRE-Monitoring)
-- Harvesting Geodatenkatalog.de durch das Europäische Datenportal: 
+- Harvesting Geodatenkatalog.de durch das Europäische Datenportal: wöchentlich
 - Harvesting Geodatenkatalog.de durch das GEOSS:
 
 
