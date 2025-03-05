@@ -20,8 +20,9 @@ Indexierung & Harvesting der Metadatenkataloge ST
 
 **Indexierung der Matadatenkataloge ST**
 
-- Indexierung des InGrid Editors für das METAVER-Portal: im laufenden Betrieb
-- Indexierung für die CSW-Schnittstelle: täglich 01:30 Uhr (Redaktionsschluss: täglich 17:00 Uhr)
+- Indexierung von veröffentlichten Datensätzen durch den Editor: sofort nach der Veröffentlichung
+- Indexierung des Gesamtdatenbestandes durch den Editor: täglich 01:00 Uhr
+- Indexierung CSW-Schnittstelle: täglich 17:30 Uhr (Redaktionsschluss: täglich 17:00 Uhr)
 
 
 **Harvesting der DCAT-AP.de-Schnittstelle METAVER ST**
@@ -32,10 +33,10 @@ Indexierung & Harvesting der Metadatenkataloge ST
 
 **Harvesting der CSW-Schnittstelle METAVER Partner ST**
 
-- Harvesting der CSW-Schnittstelle ST durch das Geodatenportal ST:
+- Harvesting der CSW-Schnittstelle ST durch das Geodatenportal ST: kontinuierlich
 - Harvesting der CSW-Schnittstelle ST durch das Landesportal ST:
-- Harvesting der CSW-Schnittstelle ST durch das Umweltportal ST: täglich 3:15 UTC
-- Harvesting der CSW-Schnittstelle ST durch Umwelt.info:
+- Harvesting der CSW-Schnittstelle ST durch das Umweltportal ST: täglich 3:15 Uhr UTC
+- Harvesting der CSW-Schnittstelle ST durch Umwelt.info: wöchentlich +-3 Tage
 
 
 **Harvesting der CSW-Schnittstelle METAVER**
