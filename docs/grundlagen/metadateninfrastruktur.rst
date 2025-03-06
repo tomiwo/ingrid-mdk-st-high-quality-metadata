@@ -30,8 +30,8 @@ Durch die systematische Verwaltung von Metadaten können Organisationen ihre Dat
 .. figure:: ../img/metadateninfrastruktur/mis_1024.png
    :alt: Grafik Metadateninfrastruktur
    :align: left
-   :scale: 70
-   :figwidth: 90%
+   :scale: 60
+   :figwidth: 100%
 
    Abb.: Metadatenifrastruktur ausgehend vom Portal METAVER
 
