@@ -18,7 +18,7 @@ Indexierung & Harvesting der Metadatenkataloge ST
 --------------------------------------------------
 
 
-**Indexierung der Matadatenkataloge ST**
+**Indexierung der Metadatenkataloge ST**
 
 - Indexierung von veröffentlichten Metadatensätzen durch den Editor:
 - sofort nach der Veröffentlichung
