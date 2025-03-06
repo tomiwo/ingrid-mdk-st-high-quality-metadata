@@ -21,7 +21,7 @@ Indexierung & Harvesting der Metadatenkataloge ST
 **Indexierung der Matadatenkataloge ST**
 
 - Indexierung von veröffentlichten Metadatensätzen durch den Editor:
-  - sofort nach der Veröffentlichung
+ - sofort nach der Veröffentlichung
 - Indexierung des Gesamtdatenbestandes durch den Editor: täglich 01:00 Uhr
 - Indexierung CSW-Schnittstelle: täglich 17:30 Uhr (Redaktionsschluss: täglich 17:00 Uhr)
 
@@ -43,14 +43,14 @@ Indexierung & Harvesting der Metadatenkataloge ST
 **Harvesting der CSW-Schnittstelle METAVER**
 
 - Harvesting der CSW-Schnittstelle METAVER durch den Geodatenkatalog der GDI-DE: 
-  - täglich 17:35 Uhr
+ - täglich 17:35 Uhr
 
 
 **Harvesting Geodatenkatalog.de**
 
 - Harvesting Geodatenkatalog.de durch das Geoportal der GDI-DE: täglich
 - Harvesting Geodatenkatalog.de durch das Metadateninformationssystem der AdV:
-  - täglich abends
+ - täglich abends
 - Harvesting Geodatenkatalog.de durch das INSPIRE Geoportal: Januar (INSPIRE-Monitoring)
 - Harvesting Geodatenkatalog.de durch das Europäische Datenportal: wöchentlich
 - Harvesting Geodatenkatalog.de durch das GEOSS:
