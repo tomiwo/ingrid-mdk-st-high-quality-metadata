@@ -100,4 +100,4 @@ Portale die den Geodatenkatalog.de der GDI-DE harvesten
 
 ---------------------------------------------------------------
 
-.. hint:: Unbekannt ist derzeit, welche Portale GovData harvesten. 
+.. hint:: Es ist derzeit nicht bekannt, welche Portale GovData harvesten. 
