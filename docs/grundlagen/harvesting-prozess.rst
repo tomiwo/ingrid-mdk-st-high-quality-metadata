@@ -20,7 +20,7 @@ Indexierung & Harvesting der Metadatenkataloge ST
 
 **Indexierung der Matadatenkataloge ST**
 
-- Indexierung von veröffentlichten Datensätzen durch den Editor: sofort nach der Veröffentlichung
+- Indexierung von veröffentlichten Metadatensätzen durch den Editor: sofort nach der Veröffentlichung
 - Indexierung des Gesamtdatenbestandes durch den Editor: täglich 01:00 Uhr
 - Indexierung CSW-Schnittstelle: täglich 17:30 Uhr (Redaktionsschluss: täglich 17:00 Uhr)
 
