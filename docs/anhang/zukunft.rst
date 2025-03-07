@@ -3,6 +3,8 @@
 Blick in die Zukunft
 ====================
 
+**Datenbereitstellung über Geodatendienste oder Schnittstellen**
+
 In Zukunft werden die bestehenden Standards durch neue Standards, d.h. Geodatendienste durch Schnittstellen (API) ergänzt oder ersetzt. Hier werden die wichtigsten APIs beschrieben, die sich derzeit in der Entwicklung befinden.
 
 ----------------------------------------------------------------------------------------------
