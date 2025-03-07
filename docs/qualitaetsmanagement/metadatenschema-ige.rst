@@ -33,7 +33,8 @@ Fügen Sie dem Metadatensatz die entsprechenden Merkmale hinzu, wodurch die Eing
 Allgemeines
 -----------
 
-**Feld Beschreibung**
+Feld Beschreibung
+"""""""""""""""""
 
 Der Text für das Feld Beschreibung in den Metadaten sollte folgende Kriterien erfüllen:
 
@@ -51,12 +52,15 @@ Durch diese Gestaltung wird die Beschreibung sowohl für Suchmaschinen als auch 
 .. hint:: Vermeiden Sie Formatierungen wie Aufzählungen durch Zeilenumbrüche, Punkte oder Zahlen im Text. Diese werden in den Portalen nicht angezeigt, da diese nur unformatierten Fließtext akzeptieren!
 
 
-**Feld Vorschaugrafik**
+Feld Vorschaugrafik
+"""""""""""""""""""
 
 Ergänzen Sie den Metadatensatz mit einer Vorschaugrafik, damit sich Interessierte schnell einen Überblick über die beschriebenen Daten verschaffen können. Ergänzen Sie die Vorschaugrafik mit einer Beschreibung, dies ist zwingend erforderlich, um die geforderte Barrierefreiheit zu gewährleisten. Beschreiben Sie, was in der Vorschaugrafik dargestellt ist.
 
 
-**Feld Adressen**
+Feld Adressen
+"""""""""""""
+
 Mindestens zwei Adressangaben müssen im Metadatensatz enthalten sein.
 
 1. die Auskunft gebende Stelle für die Daten (Ansprechpartner)
