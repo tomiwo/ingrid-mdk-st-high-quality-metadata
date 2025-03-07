@@ -47,8 +47,8 @@ Hinweis: Die Inhalte wurden teilweise mit künstlicher Intelligenz (KI) generier
    :caption: Anhang
 
    anhang/rechtliche-grundlagen.rst
-   anhang/links.rst
    anhang/zukunft.rst
+   anhang/links.rst
    anhang/wichtige-begriffe.rst
 
 .. toctree::
