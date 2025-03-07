@@ -47,7 +47,7 @@ OGC API - Features
 
 Die OGC API - Features ersetzt den Web Feature Service (WFS). Sie ermöglicht das Erstellen, Ändern und Abfragen von räumlichen Daten im Web.
 
-.. note:: Einige Länder haben bereits OGC-API - Features veröffentlicht (z.B. RP, NRW, SL, HH), wobei sich die APIs in ihrer Struktur unterscheiden. Einige APIs bieten einen direkten Datendownload an (z.B. RP, SL), andere sind kaskadierend aufgebaut (HH), hier gelangt man beim Aufruf der API auf eine Landingpage, auf der die Daten zum Download angeboten werden.
+.. note:: Einige Länder haben bereits OGC-API - Features veröffentlicht (z.B. RP, NRW, SL, HH), wobei sich die APIs in ihrer Struktur unterscheiden. Einige APIs bieten einen direkten Datendownload an (z.B. RP, SL), andere sind kaskadierend aufgebaut (HH), hier gelangt man beim Aufruf der API auf eine Landingpage, auf der die Daten zum Download angeboten werden. Aus diesem Grund werden in der Suche weniger Treffer angezeigt.
 
 
 OGC API - Maps
