@@ -46,8 +46,8 @@ Hinweis: Die Inhalte wurden teilweise mit künstlicher Intelligenz (KI) generier
    :maxdepth: 3
    :caption: Anhang
 
-   anhang/rechtliche-grundlagen.rst
    anhang/zukunft.rst
+   anhang/rechtliche-grundlagen.rst
    anhang/links.rst
    anhang/wichtige-begriffe.rst
 
