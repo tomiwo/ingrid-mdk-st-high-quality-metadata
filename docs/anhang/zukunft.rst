@@ -3,6 +3,10 @@
 Blick in die Zukunft
 ====================
 
+In Zukunft werden die bestehenden Geodatendienste durch Schnittstellen (API) ergänzt oder ersetzt.
+Hier werden die wichtigsten APIs beschrieben, die sich derzeit in der Entwicklung befinden.
+
+
 ----------------------------------------------------------------------------------------------
 
 OGC APIs
