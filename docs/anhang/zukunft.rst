@@ -60,3 +60,5 @@ OGC API - Tiles
 """""""""""""""
 
 Die OGC API - Tiles ist der Nachfolger des Web Map Tile Service (WMTS). Sie unterstützt verschiedene Formen gekachelter Geodaten, einschließlich Vektorkacheln, Karten und Bilder.
+
+----------------------------------------------------------------------------------------------
