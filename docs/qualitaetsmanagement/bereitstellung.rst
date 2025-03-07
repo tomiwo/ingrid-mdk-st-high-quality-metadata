@@ -5,7 +5,7 @@ Bereitstellung von qualitativ hochwertigen Metadaten
 
 ---------------------------------------------------------------------------------------------
 
-Die Faier Data Prinzipien
+Die FAIR Data Prinzipien
 --------------------------
 
 Die FAIR-Prinzipien sind Leitlinien für die optimale Aufbereitung von Daten und Metadaten, um sie für Menschen und Maschinen gleichermaßen nutzbar zu machen. 
