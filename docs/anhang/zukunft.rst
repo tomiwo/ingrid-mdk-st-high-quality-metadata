@@ -63,24 +63,24 @@ Die OGC API - Tiles ist der Nachfolger des Web Map Tile Service (WMTS). Sie unte
 
 ----------------------------------------------------------------------------------------------
 
-Der STAC-Standard
------------------
+STAC-Standard / STAC API
+------------------------
 
 Der STAC-Standard (SpatioTemporal Asset Catalog) ist ein offener Standard für die Beschreibung, Katalogisierung und Abfrage von Geodaten. Er wurde entwickelt, um den Zugang zu raum-zeitlichen Daten wie Bilddaten, Punktwolken oder digitalen Orthophotos zu vereinfachen und zu standardisieren.
 
 Hauptmerkmale
 """""""""""""
 
-- Datenmodell: STAC definiert Objekte wie Item, Collection und Catalog, die Metadaten zu Geodaten enthalten. Diese Metadaten umfassen die räumliche und zeitliche Ausdehnung, technische Informationen, Lizenzbedingungen und mehr.
-- Format: Die Daten werden häufig im GeoJSON-Format bereitgestellt, das eine einfache Integration in moderne GIS-Systeme ermöglicht.
-- API: Die STAC API ermöglicht das Filtern und Abrufen von Geodaten basierend auf räumlichen, zeitlichen oder attributiven Eigenschaften. Dies erleichtert sowohl automatische als auch manuelle Suchvorgänge.
-- Interoperabilität: STAC ist so konzipiert, dass es mit verschiedenen Werkzeugen wie QGIS und ArcGIS sowie mit Cloud-Speichern zusammenarbeitet. Es unterstützt die Visualisierung und Analyse von Geodaten.
+- **Datenmodell:** STAC definiert Objekte wie Item, Collection und Catalog, die Metadaten zu Geodaten enthalten. Diese Metadaten umfassen die räumliche und zeitliche Ausdehnung, technische Informationen, Lizenzbedingungen und mehr.
+- **Format:** Die Daten werden häufig im GeoJSON-Format bereitgestellt, das eine einfache Integration in moderne GIS-Systeme ermöglicht.
+- **API:** Die STAC API ermöglicht das Filtern und Abrufen von Geodaten basierend auf räumlichen, zeitlichen oder attributiven Eigenschaften. Dies erleichtert sowohl automatische als auch manuelle Suchvorgänge.
+- **Interoperabilität:** STAC ist so konzipiert, dass es mit verschiedenen Werkzeugen wie QGIS und ArcGIS sowie mit Cloud-Speichern zusammenarbeitet. Es unterstützt die Visualisierung und Analyse von Geodaten.
 
 Vorteile
 """"""""
-- Standardisierung: Einheitliche Struktur für Geodatenkataloge, die die Nutzung und Integration vereinfacht.
-- Flexibilität: Raum für Erweiterungen, um spezifische Anforderungen abzudecken.
-- Effizienz: Ermöglicht gezielte Abfragen nach Metainformationen wie Bounding Box oder Zeitstempel.
+- **Standardisierung:** Einheitliche Struktur für Geodatenkataloge, die die Nutzung und Integration vereinfacht.
+- **Flexibilität:** Raum für Erweiterungen, um spezifische Anforderungen abzudecken.
+- **Effizienz:** Ermöglicht gezielte Abfragen nach Metainformationen wie Bounding Box oder Zeitstempel.
 
 .. note:: STAC wird zunehmend in Geodateninfrastrukturen eingesetzt, z.B. bei der Bereitstellung von freien Geodaten durch Behörden wie das Landesamt für Geoinformation Niedersachsen (LGLN).
 
