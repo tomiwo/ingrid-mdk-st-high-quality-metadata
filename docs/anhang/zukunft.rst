@@ -83,3 +83,5 @@ Vorteile
 - Effizienz: Ermöglicht gezielte Abfragen nach Metainformationen wie Bounding Box oder Zeitstempel.
 
 .. note:: STAC wird zunehmend in Geodateninfrastrukturen eingesetzt, z.B. bei der Bereitstellung von freien Geodaten durch Behörden wie das Landesamt für Geoinformation Niedersachsen (LGLN).
+
+----------------------------------------------------------------------------------------------
