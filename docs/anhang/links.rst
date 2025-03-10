@@ -35,8 +35,6 @@ Weiterführende Links
 **Bertelsmannstiftung**
 
 - Open Data in Kommunen - https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/open-data-in-kommunen-all
+- Musterdatenkatalog - Übersicht über Open Data in Kommunen - https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog
 
 ------------------------------------------------------------------------------
-
-
-
