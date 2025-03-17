@@ -33,7 +33,7 @@ Merkmale des Datensatzes
 
 Fügen Sie dem Metadatensatz die entsprechenden Merkmale hinzu, wodurch die Eingabefelder in der Eingabemaske entsprechend angepasst werden.
 
-.. seealso:: Die Merkmale sin in der `Bedienungsanleitung für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-dokument.html#abschnitt-merkmale>`_ beschrieben.
+.. seealso:: Die Merkmale sind in der `Bedienungsanleitung für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-dokument.html#abschnitt-merkmale>`_ beschrieben.
 
 
 
