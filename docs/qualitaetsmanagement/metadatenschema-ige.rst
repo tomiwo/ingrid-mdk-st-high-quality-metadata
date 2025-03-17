@@ -61,10 +61,10 @@ Ergänzen Sie den Metadatensatz mit einer Vorschaugrafik, damit sich Interessier
 Feld Adressen
 """""""""""""
 
-Mindestens zwei Adressangaben müssen im Metadatensatz enthalten sein.
+Mindestens zwei Adressangaben müssen im Metadatensatz enthalten sein:
 
-1. die Auskunft gebende Stelle für die Daten (Ansprechpartner)
-2. die Auskunft gebende Stelle zur Metadatenbeschreibung (Ansprechpartner MD)
+1. Die Auskunft gebende Stelle für die Daten (Ansprechpartner).
+2. Die Auskunft gebende Stelle zur Metadatenbeschreibung (Ansprechpartner MD).
 
 Weitere Adressangaben können in die Metadaten eingefügt werden. Verwenden Sie möglichst keine persönlichen Daten, sondern geben Sie den Fachbereich an, um sicherzustellen, dass ein Vertreter Auskunft geben kann. Verwenden Sie für die Angabe der E-Mail-Adresse Funktionspostfächer. 
 
@@ -121,10 +121,11 @@ Zeitbezug
 ---------
 
 Unter Zeitbezug werden Zeitpunkte, Zeiträume, Zeitspannen, Perioden oder Intervalle der zu beschreibenden Daten (Ressourcen) eingetragen. Diese Angaben sind bei der Suche nach Metadaten wichtig, um die gesuchten Daten (Ressourcen) zeitlich eingrenzen zu können.
-In den Metadaten werden zwei verschiedene Zeitbezüge unterschieden.
+In den Metadaten werden zwei verschiedene Zeitbezüge unterschieden:
 
-1. der Zeitbezug der Metadaten, d.h. wann wurden die Metadaten erstellt, geändert oder veröffentlicht und von wem? Diese Informationen stehen im Kopf der Metadaten und werden automatisch ermittelt.
-2. die Zeitbezüge zu den Daten (Ressourcen), die hier mit den Metadaten beschrieben werden. Diese Informationen sollten in diesem Abschnitt so genau wie möglich erfasst und beschrieben werden.
+1. Der Zeitbezug der Metadaten, d.h. wann wurden die Metadaten erstellt, geändert oder veröffentlicht und von wem? Diese Informationen stehen im Kopf der Metadaten und werden automatisch ermittelt.
+
+2. Die Zeitbezüge zu den Daten (Ressourcen), die hier mit den Metadaten beschrieben werden. Diese Informationen sollten in diesem Abschnitt so genau wie möglich erfasst und beschrieben werden.
 
 Die am häufigsten verwendeten Zeitbezüge in Metadaten gehören zu den folgenden Kategorien:
 
