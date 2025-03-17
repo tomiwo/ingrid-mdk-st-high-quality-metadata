@@ -133,7 +133,7 @@ Die am häufigsten verwendeten Zeitbezüge in Metadaten gehören zu den folgende
 **Datum** der letzten Aktualisierung: Verweist auf das Datum, an dem die Ressource zuletzt aktualisiert wurde. Dieses Datum ist besonders wichtig für Daten, die regelmäßig aktualisiert werden müssen. Es sollte spätestens sechs Monate nach der Überarbeitung der Daten in den Metadaten aktualisiert werden.
 **Zeitlicher Umfang:** Beschreibt den Zeitraum, den die Ressource abdeckt. Dies kann durch ein einzelnes Datum, ein Datumsintervall (Start- und Enddatum) oder eine Kombination aus beiden angegeben werden. Diese Form ist insbesondere für die inhaltliche zeitliche Dimension der Daten relevant.
 
-..hint:: Die Felder für den Zeitbezug werden derzeit überarbeitet und benutzerfreundlicher gestaltet.
+.. hint:: Die Felder für den Zeitbezug werden derzeit überarbeitet und benutzerfreundlicher gestaltet.
 
 
 
