@@ -10,13 +10,19 @@ Titel
 
 Der Titel für Metadaten sollte folgendermaßen gestaltet sein:
 
-- **Aussagekräftig und prägnant:** Der Titel sollte den Inhalt des Datensatzes mit wenigen Worten treffend beschreiben und nicht länger als etwa 10 Wörter oder 60-70 Zeichen sein.
-- **Eindeutig identifizierbar:** Der Titel sollte den Datensatz klar von anderen unterscheiden und spezifische Informationen enthalten.
-- **Relevante Informationen einschließen:** Geltungsbereich (z.B. Bundesland; Stadt, Gemeinde) und Zeitbezug sollten, wenn sinnvoll, im Titel enthalten sein.
-- **Suchbegriffe berücksichtigen:** Wichtige Suchbegriffe sollten im Titel enthalten sein, um die Auffindbarkeit zu verbessern.
-- **Systematik folgen:** Titel verwandter Datensätze sollten ähnlich aufgebaut sein, um Zusammenhänge erkennbar zu machen.
-- **Abkürzungen vermeiden:** Verwenden Sie ausgeschriebene Begriffe und fügen Sie gebräuchliche Abkürzungen hinzu, um sowohl Experten als auch fachfremde Dritte anzusprechen. Wenn die Begriffe zu lang sind, schreiben Sie sie in der Beschreibung aus oder erläutern Sie sie in der Beschreibung.
-- **Einzigartigkeit gewährleisten:** Jede Webseite oder jeder Datensatz sollte einen eigenen, eindeutigen Titel haben.
+| **Aussagekräftig und prägnant:** Der Titel sollte den Inhalt des Datensatzes mit wenigen Worten treffend beschreiben und nicht länger als etwa 10 Wörter oder 60-70 Zeichen sein.
+
+| **Eindeutig identifizierbar:** Der Titel sollte den Datensatz klar von anderen unterscheiden und spezifische Informationen enthalten.
+
+| **Relevante Informationen einschließen:** Geltungsbereich (z.B. Bundesland; Stadt, Gemeinde) und Zeitbezug sollten, wenn sinnvoll, im Titel enthalten sein.
+
+| **Suchbegriffe berücksichtigen:** Wichtige Suchbegriffe sollten im Titel enthalten sein, um die Auffindbarkeit zu verbessern.
+
+| **Systematik folgen:** Titel verwandter Datensätze sollten ähnlich aufgebaut sein, um Zusammenhänge erkennbar zu machen.
+
+| **Abkürzungen vermeiden:** Verwenden Sie ausgeschriebene Begriffe und fügen Sie gebräuchliche Abkürzungen hinzu, um sowohl Experten als auch fachfremde Dritte anzusprechen. Wenn die Begriffe zu lang sind, schreiben Sie sie in der Beschreibung aus oder erläutern Sie sie in der Beschreibung.
+
+| **Einzigartigkeit gewährleisten:** Jede Webseite oder jeder Datensatz sollte einen eigenen, eindeutigen Titel haben.
 Durch die Beachtung dieser Punkte wird sichergestellt, dass der Titel informativ, nutzerfreundlich und für Suchfunktionen optimiert ist.
 
 
