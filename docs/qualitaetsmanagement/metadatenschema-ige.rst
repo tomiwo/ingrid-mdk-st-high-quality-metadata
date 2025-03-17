@@ -33,6 +33,9 @@ Merkmale des Datensatzes
 
 Fügen Sie dem Metadatensatz die entsprechenden Merkmale hinzu, wodurch die Eingabefelder in der Eingabemaske entsprechend angepasst werden.
 
+.. seealso:: Die Merkmale sin in der `Bedienungsanleitung für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-dokument.html#abschnitt-merkmale>`_ beschrieben.
+
+
 
 ------------------------------------------------------------------------------------------------------
 
@@ -111,7 +114,7 @@ Für die Angabe der Raumbezüge stehen drei Möglichkeiten zur Verfügung:
 2. **Geo-Thesaurus:** Ein Dienst des Bundesamtes für Kartographie und Geodäsie (BKG) 
 3. **Raumbezug WKT:** Well-Known Text für die Darstellung von Polygonen (für Experten)
 
-Wie die Raumbezüge angegeben werden, ist in der `Bedienungsanleitung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-raumbezug>`_ beschrieben.
+.. seealso:: Wie die Raumbezüge angegeben werden, ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-raumbezug>`_ beschrieben.
 
 Bei der Auswahl des Raumbezugs kann durch Aktivieren des angezeigten Kontrollkästchens der Amtliche Regionalschlüssel (ARS) mit angezeigt werden.
 
