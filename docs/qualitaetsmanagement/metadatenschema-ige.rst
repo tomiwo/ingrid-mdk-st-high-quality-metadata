@@ -38,12 +38,17 @@ Feld Beschreibung
 
 Der Text für das Feld Beschreibung in den Metadaten sollte folgende Kriterien erfüllen:
 
-- **Inhalt:** Beschreiben Sie den Entstehungsprozess und den Inhalt der Daten nicht zu kurz und nicht zu lang.
-- **Prägnanz und Klarheit:** Der Text sollte den Inhalt der Ressource kurz und prägnant zusammenfassen.
-- **Schlüsselwörter:** Wichtige Begriffe, die den Inhalt der Seite oder des Datensatzes beschreiben, sollten enthalten sein. Sie erhöhen die Auffindbarkeit und die Relevanz.
-- **Einzigartigkeit:** Jede Beschreibung sollte individuell gestaltet sein, um doppelte Inhalte zu vermeiden und sich von anderen Metadatensätzen abzuheben.
-- **Nutzerorientierung:** Die Beschreibung sollte aus der Perspektive des Nutzers formuliert sein und dessen Erwartungen erfüllen.
-- **Verständliche Sprache:**  Der Fokus sollte auf einer verständlichen Sprache liegen, die sowohl für Experten als auch fachfremde Dritte geeignet ist. Vermeiden Sie Abkürzungen. Verwenden Sie ausgeschriebene Begriffe und fügen Sie gebräuchliche Abkürzungen hinzu.
+| **Inhalt:** Beschreiben Sie den Entstehungsprozess und den Inhalt der Daten nicht zu kurz und nicht zu lang.
+
+| **Prägnanz und Klarheit:** Der Text sollte den Inhalt der Ressource kurz und prägnant zusammenfassen.
+
+| **Schlüsselwörter:** Wichtige Begriffe, die den Inhalt der Seite oder des Datensatzes beschreiben, sollten enthalten sein. Sie erhöhen die Auffindbarkeit und die Relevanz.
+
+| **Einzigartigkeit:** Jede Beschreibung sollte individuell gestaltet sein, um doppelte Inhalte zu vermeiden und sich von anderen Metadatensätzen abzuheben.
+
+| **Nutzerorientierung:** Die Beschreibung sollte aus der Perspektive des Nutzers formuliert sein und dessen Erwartungen erfüllen.
+
+| **Verständliche Sprache:**  Der Fokus sollte auf einer verständlichen Sprache liegen, die sowohl für Experten als auch fachfremde Dritte geeignet ist. Vermeiden Sie Abkürzungen. Verwenden Sie ausgeschriebene Begriffe und fügen Sie gebräuchliche Abkürzungen hinzu.
 
 Durch diese Gestaltung wird die Beschreibung sowohl für Suchmaschinen als auch für menschliche Nutzer optimiert.
 
