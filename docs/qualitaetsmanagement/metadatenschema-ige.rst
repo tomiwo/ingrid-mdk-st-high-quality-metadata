@@ -292,9 +292,11 @@ Die URL sollte vollständig angegeben und regelmäßig auf Aktualität überprü
 
 Die Angabe des Dateiformats in einem Verweis von Metadaten auf ein externes Medium ist aus mehreren Gründen wichtig:
 
-**Technische Kompatibilität:** Sie informiert den Nutzer über die technischen Anforderungen zum Öffnen des Mediums. Dies ermöglicht es, vorab zu prüfen, ob die notwendige Software verfügbar ist.
-**Erwartungsmanagement:** Nutzer können besser einschätzen, was sie erwartet (z.B. eine CSV-Datei statt einer Webseite), was die Entscheidung zur Nutzung des Mediums erleichtert.
-**Barrierefreiheit:** Nutzer mit Einschränkungen können besser einschätzen, ob das Medium für sie zugänglich ist (z.B. Textdateien für Screenreader).
+| **Technische Kompatibilität:** Sie informiert den Nutzer über die technischen Anforderungen zum Öffnen des Mediums. Dies ermöglicht es, vorab zu prüfen, ob die notwendige Software verfügbar ist.
+
+| **Erwartungsmanagement:** Nutzer können besser einschätzen, was sie erwartet (z.B. eine CSV-Datei statt einer Webseite), was die Entscheidung zur Nutzung des Mediums erleichtert.
+
+| **Barrierefreiheit:** Nutzer mit Einschränkungen können besser einschätzen, ob das Medium für sie zugänglich ist (z.B. Textdateien für Screenreader).
 
 
 **Feld Interenen Verweis Hinzufügen**
