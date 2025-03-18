@@ -186,7 +186,12 @@ Zugriffsbeschränkungen
 
 Sie legen fest, wer auf bestimmte Daten oder Ressourcen zugreifen darf. Sie können technischer (z.B. Passwortschutz) oder rechtlicher Natur (z.B. Lizenzvereinbarungen) sein.
 
-Ressourcen, die unter einer offenen Lizenz nachgenutzt werden können, sind im InGrid-Editor als „OpenData“ zu indizieren. Die Offenheit der Ressource ist in den Erfassungsmerkmalen anzugeben. Beispiel: „Es gelten keine Zugangsbeschränkungen“ / “Es gelten keine Anwendungseinschränkungen“.
+Ressourcen, die unter einer offenen Lizenz nachgenutzt werden können, sind im InGrid-Editor als „OpenData“ zu indizieren. Die Offenheit der Ressource ist in den Erfassungsmerkmalen anzugeben.
+
+**Beispiel:**
+
+  - Es gelten keine Zugangsbeschränkungen.
+  - Es gelten keine Anwendungseinschränkungen.
 
 Insbesondere bei „INSPIRE“-indizierten Geodaten ist die Verwendung einer offenen Lizenz in der Regel angezeigt und gemäß HVD-DVO (s.o.) ab dem 09.06.2024 verpflichtend.
 
