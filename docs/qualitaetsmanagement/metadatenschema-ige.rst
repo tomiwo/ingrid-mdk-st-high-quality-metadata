@@ -204,7 +204,7 @@ In Deutschland sind hierfür insbesondere die „Datenlizenz Deutschland“ sowi
 
 Beschluss 130 - `Empfehlungen zur Lizenzierung offener Geodaten <https://www.gdi-de.org/download/Beschluss/Beschluss_130_Empfehlungen_zur_Lizenzierung_offener_Geodaten_V1-0.pdf>`_ (GDI-DE), sowie die Erfüllung der Anforderungen an eine offene Lizenz gemäß der `Durchführungsverordnung <https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32023R0138&from=DE>`_ (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (HVD-DVO). 
 
-Die EU-Verordnung (EU) 2023/138 bildet die Grundlage für die vorliegende Lizenz.
+Die EU-Verordnung (EU) 2023/138 bildet die Grundlage für die vorliegenden Lizenzen.
 
 Beide offenen Lizenzen (Datenlizenz Deutschland und Creative Commons) liegen jeweils in einer Variante vor, die bei einer Weiterverwendung der Daten/Ressource eine Quellenangabe (Namensnennung des Datenbereitstellers) vorschreibt:
 
