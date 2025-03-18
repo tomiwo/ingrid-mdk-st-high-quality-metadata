@@ -100,6 +100,18 @@ Wählen Sie aus den Feldern die passenden Schlagwörter zur Beschreibung der Dat
 Fachbezug
 ---------
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Abschnitt Fachbezug
+
+   metadatenschema-fachbezug-geodatensatz.rst
+   metadatenschema-fachbezug-geodatendienst.rst
+   metadatenschema-fachbezug-anwendung.rst
+   metadatenschema-fachbezug-datenbank.rst
+   metadatenschema-fachbezug-dokument.rst
+
+
+---------------------------------------------------------------------------------------------------
 
 Datenqualität
 --------------
