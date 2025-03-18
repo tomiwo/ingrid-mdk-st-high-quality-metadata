@@ -110,7 +110,6 @@ Fachbezug
    metadatenschema-fachbezug-datenbank.rst
    metadatenschema-fachbezug-dokument.rst
 
-
 ---------------------------------------------------------------------------------------------------
 
 Datenqualität
@@ -120,6 +119,8 @@ Der Abschnitt Datenqualität ist nur in den Metadaten des Datentyps Geodatensatz
 
 .. seealso:: Wie die Felder für die Datenqualität ausgefüllt werden, ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/qualitaetssicherung/abschnitt_datenqualitaet.html>`_ beschrieben.
 
+
+---------------------------------------------------------------------------------------------------
 
 Raumbezug
 ---------
@@ -145,7 +146,7 @@ Feld Koordinatenreferenzsystem
 """""""""""""""""""""""""""""""
 Hier sind die Koordinatenreferenzsysteme der zu erfassenden Geodaten anzugeben, in denen die Daten ausgegeben werden können. Die entsprechenden Koordinatenreferenzsysteme sind vollständig anzugeben. Die gebräuchlichsten Koordinatenreferenzsysteme stehen oben in der Favoritenliste, die durch eine horizontale Linie abgegrenzt ist. Der Raumbezug kann durch Höhenangaben (Minimum, Maximum, Maßeinheit) und das Vertikaldatum ergänzt werden, für weitere Angaben steht das Feld Erläuterung zur Verfügung.
 
-
+---------------------------------------------------------------------------------------------------
 
 Zeitbezug
 ---------
@@ -182,6 +183,7 @@ Beschreibt den Zeitraum, den die Ressource abdeckt. Dies kann durch ein einzelne
 .. hint:: Die Felder für den Zeitbezug werden derzeit überarbeitet und benutzerfreundlicher gestaltet.
 
 
+---------------------------------------------------------------------------------------------------
 
 Zusatzinformation
 ------------------
@@ -190,6 +192,8 @@ Im Bereich Zusatzinformationen werden die Sprache des Metadatensatzes und die Sp
 
 .. seealso:: Das Ausfüllen weiterer Felder ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-zusatzinformation>`_ beschrieben. 
 
+
+---------------------------------------------------------------------------------------------------
 
 Verfügbarkeit
 --------------
@@ -260,6 +264,7 @@ Beschränkung oder Einschränkung, die für eine bestimmte Anwendung, Software o
 **Geografische Einschränkungen:** Einige Anwendungen können nur in bestimmten Ländern oder Regionen verfügbar sein.
 
 
+---------------------------------------------------------------------------------------------------
 
 Verweise
 ---------
@@ -324,6 +329,8 @@ Soll eine interner Verweis erstellt werden, muss der Link INTERNER VERWEIS HINZU
 
 Im Feld "Erläuterung" können weitere Hinweise zur Nutzung oder Interpretation des verlinkten Mediums beschrieben werden.
 
+
+---------------------------------------------------------------------------------------------------
 
 Dateien
 -------
