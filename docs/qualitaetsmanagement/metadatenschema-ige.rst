@@ -206,17 +206,14 @@ Beschluss 130 - `Empfehlungen zur Lizenzierung offener Geodaten <https://www.gdi
 
 Die EU-Verordnung (EU) 2023/138 bildet die Grundlage für die vorliegende Lizenz.
 
-Beide offenen Lizenzen (Datenlizenz Deutschland und Creative Commons) liegen jeweils in einer Variante vor, 
+Beide offenen Lizenzen (Datenlizenz Deutschland und Creative Commons) liegen jeweils in einer Variante vor, die bei einer Weiterverwendung der Daten/Ressource eine Quellenangabe (Namensnennung des Datenbereitstellers) vorschreibt:
 
 
-  - die bei einer Weiterverwendung der Daten/Ressource eine Quellenangabe (Namensnennung des Datenbereitstellers) vorschreibt:
+  - https://www.govdata.de/dl-de/by-2-0 
+  - https://creativecommons.org/licenses/by/4.0/deed.de
 
 
-    - https://www.govdata.de/dl-de/by-2-0 
-    - https://creativecommons.org/licenses/by/4.0/deed.de
-
-
-  - bei der bei einer Weiterverwendung der Daten/Ressource der Datenbereitsteller nicht angegeben werden muss (ohne Namensnennung - zero).
+bei der bei einer Weiterverwendung der Daten/Ressource der Datenbereitsteller nicht angegeben werden muss (ohne Namensnennung - zero).
 
 
   - https://www.govdata.de/dl-de/zero-2-0
