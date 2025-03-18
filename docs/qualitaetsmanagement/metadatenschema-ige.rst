@@ -160,7 +160,7 @@ Zusatzinformation
 
 Im Bereich Zusatzinformationen werden die Sprache des Metadatensatzes und die Sprache der Ressource beim Anlegen des Metadatensatzes automatisch auf Deutsch gesetzt. Wird in den Daten oder Metadaten eine andere Sprache verwendet, müssen die entsprechenden Einstellungen vorgenommen werden.
 
-Das Ausfüllen weiterer Felder ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-zusatzinformation>`_ beschrieben. 
+.. seealso:: Das Ausfüllen weiterer Felder ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-zusatzinformation>`_ beschrieben. 
 
 
 Verfügbarkeit
