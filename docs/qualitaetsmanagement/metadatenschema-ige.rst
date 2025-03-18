@@ -194,7 +194,7 @@ Insbesondere bei „INSPIRE“-indizierten Geodaten ist die Verwendung einer off
 Nutzungsbedingungen
 """""""""""""""""""
 
-Diese beziehen sich auf die Nutzung von Daten oder Software und können in Lizenzen festgelegt werden. Sie können z.B. die Art der Nutzung (kommerziell / nicht kommerziell) oder die Möglichkeit der Bearbeitung einschränken. Insgesamt dienen diese Regelungen dazu, die Rechte und Pflichten der Nutzer zu klären und den Missbrauch von Daten oder Diensten zu verhindern.
+Diese beziehen sich auf die Nutzung von Daten oder Software und können in **Lizenzen** festgelegt werden. Sie können z.B. die Art der Nutzung (kommerziell / nicht kommerziell) oder die Möglichkeit der Bearbeitung einschränken. Insgesamt dienen diese Regelungen dazu, die Rechte und Pflichten der Nutzer zu klären und den Missbrauch von Daten oder Diensten zu verhindern.
 
 Es wird angeregt, die Metadateneinträge zu den einzelnen Ressourcen (Datensätze, Dienste, Dokumente etc.) dahingehend zu überprüfen, ob diese Daten nicht als Open Data zur freien Nutzung zur Verfügung gestellt werden können.
 
