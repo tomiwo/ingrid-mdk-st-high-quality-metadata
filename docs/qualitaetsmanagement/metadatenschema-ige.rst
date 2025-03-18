@@ -194,12 +194,15 @@ Insbesondere bei „INSPIRE“-indizierten Geodaten ist die Verwendung einer off
 Nutzungsbedingungen / Lizenzen
 """"""""""""""""""""""""""""""
 
-Diese beziehen sich auf die Nutzung von Daten oder Software und können in Lizenzen festgelegt werden. Sie können z.B. die Art der Nutzung (kommerziell / nicht kommerziell) oder die Möglichkeit der Bearbeitung einschränken.
-Insgesamt dienen diese Regelungen dazu, die Rechte und Pflichten der Nutzer zu klären und den Missbrauch von Daten oder Diensten zu verhindern.
+Diese beziehen sich auf die Nutzung von Daten oder Software und können in Lizenzen festgelegt werden. Sie können z.B. die Art der Nutzung (kommerziell / nicht kommerziell) oder die Möglichkeit der Bearbeitung einschränken. Insgesamt dienen diese Regelungen dazu, die Rechte und Pflichten der Nutzer zu klären und den Missbrauch von Daten oder Diensten zu verhindern.
 
 Es wird angeregt, die Metadateneinträge zu den einzelnen Ressourcen (Datensätze, Dienste, Dokumente etc.) dahingehend zu überprüfen, ob diese Daten nicht als Open Data zur freien Nutzung zur Verfügung gestellt werden können.
 
-Sofern die in den Metadaten beschriebene Ressource keinen rechtlichen Nutzungsbeschränkungen unterliegt, die einer freien Nutzung der Ressource entgegenstehen, sollte die Nutzung der Ressource unter eine offene Lizenz gestellt werden. In Deutschland sind hierfür insbesondere die „Datenlizenz Deutschland“ sowie die international gültige „Creative Commons“-Lizenz relevant. Diese beiden Lizenzen werden auch vom Lenkungsgremium der Geodateninfrastruktur Deutschland für die Lizenzierung offener Geodaten empfohlen, Beschluss 130 - `Empfehlungen zur Lizenzierung offener Geodaten <https://www.gdi-de.org/download/Beschluss/Beschluss_130_Empfehlungen_zur_Lizenzierung_offener_Geodaten_V1-0.pdf>`_ (GDI-DE), sowie die Erfüllung der Anforderungen an eine offene Lizenz gemäß `Durchführungsverordnung <https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32023R0138&from=DE>`_ (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (HVD-DVO). 
+Sofern die in den Metadaten beschriebene Ressource keinen rechtlichen Nutzungsbeschränkungen unterliegt, die einer freien Nutzung der Ressource entgegenstehen, sollte die Nutzung der Ressource unter eine offene Lizenz gestellt werden. 
+
+In Deutschland sind hierfür insbesondere die „Datenlizenz Deutschland“ sowie die international gültige „Creative Commons“-Lizenz relevant. Diese beiden Lizenzen werden auch vom Lenkungsgremium der Geodateninfrastruktur Deutschland für die Lizenzierung offener Geodaten empfohlen.
+
+Beschluss 130 - `Empfehlungen zur Lizenzierung offener Geodaten <https://www.gdi-de.org/download/Beschluss/Beschluss_130_Empfehlungen_zur_Lizenzierung_offener_Geodaten_V1-0.pdf>`_ (GDI-DE), sowie die Erfüllung der Anforderungen an eine offene Lizenz gemäß der `Durchführungsverordnung <https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32023R0138&from=DE>`_ (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (HVD-DVO) empfohlen. 
 
 Die EU-Verordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (HVD-DVO) bildet die Grundlage für die vorliegende Lizenz.
 
