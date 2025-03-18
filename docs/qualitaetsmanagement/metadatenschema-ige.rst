@@ -274,8 +274,8 @@ Wurde der Typ aus der Liste ausgewählt, müssen weitere Felder befüllt werden.
 Der Titel eines Verweises auf ein externes Medium sollte folgende Eigenschaften aufweisen:
 Einfach und selbsterklärend: Verwenden Sie keine komplizierten Begriffe oder Abkürzungen. Der Titel sollte auch für Fachfremde verständlich sein.
 
-**Prägnant:** Der Titel sollte kurz und präzise sein.
-**Informativ:** Er sollte den Inhalt des externen Mediums treffend wiedergeben.
+| **Prägnant:** Der Titel sollte kurz und präzise sein.
+| **Informativ:** Er sollte den Inhalt des externen Mediums treffend wiedergeben.
 
 
 **Auswahl Externe URL / Interner Datensatz**
