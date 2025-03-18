@@ -186,7 +186,7 @@ Zugriffsbeschränkungen
 
 Sie legen fest, wer auf bestimmte Daten oder Ressourcen zugreifen darf. Sie können technischer (z.B. Passwortschutz) oder rechtlicher Natur (z.B. Lizenzvereinbarungen) sein.
 
-Ressourcen, die unter einer offenen Lizenz nachgenutzt werden können, sind im InGrid-Editor als „OpenData“ zu indizieren. Die Offenheit der Ressource ist in den Erfassungsmerkmalen anzugeben.
+Ressourcen (Daten), die unter einer offenen Lizenz weiterverwendet werden können, werden im InGrid-Editor in den Merkmalen als „OpenData“ gekennzeichnet. Die Offenheit der Ressource ist in den Erfassungsmerkmalen anzugeben.
 
 **Beispiel:**
 
@@ -203,7 +203,7 @@ Diese beziehen sich auf die Nutzung von Daten oder Software und können in **Liz
 
 Es wird angeregt, die Metadateneinträge zu den einzelnen Ressourcen (Datensätze, Dienste, Dokumente etc.) dahingehend zu überprüfen, ob diese Daten nicht als Open Data zur freien Nutzung zur Verfügung gestellt werden können.
 
-Sofern die in den Metadaten beschriebene Ressource keinen rechtlichen Nutzungsbeschränkungen unterliegt, die einer freien Nutzung der Ressource entgegenstehen, sollte die Nutzung der Ressource unter eine offene Lizenz gestellt werden. 
+Sofern die in den Metadaten beschriebene Ressource keinen rechtlichen Nutzungsbeschränkungen unterliegt, die einer freien Nutzung der Ressource entgegenstehen, sollte die Nutzung der Ressource (Daten) unter eine offene Lizenz gestellt werden. 
 
 In Deutschland sind hierfür insbesondere die „Datenlizenz Deutschland“ sowie die international gültige „Creative Commons“-Lizenz relevant. Diese beiden Lizenzen werden auch vom Lenkungsgremium der Geodateninfrastruktur Deutschland für die Lizenzierung offener Geodaten empfohlen.
 
