@@ -102,7 +102,6 @@ Fachbezug
 
 .. toctree::
    :maxdepth: 1
-   :caption: Abschnitt Fachbezug
 
    metadatenschema-fachbezug-geodatensatz.rst
    metadatenschema-fachbezug-geodatendienst.rst
