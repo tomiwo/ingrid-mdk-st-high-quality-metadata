@@ -158,9 +158,81 @@ Die am häufigsten verwendeten Zeitbezüge in Metadaten gehören zu den folgende
 Zusatzinformation
 ------------------
 
+Im Bereich Zusatzinformationen werden die Sprache des Metadatensatzes und die Sprache der Ressource beim Anlegen des Metadatensatzes automatisch auf Deutsch gesetzt. Wird in den Daten oder Metadaten eine andere Sprache verwendet, müssen die entsprechenden Einstellungen vorgenommen werden.
+
+Das Ausfüllen weiterer Felder ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-zusatzinformation>`_ beschrieben. 
+
 
 Verfügbarkeit
 --------------
+
+Der Unterschied zwischen Zugangsbeschränkungen, Nutzungsbedingungen und Anwendungseinschränkungen liegt in ihrer rechtlichen Bedeutung:
+
+
+Zugriffsbeschränkungen
+"""""""""""""""""""""""
+
+Sie legen fest, wer auf bestimmte Daten oder Ressourcen zugreifen darf. Sie können technischer (z.B. Passwortschutz) oder rechtlicher Natur (z.B. Lizenzvereinbarungen) sein.
+
+Ressourcen, die unter einer offenen Lizenz nachgenutzt werden können, sind im InGrid-Editor als „OpenData“ zu indizieren. Die Offenheit der Ressource ist in den Erfassungsmerkmalen anzugeben. Beispiel: „Es gelten keine Zugangsbeschränkungen“ / “Es gelten keine Anwendungseinschränkungen“.
+
+Insbesondere bei „INSPIRE“-indizierten Geodaten ist die Verwendung einer offenen Lizenz in der Regel angezeigt und gemäß HVD-DVO (s.o.) ab dem 09.06.2024 verpflichtend.
+
+
+Nutzungsbedingungen / Lizenzen
+""""""""""""""""""""""""""""""
+
+Diese beziehen sich auf die Nutzung von Daten oder Software und können in Lizenzen festgelegt werden. Sie können z.B. die Art der Nutzung (kommerziell / nicht kommerziell) oder die Möglichkeit der Bearbeitung einschränken.
+Insgesamt dienen diese Regelungen dazu, die Rechte und Pflichten der Nutzer zu klären und den Missbrauch von Daten oder Diensten zu verhindern.
+
+Es wird angeregt, die Metadateneinträge zu den einzelnen Ressourcen (Datensätze, Dienste, Dokumente etc.) dahingehend zu überprüfen, ob diese Daten nicht als Open Data zur freien Nutzung zur Verfügung gestellt werden können.
+
+Sofern die in den Metadaten beschriebene Ressource keinen rechtlichen Nutzungsbeschränkungen unterliegt, die einer freien Nutzung der Ressource entgegenstehen, sollte die Nutzung der Ressource unter eine offene Lizenz gestellt werden. In Deutschland sind hierfür insbesondere die „Datenlizenz Deutschland“ sowie die international gültige „Creative Commons“-Lizenz relevant. Diese beiden Lizenzen werden auch vom Lenkungsgremium der Geodateninfrastruktur Deutschland für die Lizenzierung offener Geodaten empfohlen
+
+Beschluss_130_Empfehlungen_zur_Lizenzierung_offener_Geodaten_V1-0.pdf (gdi-de.org) 
+
+sowie die Erfüllung der Anforderungen an eine offene Lizenz gemäß Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (HVD-DVO). 
+
+Die EU-Verordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (HVD-DVO) bildet die Grundlage für die vorliegende Lizenz.
+
+Beide offenen Lizenzen (Datenlizenz Deutschland und Creative Commons) liegen jeweils in einer Variante vor, 
+
+
+  - die bei einer Weiterverwendung der Daten/Ressource eine Quellenangabe (Namensnennung des Datenbereitstellers) vorschreibt:
+
+
+  Siehe:
+
+    - https://www.govdata.de/dl-de/by-2-0 
+    - https://creativecommons.org/licenses/by/4.0/deed.de
+
+
+  - bei der bei einer Weiterverwendung der Daten/Ressource der Datenbereitsteller nicht angegeben werden muss (ohne Namensnennung - zero).
+
+  Siehe:
+
+  - https://www.govdata.de/dl-de/zero-2-0
+  - https://creativecommons.org/publicdomain/zero/1.0/deed.de
+
+
+Anwendungseinschränkungen
+"""""""""""""""""""""""""
+
+Beschränkung oder Einschränkung, die für eine bestimmte Anwendung, Software oder ein bestimmtes System gilt.
+
+
+**Beispiele:**
+
+**Zeitliche Beschränkungen:** Eine Anwendung kann nur zu bestimmten Zeiten oder für einen begrenzten Zeitraum genutzt werden.
+
+**Lizenzbeschränkungen:** Einige Softwareanwendungen erfordern eine Lizenz, um genutzt werden zu können, und können Beschränkungen hinsichtlich der Anzahl der Installationen oder der Nutzungsdauer unterliegen.
+
+**Funktionsbeschränkungen:** Bestimmte Funktionen einer Anwendung können eingeschränkt sein, z. B. in der kostenlosen Version im Vergleich zur kostenpflichtigen Version.
+
+**Hardwarevoraussetzungen:** Einige Anwendungen erfordern bestimmte Hardware oder Betriebssysteme, um ordnungsgemäß zu funktionieren.
+
+**Geografische Einschränkungen:** Einige Anwendungen können nur in bestimmten Ländern oder Regionen verfügbar sein.
+
 
 
 Verweise
