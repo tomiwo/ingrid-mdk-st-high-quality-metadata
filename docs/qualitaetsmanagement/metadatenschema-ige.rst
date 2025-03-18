@@ -248,6 +248,71 @@ Beschränkung oder Einschränkung, die für eine bestimmte Anwendung, Software o
 Verweise
 ---------
 
+**Feld Typ**
+
+Die Art des Verweises hängt vom gewählten Typ ab, wobei die größte Auswahl bei der Beschreibung des Typs Geodatensatz besteht.
+
+  - Basisdaten
+  - Bestellung
+  - Datendownload
+  - Batengrundlage
+  - Fachliche Grundlage
+  - Herstellungsprozess
+  - Information
+  - Nutzungsbedingungen
+  - Offline-Zugang
+  - Schlüsselkatalog
+  - Suche
+  - Symbolkatalog
+  - unspezifischer Verweis
+  - Verweis zu Dienst
+
+Wurde der Typ aus der Liste ausgewählt, müssen weitere Felder befüllt werden. 
+
+**Feld Titel**
+
+Der Titel eines Verweises auf ein externes Medium sollte folgende Eigenschaften aufweisen:
+Einfach und selbsterklärend: Verwenden Sie keine komplizierten Begriffe oder Abkürzungen. Der Titel sollte auch für Fachfremde verständlich sein.
+
+**Prägnant:** Der Titel sollte kurz und präzise sein.
+**Informativ:** Er sollte den Inhalt des externen Mediums treffend wiedergeben.
+
+
+**Auswahl Externe URL / Interner Datensatz**
+
+Mit dieser Auswahlmöglichkeit können Sie angeben, worauf verwiesen wird. Handelt es sich um eine externe URL (externer Verweis) oder um einen Datensatz aus dem Metadatenkatalog (interner Verweis)?
+
+
+**Feld URL**
+
+Die URL sollte vollständig angegeben und regelmäßig auf Aktualität überprüft werden. Ist die Seite noch erreichbar oder erscheint die Meldung „Error - 404 (Seite nicht erreichbar)“?
+
+
+**Feld Dateiformat**
+
+Die Angabe des Dateiformats in einem Verweis von Metadaten auf ein externes Medium ist aus mehreren Gründen wichtig:
+
+**Technische Kompatibilität:** Sie informiert den Nutzer über die technischen Anforderungen zum Öffnen des Mediums. Dies ermöglicht es, vorab zu prüfen, ob die notwendige Software verfügbar ist.
+**Erwartungsmanagement:** Nutzer können besser einschätzen, was sie erwartet (z.B. eine CSV-Datei statt einer Webseite), was die Entscheidung zur Nutzung des Mediums erleichtert.
+**Barrierefreiheit:** Nutzer mit Einschränkungen können besser einschätzen, ob das Medium für sie zugänglich ist (z.B. Textdateien für Screenreader).
+
+
+**Feld Interenen Verweis Hinzufügen**
+
+Soll eine interner Verweis erstellt werden, muss der Link INTERNER VERWEIS HINZUFÜGEN betätigt werden. Der Strukturbaum des Editors öffnet sich. Hier kann der gewünschte Metadatensatz gesucht und durch Betätigen des Buttons ÜBERNEHMEN als Verweis an dieser Stelle angelegt werden.
+
+
+**Feld Erläuterung**
+
+Im Feld "Erläuterung" können weitere Hinweise zur Nutzung oder Interpretation des verlinkten Mediums beschrieben werden.
+
 
 Dateien
 -------
+
+**Dateien Hochladen**
+
+Nach dem Hochladen der Dateien müssen diese noch bearbeitet werden. Erfasst werden Titel, Format, Beschreibung (Erläuterung) analog zur Erstellung von Verweisen.
+
+
+.. hint:: In einer zukünftigen Version des InGrid Editors werden die Bereiche Verweise und Dateien zusammengeführt. 
