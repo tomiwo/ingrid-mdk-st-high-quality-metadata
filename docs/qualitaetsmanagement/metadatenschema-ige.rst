@@ -211,10 +211,13 @@ Beide offenen Lizenzen (Datenlizenz Deutschland und Creative Commons) liegen jew
 
   - die bei einer Weiterverwendung der Daten/Ressource eine Quellenangabe (Namensnennung des Datenbereitstellers) vorschreibt:
 
+
     - https://www.govdata.de/dl-de/by-2-0 
     - https://creativecommons.org/licenses/by/4.0/deed.de
 
+
   - bei der bei einer Weiterverwendung der Daten/Ressource der Datenbereitsteller nicht angegeben werden muss (ohne Namensnennung - zero).
+
 
   - https://www.govdata.de/dl-de/zero-2-0
   - https://creativecommons.org/publicdomain/zero/1.0/deed.de
