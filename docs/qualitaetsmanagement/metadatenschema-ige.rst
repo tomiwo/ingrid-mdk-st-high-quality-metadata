@@ -191,8 +191,8 @@ Ressourcen, die unter einer offenen Lizenz nachgenutzt werden können, sind im I
 Insbesondere bei „INSPIRE“-indizierten Geodaten ist die Verwendung einer offenen Lizenz in der Regel angezeigt und gemäß HVD-DVO (s.o.) ab dem 09.06.2024 verpflichtend.
 
 
-Nutzungsbedingungen / Lizenzen
-""""""""""""""""""""""""""""""
+Nutzungsbedingungen
+"""""""""""""""""""
 
 Diese beziehen sich auf die Nutzung von Daten oder Software und können in Lizenzen festgelegt werden. Sie können z.B. die Art der Nutzung (kommerziell / nicht kommerziell) oder die Möglichkeit der Bearbeitung einschränken. Insgesamt dienen diese Regelungen dazu, die Rechte und Pflichten der Nutzer zu klären und den Missbrauch von Daten oder Diensten zu verhindern.
 
