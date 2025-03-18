@@ -178,7 +178,7 @@ Im Bereich Zusatzinformationen werden die Sprache des Metadatensatzes und die Sp
 Verfügbarkeit
 --------------
 
-Der Unterschied zwischen Zugangsbeschränkungen, Nutzungsbedingungen und Anwendungseinschränkungen liegt in ihrer rechtlichen Bedeutung:
+Der Unterschied zwischen Zugangsbeschränkungen, Nutzungsbedingungen und Anwendungseinschränkungen liegt in ihrer rechtlichen Bedeutung.
 
 
 Zugriffsbeschränkungen
@@ -199,11 +199,7 @@ Insgesamt dienen diese Regelungen dazu, die Rechte und Pflichten der Nutzer zu k
 
 Es wird angeregt, die Metadateneinträge zu den einzelnen Ressourcen (Datensätze, Dienste, Dokumente etc.) dahingehend zu überprüfen, ob diese Daten nicht als Open Data zur freien Nutzung zur Verfügung gestellt werden können.
 
-Sofern die in den Metadaten beschriebene Ressource keinen rechtlichen Nutzungsbeschränkungen unterliegt, die einer freien Nutzung der Ressource entgegenstehen, sollte die Nutzung der Ressource unter eine offene Lizenz gestellt werden. In Deutschland sind hierfür insbesondere die „Datenlizenz Deutschland“ sowie die international gültige „Creative Commons“-Lizenz relevant. Diese beiden Lizenzen werden auch vom Lenkungsgremium der Geodateninfrastruktur Deutschland für die Lizenzierung offener Geodaten empfohlen
-
-Beschluss_130_Empfehlungen_zur_Lizenzierung_offener_Geodaten_V1-0.pdf (gdi-de.org) 
-
-sowie die Erfüllung der Anforderungen an eine offene Lizenz gemäß Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (HVD-DVO). 
+Sofern die in den Metadaten beschriebene Ressource keinen rechtlichen Nutzungsbeschränkungen unterliegt, die einer freien Nutzung der Ressource entgegenstehen, sollte die Nutzung der Ressource unter eine offene Lizenz gestellt werden. In Deutschland sind hierfür insbesondere die „Datenlizenz Deutschland“ sowie die international gültige „Creative Commons“-Lizenz relevant. Diese beiden Lizenzen werden auch vom Lenkungsgremium der Geodateninfrastruktur Deutschland für die Lizenzierung offener Geodaten empfohlen (https://Beschluss_130_Empfehlungen_zur_Lizenzierung_offener_Geodaten_V1-0.pdf (gdi-de.org)) sowie die Erfüllung der Anforderungen an eine offene Lizenz gemäß Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (HVD-DVO). 
 
 Die EU-Verordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (HVD-DVO) bildet die Grundlage für die vorliegende Lizenz.
 
