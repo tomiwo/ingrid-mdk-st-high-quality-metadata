@@ -104,6 +104,10 @@ Fachbezug
 Datenqualität
 --------------
 
+Der Abschnitt Datenqualität ist nur in den Metadaten des Datentyps Geodatensatz verfügbar.
+
+.. seealso:: Wie die Felder für die Datenqualität ausgefüllt werden, ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-raumbezug>`_ beschrieben.
+
 
 Raumbezug
 ---------
