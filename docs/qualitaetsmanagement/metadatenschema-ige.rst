@@ -100,14 +100,13 @@ Wählen Sie aus den Feldern die passenden Schlagwörter zur Beschreibung der Dat
 Fachbezug
 ---------
 
-.. toctree::
-   :maxdepth: 1
+Je nach Datensatztyp unterscheidet sich der Abschnitt „Fachbezug”. Sie finden die entsprechenden Beschreibungen in den Bedienungsanleitungen für den InGrid-Editor.
 
-   metadatenschema-fachbezug-geodatensatz.rst
-   metadatenschema-fachbezug-geodatendienst.rst
-   metadatenschema-fachbezug-anwendung.rst
-   metadatenschema-fachbezug-datenbank.rst
-   metadatenschema-fachbezug-dokument.rst
+  | `Fachbezug Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html#abschnitt-fachbezug>`_
+  | `Fachbezug Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html#abschnitt-fachbezug>`_
+  | `Fachbezug Anwendung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-anwendung.html#abschnitt-fachbezug>`_
+  | `Fachbezug Datenbank <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-datenbank.html#abschnitt-fachbezug>`_
+  | `Fachbezug Dokument <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-dokument.html#abschnitt-fachbezug>`_
 
 ---------------------------------------------------------------------------------------------------
 
