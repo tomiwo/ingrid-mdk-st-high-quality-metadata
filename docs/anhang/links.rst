@@ -14,7 +14,7 @@ Weiterführende Links
 
 **GovData**
 
-- GovData - open Government - https://www.govdata.de/informationen/open-government
+- GovData - Open Government - https://www.govdata.de/informationen/open-government
 - GovData - Open Government Data - https://www.govdata.de/informationen/datenbereitsteller
 - GovData - Hochwertige Datensätze - https://www.govdata.de/informationen/hochwertige-datensaetze
 
