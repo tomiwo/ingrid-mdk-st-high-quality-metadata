@@ -100,7 +100,7 @@ Wählen Sie aus den Feldern die passenden Schlagwörter zur Beschreibung der Dat
 Fachbezug
 ---------
 
-Je nach Datensatztyp unterscheidet sich der Abschnitt „Fachbezug”. Sie finden die entsprechenden Beschreibungen in den Bedienungsanleitungen für den InGrid-Editor.
+Je nach Datensatztyp unterscheidet sich der Abschnitt „Fachbezug”. Sie finden die entsprechenden Beschreibungen in den Bedienungsanleitungen für den InGrid-Editor:
 
   | `Fachbezug Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html#abschnitt-fachbezug>`_
   | `Fachbezug Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html#abschnitt-fachbezug>`_
