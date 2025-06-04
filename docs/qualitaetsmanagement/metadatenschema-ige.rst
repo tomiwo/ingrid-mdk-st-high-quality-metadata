@@ -333,7 +333,6 @@ Im Feld "Erläuterung" können weitere Hinweise zur Nutzung oder Interpretation 
 Dateien (hochladen)
 -------------------
 
+.. seealso:: Der Vorgang für das Hochladen von Dateien, ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-dateien-hochladen>`_ beschrieben.
+
 Nach dem Hochladen der Dateien müssen diese noch bearbeitet werden. Erfasst werden Titel, Format, Beschreibung (Erläuterung) analog zur Erstellung von Verweisen.
-
-
-.. hint:: In einer zukünftigen Version des InGrid Editors werden die Bereiche Verweise und Dateien zusammengeführt. 
