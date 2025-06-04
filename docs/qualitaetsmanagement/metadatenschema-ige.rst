@@ -264,8 +264,8 @@ Beschränkung oder Einschränkung, die für eine bestimmte Anwendung, Software o
 
 ---------------------------------------------------------------------------------------------------
 
-Verweise
----------
+Verweise (anlegen)
+------------------
 
 **Feld Typ**
 
@@ -330,10 +330,8 @@ Im Feld "Erläuterung" können weitere Hinweise zur Nutzung oder Interpretation 
 
 ---------------------------------------------------------------------------------------------------
 
-Dateien
--------
-
-**Dateien Hochladen**
+Dateien (hochladen)
+-------------------
 
 Nach dem Hochladen der Dateien müssen diese noch bearbeitet werden. Erfasst werden Titel, Format, Beschreibung (Erläuterung) analog zur Erstellung von Verweisen.
 
