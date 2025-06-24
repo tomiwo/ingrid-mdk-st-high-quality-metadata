@@ -2,13 +2,13 @@
 Rechtliche Grundlagen für die Erfassung von Metadaten
 ======================================================
 
-------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 
 Europäische Richtlinien und Verordnungen
 -----------------------------------------
 
----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 
 EU OD-PSI-Richtlinie 
@@ -47,7 +47,7 @@ Die OD-PSI-Richtlinie ist Teil eines Maßnahmenpakets zur Stärkung der Datenwir
 
 **EUR-Lex:** `Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors (Neufassung) <https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L1024>`_
 
--------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 EU Durchführungsverordnung für hochwertige Datensätze – DVO HVD
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -79,7 +79,7 @@ Die als hochwertige Datensätze identifizierten Daten sind folgenden sechs Kateg
 
 **GovData:** `Häufig gestellte Fragen (FAQ) zur Durchführungsverordnung zur Festlegung bestimmter hochwertiger Datensätze <https://www.govdata.de/informationen/hochwertige-datensaetze>`_
 
---------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 INSPIRE-Richtlinie
 ^^^^^^^^^^^^^^^^^^
@@ -98,7 +98,7 @@ Die Europäische Kommission betreibt ein EU-weites INSPIRE Geoportal, das Zugang
 
 **EUR-Lex:** `Die Geodateninfrastruktur der EU (INSPIRE) <https://eur-lex.europa.eu/DE/legal-content/summary/the-eu-s-infrastructure-for-spatial-information-inspire.html>`_
 
--------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 Integrierte Verwaltungs- und Kontrollsystem (InVeKoS) 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -118,24 +118,30 @@ Konzeption, Koordinierung und Kontrolle des InVeKoS erfolgen durch die Europäis
 
 **EUR-Lex:** `Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 <https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32013R1305>`_
 
---------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+
+
+Bundesrecht
+-----------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
 
 Geologiedatengesetz (GEOLDG)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Das Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, Sicherung und öffentlichen Bereitstellung geologischer Daten und zur Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben (Geologiedatengesetz - GeolDG) vom 19.06.2020 verpflichtet die zuständige Behörde (hier das Landesamt für Geologie und Bergwesen Sachsen-Anhalt) zur öffentlichen Bereitstellung bestimmter geologischer Daten.
 
-**Bundesministerium dser Justiz / Bundesamt der Justiz:** `Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, Sicherung und öffentlichen Bereitstellung geologischer Daten und zur Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben <https://www.gesetze-im-internet.de/geoldg/>`_
+**Bundesministerium der Justiz / Bundesamt der Justiz:** `Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, Sicherung und öffentlichen Bereitstellung geologischer Daten und zur Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben <https://www.gesetze-im-internet.de/geoldg/>`_
 
 
 **Landesamt für Geologie und Bergwesen Sachsen-Anhalt:** `Häufig gestellte Fragen (FAQ) zum Geologiedatengesetz  <https://lagb.sachsen-anhalt.de/geologie/geologiedatengesetz/geologiedatengesetz-faq>`_
 
 
----------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 Landesrecht Sachsen-Anhalt
 ---------------------------
 
----------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 Informationszugangsgesetz Sachsen-Anhalt (IZG LSA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -144,7 +150,7 @@ Das Informationszugangsgesetz des Landes Sachsen-Anhalt (IZG LSA) regelt den Zug
 
 `Informationszugangsgesetz Sachsen-Anhalt (IZG LSA) vom 19. Juni 2008 <https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-InfZGSTrahmen>`_
 
--------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 Umweltinformationsgesetz des Landes Sachsen-Anhalt (UIG LSA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -153,7 +159,7 @@ Das Umweltinformationsgesetz des Landes Sachsen-Anhalt (UIG LSA), das am 18. Feb
 
 `Umweltinformationsgesetz des Landes Sachsen-Anhalt (UIG LSA) vom 14. Februar 2006 <https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-UIGSTrahmen>`_
 
---------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 Geodateninfrastrukturgesetz für das Landes Sachsen-Anhalt (GDIG LSA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -162,7 +168,7 @@ Das Geodateninfrastrukturgesetz des Landes Sachsen-Anhalt (GDIG LSA) regelt den 
 
 `Geodateninfrastrukturgesetz für das Land Sachsen-Anhalt (GDIG LSA) vom 14. Juli 2009 <https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-GDIGSTrahmen>`_
 
--------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 Landesentwicklungsgesetz Sachsen-Anhalt (LEntwG LSA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
