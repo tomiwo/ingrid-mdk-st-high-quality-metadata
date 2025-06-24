@@ -11,10 +11,10 @@ Europäische Richtlinien und Verordnungen
 ------------------------------------------------------------------------------------------------------------------------
 
 
-EU OD-PSI-Richtlinie 
-^^^^^^^^^^^^^^^^^^^^
+EU - Open Data und Public Sector Informations-Richtlinie (OD-PSI-Richtlinie)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Die Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors (Neufassung) (kurz Open Data und Public Sector Information-Richtlinie – OD-PSI-Richtlinie) reguliert die Weiterverwendung von Verwaltungsinformationen, zu denen man Zugang erhalten hat. Diese Informationen können Geodaten, Katasterinformationen, statistische oder rechtliche Informationen im Besitz öffentlicher Stellen oder öffentlicher Unternehmen sowie öffentlich finanzierte Forschungsdaten umfassen. Für bestimmte im Besitz öffentlicher Stellen oder öffentlicher Unternehmen befindlicher hochwertiger Datensätze werden zudem in einer Durchführungsverordnung die Modalitäten deren Veröffentlichung und Weiterverwendung geregelt. Die ODPSI-Richtlinie trat am 16. Juli 2019 in Kraft und ersetzt die PSI-Richtlinie aus dem Jahr 2003. Ihr Hauptziel ist die Schaffung eines Rechtsrahmens für die Weiterverwendung öffentlicher Informationen und zielt darauf ab, den Binnenmarkt zu stärken und die datengestützte Gesellschaft zu fördern. Im Folgenden werden einige wesentliche Punkte in Bezug auf Daten  und Metadaten gemäß der OD-PSI-Richtlinie dargelegt:
+Die Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors (Neufassung) (kurz Open Data und Public Sector Information-Richtlinie – OD-PSI-Richtlinie) reguliert die Weiterverwendung von Verwaltungsinformationen, zu denen man Zugang erhalten hat. Diese Informationen können Geodaten, Katasterinformationen, statistische oder rechtliche Informationen im Besitz öffentlicher Stellen oder öffentlicher Unternehmen sowie öffentlich finanzierte Forschungsdaten umfassen. Für bestimmte im Besitz öffentlicher Stellen oder öffentlicher Unternehmen befindlicher hochwertiger Datensätze werden zudem in einer Durchführungsverordnung die Modalitäten deren Veröffentlichung und Weiterverwendung geregelt. Die OD-PSI-Richtlinie trat am 16. Juli 2019 in Kraft und ersetzt die PSI-Richtlinie aus dem Jahr 2003. Ihr Hauptziel ist die Schaffung eines Rechtsrahmens für die Weiterverwendung öffentlicher Informationen und zielt darauf ab, den Binnenmarkt zu stärken und die datengestützte Gesellschaft zu fördern. Im Folgenden werden einige wesentliche Punkte in Bezug auf Daten  und Metadaten gemäß der OD-PSI-Richtlinie dargelegt:
 
 
 **Zugang und Nutzung:** Die OD-PSI-Richtlinie regelt nicht den Zugang zu Verwaltungsinformationen, sondern die Bedingungen für die Weiterverwendung dieser Informationen. Der Zugang zu den betreffenden Informationen muss sich aus anderen Gesetzen ergeben, wie beispielsweise dem Informationsfreiheitsgesetz (IFG) oder der Umsetzung der INSPIRE-Richtlinie.
@@ -49,10 +49,10 @@ Die OD-PSI-Richtlinie ist Teil eines Maßnahmenpakets zur Stärkung der Datenwir
 
 ------------------------------------------------------------------------------------------------------------------------
 
-EU Durchführungsverordnung für hochwertige Datensätze – DVO HVD
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EU - Durchführungsverordnung für hochwertige Datensätze – DVO HVD
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Die Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (DVO-HVD) ist ein auf der Grundlage der Verordnungsermächtigung der OD-PSI-RL verabschiedeter Rechtsakt der Europäischen Kommission. Sie soll den Weg zu einem europäischen Binnenmarkt für Daten ebnen und langfristig Datensouveränität und globale Wettbewerbsfähigkeit sichern. Hier einige wichtige Informationen zur DVO-HVD:
+Die Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (DVO-HVD) ist ein auf der Grundlage der Verordnungsermächtigung der "Open Data und Public Sector Informations-Richtlinie EU" verabschiedeter Rechtsakt der Europäischen Kommission. Sie soll den Weg zu einem europäischen Binnenmarkt für Daten ebnen und langfristig Datensouveränität und globale Wettbewerbsfähigkeit sichern. Hier einige wichtige Informationen zur DVO-HVD:
 
 
 **Inhalt:** Die Verordnung besteht aus zwei Dokumenten: einem Hauptteil und einem Anhang. Der Hauptteil regelt Veröffentlichungs- sowie Weiterverwendungsmodalitäten für die hochwertigen Datensätze. Im Anhang werden die hochwertigen Datensätze für verschiedene Themen / Kategorien näher beschrieben. Dabei wird auf bestehende sektorspezifische Regelungen (z.B. INSPIRE und Umweltberichterstattung) Bezug genommen.
@@ -81,8 +81,8 @@ Die als hochwertige Datensätze identifizierten Daten sind folgenden sechs Kateg
 
 ------------------------------------------------------------------------------------------------------------------------
 
-INSPIRE-Richtlinie
-^^^^^^^^^^^^^^^^^^
+EU - INSPIRE-Richtlinie
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Die INSPIRE-Richtlinie (Infrastructure for Spatial Information in Europe) ist eine Rechtsvorschrift der Europäischen Gemeinschaft, die im Mai 2007 in Kraft getreten ist. Ihr Hauptziel ist die Schaffung einer Geodateninfrastruktur in Europa, die eine grenzüberschreitende und gemeinschaftsweite Nutzung von Geodaten ermöglicht. Diese Infrastruktur soll die europäische Umweltpolitik stärken und voranbringen. Konkret legt die INSPIRE-Richtlinie allgemeine Bestimmungen für die Schaffung einer Geodateninfrastruktur fest, die für die Zwecke der Umweltpolitik der Europäischen Union (EU) sowie anderer Politikbereiche oder Tätigkeiten, die Auswirkungen auf die Umwelt haben können, genutzt werden soll. Die INSPIRE-Richtlinie gilt nicht unmittelbar, sondern wurde mit den Geodateninfrastrukturgesetzen der Länder in nationales Recht umgesetzt. Nachfolgend einige wichtige Eckpunkte:
 
@@ -100,8 +100,8 @@ Die Europäische Kommission betreibt ein EU-weites INSPIRE Geoportal, das Zugang
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Integrierte Verwaltungs- und Kontrollsystem (InVeKoS) 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EU - Integrierte Verwaltungs- und Kontrollsystem (InVeKoS) 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Das Integrierte Verwaltungs- und Kontrollsystem (InVeKoS) ist ein EU-weites, schrittweise eingeführtes System zur Umsetzung und Verwaltung der einheitlichen Gemeinsamen Agrarpolitik (GAP) in den Mitgliedstaaten der Europäischen Union. Eine Wesentliche Rechtsgrundlage hierfür ist die Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005. Weitere diesbezügliche EU-Verordnungen sind (EU) Nr. 1305/2013, (EU) Nr. 1306/2013, (EU) Nr. 1307/2013 und (EU) Nr. 1308/2013.
 
