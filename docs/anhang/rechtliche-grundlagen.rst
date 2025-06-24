@@ -126,14 +126,14 @@ Bundesrecht
 ------------------------------------------------------------------------------------------------------------------------
 
 
-Geologiedatengesetz (GEOLDG)
+Geologiedatengesetz (GeolDG)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Das Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, Sicherung und öffentlichen Bereitstellung geologischer Daten und zur Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben (Geologiedatengesetz - GeolDG) vom 19.06.2020 verpflichtet die zuständige Behörde (hier das Landesamt für Geologie und Bergwesen Sachsen-Anhalt) zur öffentlichen Bereitstellung bestimmter geologischer Daten.
 
 **Bundesministerium der Justiz / Bundesamt der Justiz:** `Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, Sicherung und öffentlichen Bereitstellung geologischer Daten und zur Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben <https://www.gesetze-im-internet.de/geoldg/>`_
 
 
-**Landesamt für Geologie und Bergwesen Sachsen-Anhalt:** `Häufig gestellte Fragen (FAQ) zum Geologiedatengesetz  <https://lagb.sachsen-anhalt.de/geologie/geologiedatengesetz/geologiedatengesetz-faq>`_
+**Landesamt für Geologie und Bergwesen Sachsen-Anhalt:** `Geologiedatengesetz - Umsetzung in Sachsen-Anhalt <https://lagb.sachsen-anhalt.de/geologie/geologiedatengesetz-1>`_
 
 
 ------------------------------------------------------------------------------------------------------------------------
