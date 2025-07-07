@@ -67,7 +67,7 @@ Diese Vielfalt an Systemen ermöglicht es, sowohl lokale als auch übergreifende
 
 .. toctree::
    :maxdepth: 1
-   :caption: Metadateninfrastrktur
+   :caption: Metadateninfrastruktur
 
    metadateninformationssysteme.rst
    harvesting-prozess.rst
