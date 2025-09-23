@@ -22,28 +22,31 @@ Weiterführende Links
 
 **Fraunhofer FOKUS**
 
-Suche: **OpenData** - https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=OpenData
+Suche: **OpenData**
+https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=OpenData
 
-Suche: **hochwertige Daten und Metadaten** - https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=hochwertige+Daten+und+Metadaten+
+Suche: **hochwertige Daten und Metadaten**
+https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=hochwertige+Daten+und+Metadaten+
 
 -----------------------------------------------------------------------------
 
 **Open Knowledge Foundation (OKFN)**
 
-**Open Data Knowledge Hub** - https://opendata.okfn.de
-
 Hier finden Sie Infomaterialien rund um das Thema Open Data ...
+
+**Open Data Knowledge Hub** - https://opendata.okfn.de
 
 ------------------------------------------------------------------------------
 
-**Bertelsmannstiftung**
-
-**Open Data in Kommunen** - https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/open-data-in-kommunen-all
+**BertelsmannStiftung**
 
 Eine Kommunalbefragung zu Chancen und Herausforderungen der Bereitstellung offener Daten
 
-**Musterdatenkatalog - Übersicht über Open Data in Kommunen** - https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog
+**Open Data in Kommunen** - https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/open-data-in-kommunen-all
+
 
 Welche offenen Daten werden von Kommunen in Deutschland veröffentlicht? Der Musterdatenkatalog verschafft einen Überblick.
+
+**Musterdatenkatalog - Übersicht über Open Data in Kommunen** - https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog
 
 ------------------------------------------------------------------------------
