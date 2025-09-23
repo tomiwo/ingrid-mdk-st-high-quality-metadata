@@ -77,14 +77,14 @@ Musterdatenkatalog der Bertelsmann Stiftung. Über 100 Kommunen sind neu hinzuge
 Version 4, Stand 2023: `Der neue Musterdatenkatalog: mehr Kommunen und neue Struktur <https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/der-neue-musterdatenkatalog-mehr-kommunen-und-neue-struktur>`_
 
 
-Die BertelsmannStiftung hat eine aktualisierte Version des Musterdatenkatalogs veröffentlicht. Rund 70 Kommunen und 5.000 offene Datensätze – insgesamt sind es rund 30.000 – sind neu dabei. (Stand November 2023)
+Die BertelsmannStiftung hat eine aktualisierte Version des Musterdatenkatalogs veröffentlicht. Rund 70 Kommunen und 5.000 offene Datensätze – insgesamt sind es rund 30.000 – sind neu dabei (Stand November 2023).
 
 `Der Musterdatenkatalog wächst auf rund 30.000 Datensätze an <https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/der-musterdatenkatalog-waechst-auf-rund-30000-datensaetze-an>`_
 
 
-Welche offenen Daten werden von Kommunen in Deutschland veröffentlicht? Der Musterdatenkatalog verschafft einen Überblick (Stand 2025 über 29.500 Datensätze).
+Welche offenen Daten werden von Kommunen in Deutschland veröffentlicht? Der Musterdatenkatalog verschafft einen Überblick (Stand 13. Juni 2025 über 29.500 Datensätze).
 
-Version 6: `Musterdatenkatalog - Übersicht über Open Data in Kommunen <https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog>`_
+Version 6, Stand 13.06.2025: `Musterdatenkatalog - Übersicht über Open Data in Kommunen <https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog>`_
 
 
 ------------------------------------------------------------------------------
