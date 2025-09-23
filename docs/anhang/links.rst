@@ -39,6 +39,8 @@ Hier finden Sie Infomaterialien rund um das Thema Open Data ...
 **BertelsmannStiftung**
 
 
+*Veröffentlichungen zu OpenData*
+
 Die Broschüre beschreibt kurz, was unter Open Data in Kommunen, also offenen Verwaltungsdaten, zu verstehen ist.
 
 `Open Data in Kommunen – Eine Broschüre (2019) <https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/open-data-in-kommunen2019>`_
@@ -64,7 +66,7 @@ Offene Daten werden in Kommunen zunehmend als Chance gesehen. Welche konkreten C
 
 
 
-**Der Musterdatenkatalog**
+*Der Musterdatenkatalog*
 
 
 In Nordrhein-Westfalen gibt es mehrere Vorreiterstädte im Bereich Open Data. Sie veröffentlichen seit einigen Jahren offene Daten.
@@ -77,13 +79,14 @@ Musterdatenkatalog der Bertelsmann Stiftung. Über 100 Kommunen sind neu hinzuge
 Version 4, Stand 2023: `Der neue Musterdatenkatalog: mehr Kommunen und neue Struktur <https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/der-neue-musterdatenkatalog-mehr-kommunen-und-neue-struktur>`_
 
 
+Die BertelsmannStiftung hat eine aktualisierte Version des Musterdatenkatalogs veröffentlicht. Rund 70 Kommunen und 5.000 offene Datensätze – insgesamt sind es rund 30.000 – sind neu dabei. (Stand November 2023)
+
+`Der Musterdatenkatalog wächst auf rund 30.000 Datensätze an <https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/der-musterdatenkatalog-waechst-auf-rund-30000-datensaetze-an>`_
+
+
 Welche offenen Daten werden von Kommunen in Deutschland veröffentlicht? Der Musterdatenkatalog verschafft einen Überblick (Stand 2025 über 29.500 Datensätze).
 
 Version 6: `Musterdatenkatalog - Übersicht über Open Data in Kommunen <https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog>`_
 
-
-Die BertelsmannStiftung hat eine aktualisierte Version des Musterdatenkatalogs veröffentlicht. Rund 70 Kommunen und 5.000 offene Datensätze – insgesamt sind es rund 30.000 – sind neu dabei.
-
-`Der Musterdatenkatalog wächst auf rund 30.000 Datensätze an <https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/der-musterdatenkatalog-waechst-auf-rund-30000-datensaetze-an>`_
 
 ------------------------------------------------------------------------------
