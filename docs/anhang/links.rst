@@ -22,11 +22,10 @@ Weiterführende Links
 
 **Fraunhofer FOKUS**
 
-Suche: **OpenData**
-https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=OpenData
+Suche: `OpenData <https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=OpenData
+>`_
 
-Suche: **hochwertige Daten und Metadaten**
-https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=hochwertige+Daten+und+Metadaten+
+Suche: `hochwertige Daten und Metadaten <https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=hochwertige+Daten+und+Metadaten+>`_
 
 -----------------------------------------------------------------------------
 
@@ -34,7 +33,7 @@ https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&p
 
 Hier finden Sie Infomaterialien rund um das Thema Open Data ...
 
-**Open Data Knowledge Hub** - https://opendata.okfn.de
+`Open Data Knowledge Hub <https://opendata.okfn.de>`_
 
 ------------------------------------------------------------------------------
 
@@ -42,11 +41,11 @@ Hier finden Sie Infomaterialien rund um das Thema Open Data ...
 
 Eine Kommunalbefragung zu Chancen und Herausforderungen der Bereitstellung offener Daten
 
-**Open Data in Kommunen** - https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/open-data-in-kommunen-all
+`Open Data in Kommunen <https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/open-data-in-kommunen-all>`_
 
 
 Welche offenen Daten werden von Kommunen in Deutschland veröffentlicht? Der Musterdatenkatalog verschafft einen Überblick.
 
-**Musterdatenkatalog - Übersicht über Open Data in Kommunen** - https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog
+`Musterdatenkatalog - Übersicht über Open Data in Kommunen <https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog>`_
 
 ------------------------------------------------------------------------------
