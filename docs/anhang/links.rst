@@ -22,8 +22,7 @@ Weiterführende Links
 
 **Fraunhofer FOKUS**
 
-Suche: `OpenData <https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=OpenData
->`_
+Suche: `OpenData <https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=OpenData>`_
 
 Suche: `hochwertige Daten und Metadaten <https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=hochwertige+Daten+und+Metadaten+>`_
 
