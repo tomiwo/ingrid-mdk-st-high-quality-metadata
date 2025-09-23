@@ -30,9 +30,15 @@ Suche: `hochwertige Daten und Metadaten <https://www.fokus.fraunhofer.de/de/such
 
 **Open Knowledge Foundation (OKFN)**
 
-Hier finden Sie Infomaterialien rund um das Thema Open Data ...
+Hier finden Sie Infomaterialien rund um das Thema Open Data:
+
 
 `Open Data Knowledge Hub <https://opendata.okfn.de>`_
+
+
+`Open Data Ranking Deutschland <https://opendataranking.de>`_
+
+
 
 ------------------------------------------------------------------------------
 
