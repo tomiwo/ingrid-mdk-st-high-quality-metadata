@@ -22,23 +22,27 @@ Weiterführende Links
 
 **Fraunhofer FOKUS**
 
-- Leitfaden für hochwertige Daten und Metadaten (2019) - https://www.fokus.fraunhofer.de/de/fokus/news/leitfaden_nqdm_2019
+Suche: **OpenData** - https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=OpenData
+
+Suche: **hochwertige Daten und Metadaten** - https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=hochwertige+Daten+und+Metadaten+
 
 -----------------------------------------------------------------------------
 
 **Open Knowledge Foundation (OKFN)**
 
-- Open Data Knowledge Hub - https://opendata.okfn.de
+**Open Data Knowledge Hub** - https://opendata.okfn.de
+
+Hier finden Sie Infomaterialien rund um das Thema Open Data ...
 
 ------------------------------------------------------------------------------
 
 **Bertelsmannstiftung**
 
-- Open Data in Kommunen - https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/open-data-in-kommunen-all
+**Open Data in Kommunen** - https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/open-data-in-kommunen-all
 
 Eine Kommunalbefragung zu Chancen und Herausforderungen der Bereitstellung offener Daten
 
-- Musterdatenkatalog - Übersicht über Open Data in Kommunen - https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog
+**Musterdatenkatalog - Übersicht über Open Data in Kommunen** - https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog
 
 Welche offenen Daten werden von Kommunen in Deutschland veröffentlicht? Der Musterdatenkatalog verschafft einen Überblick.
 
