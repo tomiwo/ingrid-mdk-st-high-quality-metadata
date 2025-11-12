@@ -101,9 +101,8 @@ Version 6, Stand 13.06.2025: `Musterdatenkatalog - Übersicht über Open Data in
 
 **Fraunhofer FOKUS**
 
-Suche: `OpenData <https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=OpenData>`_
-
-Suche: `hochwertige Daten und Metadaten <https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=hochwertige+Daten+und+Metadaten+>`_
+| Suche: `OpenData <https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=OpenData>`_
+| Suche: `hochwertige Daten und Metadaten <https://www.fokus.fraunhofer.de/de/suche.html?_charset_=UTF-8&numberResults=15&page=1&scope=FOKUS&lang=de&queryString=hochwertige+Daten+und+Metadaten+>`_
 
 
 ------------------------------------------------------------------------------
