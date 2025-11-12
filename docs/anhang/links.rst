@@ -99,3 +99,8 @@ Suche: `hochwertige Daten und Metadaten <https://www.fokus.fraunhofer.de/de/such
 
 ------------------------------------------------------------------------------
 
+**Umwelt.info**
+
+In eigener Sache:  `Warum Open Data ein Win-Win-Win-Szenario ist <https://umwelt.info/de/artikel/eigener-sache-warum-open-data-ein-win-win-win-szenario-ist>`_
+
+------------------------------------------------------------------------------

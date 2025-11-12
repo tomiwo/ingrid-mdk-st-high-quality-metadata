@@ -9,13 +9,13 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 -------------------------------------------------------------------------------------------------------------
 
 | **Portal:** METAVER (MetadatenVerbund)
-| **Software:** InGrid (Open-Source)
+| **Software:** InGrid OSS (Open-Source)
 | **Komponente:** InGrid Editor
 | **Datenbanken:** Metadatenkatalog und kommunaler Metadatenkatalog Sachsen-Anhalt
 | **Metadatenprofile:** Metadatenkatalog und kommunaler Metadatenkatalog Sachsen-Anhalt
 
-| **Leitfaden-Version:** 3.0, 23.09.2025
-| **Status:** in Erstellung - Beta Version
+| **Leitfaden-Version:** 3.0, 12.11.2025
+| **Status:** abgeschlossen
 
 
 ----------------------------------------------------------------------------------------------------------------
