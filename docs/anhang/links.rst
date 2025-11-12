@@ -20,8 +20,8 @@ GDI-DE / GovData
 
 | GovData: `Open Government <https://www.govdata.de/informationen/open-government>`_
 | GovData: `Open Government Data <https://www.govdata.de/informationen/datenbereitsteller>`_
-| GovData: `Metadaten-Struktur <https://www.govdata.de/informationen/metadatenschema>`_
 | GovData: `Hochwertige Datensätze <https://www.govdata.de/informationen/hochwertige-datensaetze>`_
+| GovData: `Metadaten-Struktur <https://www.govdata.de/informationen/metadatenschema>`_
 
 -----------------------------------------------------------------------------
 
