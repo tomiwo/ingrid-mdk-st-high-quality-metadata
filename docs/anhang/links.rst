@@ -21,6 +21,11 @@ Weiterführende Links
 
 -----------------------------------------------------------------------------
 
+Open Data
+----------
+
+-----------------------------------------------------------------------------
+
 **Open Knowledge Foundation (OKFN)**
 
 Hier finden Sie Infomaterialien rund um das Thema Open Data:
