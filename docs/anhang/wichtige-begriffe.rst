@@ -20,8 +20,7 @@ Daten sind die einfachste Form der Information. Sie stellen rohe Fakten, Beobach
 
 Daten können vorliegen als:
 
-| **strukturierte Daten** - sind Daten in einem standardisierten Format mit einem vordefinierten Schema
-| (z.B. relationale Datenbanken, Tabellen, CSV-Dateien, Datenkataloge)
+| **strukturierte Daten** - sind Daten in einem standardisierten Format mit einem vordefinierten Schema (z.B. relationale Datenbanken, Tabellen, CSV-Dateien, Datenkataloge)
 | **semi (halb, teilweise) - strukturierte Daten** - sind Daten mit einer versteckten, nicht sofort ersichtlichen Struktur (z.B. XML- oder JSON-Dateien)
 | **unstrukturierte Daten** - sind Daten ohne vorgegebene oder erkennbare Struktur
 | (z.B. Text, E-Mails, Bild- und Videodaten, Audio, Social-Media-Inhalte)
