@@ -22,7 +22,7 @@ Daten können vorliegen als:
 
 | **strukturierte Daten** - mit einem vordefinierten Schema
 | (z.B. relationale Datenbanken, Tabellen, CSV-Dateien, Datenkataloge)
-| **semi-strukturierte Daten** - mit einer versteckten, nicht sofort ersichtlichen Struktur
+| **semi (halb, teilweise) - strukturierte Daten** - mit einer versteckten, nicht sofort ersichtlichen Struktur
 | (z.B. XML- oder JSON-Dateien)
 | **unstrukturierte Daten** - ohne vorgegebenes Format
 | (z.B. Text, E-Mails, Bild- und Videodaten, Audio, Social-Media-Inhalte)
