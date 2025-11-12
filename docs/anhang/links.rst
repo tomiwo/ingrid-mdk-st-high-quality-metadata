@@ -3,21 +3,23 @@
 Weiterführende Links
 ====================
 
+GDI-DE / GovData
+----------------
+
 -------------------------------------------------------------------------------
 
 **GDI-DE**
 
-- GDI-DE - INSPIRE - https://www.gdi-de.org/INSPIRE
-- GDI-DE - Nationale Geoinformationsstrategie - https://www.gdi-de.org/NGIS
+| GDI-DE: `INSPIRE <https://www.gdi-de.org/INSPIRE>`_
+| GDI-DE: `Nationale Geoinformationsstrategie <https://www.gdi-de.org/NGIS>`_
 
 -------------------------------------------------------------------------------
 
 **GovData**
 
-- GovData - Open Government - https://www.govdata.de/informationen/open-government
-- GovData - Open Government Data - https://www.govdata.de/informationen/datenbereitsteller
-- GovData - Hochwertige Datensätze - https://www.govdata.de/informationen/hochwertige-datensaetze
-
+| GovData: `Open Government <https://www.govdata.de/informationen/open-government>`_
+| GovData: `Open Government Data <https://www.govdata.de/informationen/datenbereitsteller>`_
+| GovData: `Hochwertige Datensätze <https://www.govdata.de/informationen/hochwertige-datensaetze>`_
 
 -----------------------------------------------------------------------------
 
