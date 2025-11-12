@@ -10,8 +10,9 @@ GDI-DE / GovData
 
 **GDI-DE**
 
-| GDI-DE: `INSPIRE <https://www.gdi-de.org/INSPIRE>`_
-| GDI-DE: `Nationale Geoinformationsstrategie <https://www.gdi-de.org/NGIS>`_
+| GDI-DE: `INSPIRE Umsetzung <https://www.gdi-de.org/praxis-projekte/inspire-umsetzung>`_
+| GDI-DE: `Nationale Geoinformationsstrategie <https://www.gdi-de.org/strategie/ngis-version-2-0>`_
+| GDI-DE: `Good Practice in der GDI-DE <https://www.gdi-de.org/de/praxis-projekte/good-practice>`_
 
 -------------------------------------------------------------------------------
 
