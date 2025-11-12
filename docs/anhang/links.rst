@@ -100,8 +100,8 @@ Suche: `hochwertige Daten und Metadaten <https://www.fokus.fraunhofer.de/de/such
 ------------------------------------------------------------------------------
 
 
-Best Practice
--------------
+Open Data - Praktische Beispiele
+---------------------------------
 
 ------------------------------------------------------------------------------
 
