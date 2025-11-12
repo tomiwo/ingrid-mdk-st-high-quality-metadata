@@ -122,8 +122,8 @@ In eigener Sache:  `Warum Open Data ein Win-Win-Win-Szenario ist <https://umwelt
 
 **Technologiestiftung Berlin**
 
-| `Reallabor <https://www.technologiestiftung-berlin.de/reallabor>`_
-| `Alle Projekte <https://www.technologiestiftung-berlin.de/projekte>`_
+| Technologiestiftung Berlin: `Reallabor <https://www.technologiestiftung-berlin.de/reallabor>`_
+| Technologiestiftung Berlin: `Alle Projekte <https://www.technologiestiftung-berlin.de/projekte>`_
 
 ------------------------------------------------------------------------------
 
