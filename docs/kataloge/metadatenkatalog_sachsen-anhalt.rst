@@ -1,6 +1,6 @@
---------------------------------
+================================
 Metadatenkatalog Sachsen-Anhalt
---------------------------------
+================================
 
 Der Metadatenkatalog Sachsen-Anhalt ist eine zentrale Datenbank zur Erfassung und Bereitstellung von Metadaten über verschiedene Datenobjekte, darunter Anwendungen, Datenbanken, Geodatensätze, Geodatendienste, Dokumente, Organisationseinheiten und Projekte. Die Metadaten werden dezentral über eine webbasierte Metadatenerfassungskomponente der Software InGrid erfasst und können online aktualisiert werden. Das Ziel besteht darin, die Metadaten geodatenhaltender Behörden und in Sachsen-Anhalt zentral zugänglich und durchsuchbar zu machen, um Transparenz über vorhandene Daten zu schaffen und deren Nutzung zu erleichtern.
 

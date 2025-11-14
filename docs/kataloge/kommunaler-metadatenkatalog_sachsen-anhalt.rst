@@ -1,9 +1,9 @@
--------------------------------------------
+===========================================
 kommunaler Metadatenkatalog Sachsen-Anhalt
--------------------------------------------
+===========================================
 
 Der kommunale Metadatenkatalog Sachsen-Anhalt (kMDK) ist eine spezielle Datenbank für Kommunen in Sachsen-Anhalt. Er enthält Metainformationen (Beschreibungen) zu verschiedenen Datenobjekten und ähnelt damit dem allgemeinen Metadatenkatalog des Landes. Um den kommunalen Anforderungen gerecht zu werden, sind im kMDK weniger Pflichtfelder bei der Erfassung vorgesehen. Er umfasst Metadaten zu Geodatensätzen, Geodatendiensten, Anwendungen, Datenbanken, Dokumenten, Projekten und Organisationseinheiten.
 
-Der kMDK dient dazu, kommunale Geodaten und andere informationsbezogene Ressourcen strukturiert und zentral zu erfassen und bereitzustellen. Dabei können die Metadaten auch als offene Verwaltungsdaten (Open Data) sowie als INSPIRE-konforme Geodaten gemäß dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) veröffentlicht werden. Die Datenerfassung erfolgt dezentral über eine webbasierte Erfassungskomponente, sodass die Kommunen ihre Daten eigenständig pflegen können. Damit unterstützt der kMDK die Verwaltung, Nutzung und Auffindbarkeit von kommunalen Geodaten und anderen Datenressourcen in Sachsen-Anhalt auf standardisierte und kostenfreie Weise.
+Der kMDK dient dazu, kommunale Geodaten und andere informationsbezogene Ressourcen strukturiert und zentral zu erfassen und bereitzustellen. Dabei können die Metadaten auch als offene Verwaltungsdaten (Open Data) sowie als INSPIRE-konforme Geodaten und gemäß dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) veröffentlicht werden. Die Datenerfassung erfolgt dezentral über eine webbasierte Erfassungskomponente, sodass die Kommunen ihre Daten eigenständig pflegen können. Damit unterstützt der kMDK die Verwaltung, Nutzung und Auffindbarkeit von kommunalen Geodaten und anderen Datenressourcen in Sachsen-Anhalt auf standardisierte und kostenfreie Weise.
 
 Der kommunale Metadatenkatalog ist somit eine auf kommunale Szenarien zugeschnittene, praxisorientierte Instanz des übergeordneten Metadatenkatalogs Sachsen-Anhalt. Er dient der besseren Vernetzung und Bereitstellung kommunaler Geodaten und Metadaten und ist als Teil der Geodateninfrastruktur Sachsen-Anhalt (GDI-LSA) organisiert.
