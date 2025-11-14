@@ -85,7 +85,7 @@ GeoJSON und GeoPackage
 Alternative Encoding bietet die Möglichkeit, dieselben Geodaten flexibler zu verteilen, ohne die semantische Information zu verändern, sondern nur das Format anzupassen, um spezielle Anwendungsanforderungen oder technische Umgebungen besser zu bedienen.
 
 
-.. note:: Alternative Encoding wird von GeoSN (Sachsen) eingesetzt.
+.. note:: GeoSN (Sachsen) setzt beispielsweise auf alternatives Encoding.
 
 
 Online-Veranstaltung der GDI-DE: `2025-11-13 - GDI-DE4EU <https://wiki.gdi-de.org/spaces/insp/pages/1454243908/2025-11-13+GDI-DE4EU>`_
@@ -112,8 +112,7 @@ Vorteile
 - **Flexibilität:** Raum für Erweiterungen, um spezifische Anforderungen abzudecken.
 - **Effizienz:** Ermöglicht gezielte Abfragen nach Metainformationen wie Bounding Box oder Zeitstempel.
 
-.. note:: STAC wird zunehmend in Geodateninfrastrukturen eingesetzt, z.B. bei der Bereitstellung von freien Geodaten durch Behörden wie das Landesamt für Geoinformation Niedersachsen (LGLN). 
-
+.. note:: STAC kommt zunehmend in Geodateninfrastrukturen zum Einsatz, beispielsweise bei der Bereitstellung freier Geodaten durch Behörden wie das Landesamt für Geoinformation Niedersachsen (LGLN).
 
 FOSSGIS Konferenz 2024 : `Bereitstellung von freien Geodaten (OpenData) mit STAC beim LGLN <https://youtu.be/m9ulOVSp6Rg?si=nb9nILfYS5NMGuKS>`_
 
