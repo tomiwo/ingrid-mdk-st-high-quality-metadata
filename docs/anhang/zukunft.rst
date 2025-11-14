@@ -115,6 +115,6 @@ Vorteile
 
 .. note:: STAC kommt zunehmend in Geodateninfrastrukturen zum Einsatz, beispielsweise bei der Bereitstellung freier Geodaten durch Behörden wie das Landesamt für Geoinformation Niedersachsen (LGLN).
 
-FOSSGIS Konferenz 2024 : `Bereitstellung von freien Geodaten (OpenData) mit STAC beim LGLN <https://youtu.be/m9ulOVSp6Rg?si=nb9nILfYS5NMGuKS>`_
+FOSSGIS Konferenz 2024: `Bereitstellung von freien Geodaten (OpenData) mit STAC beim LGLN <https://youtu.be/m9ulOVSp6Rg?si=nb9nILfYS5NMGuKS>`_
 
 ----------------------------------------------------------------------------------------------
