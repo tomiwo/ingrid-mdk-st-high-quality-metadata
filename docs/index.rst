@@ -36,20 +36,18 @@ Hinweis: Die Inhalte wurden teilweise mit künstlicher Intelligenz (KI) generier
 
 .. toctree::
    :maxdepth: 3
-   :caption: Qualitätsmanagement
-
-   qualitaetsmanagement/bewertung.rst
-   qualitaetsmanagement/bereitstellung.rst
-   qualitaetsmanagement/metadatenschema-ige.rst
-
-
-.. toctree::
-   :maxdepth: 3
    :caption: Metadatenkataloge
 
    kataloge/metadatenkatalog_sachsen-anhalt.rst
    kataloge/kommunaler-metadatenkatalog_sachsen-anhalt.rst
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Qualitätsmanagement
+
+   qualitaetsmanagement/bewertung.rst
+   qualitaetsmanagement/bereitstellung.rst
+   qualitaetsmanagement/metadatenschema-ige.rst
 
 .. toctree::
    :maxdepth: 3
