@@ -67,10 +67,32 @@ Die OGC API - Tiles ist der Nachfolger des Web Map Tile Service (WMTS). Sie unte
 
 ----------------------------------------------------------------------------------------------
 
+
+Alternative Encoding
+---------------------
+
+| GeoJSON und GeoPackage werden oft als alternative Encodings zu traditionellen GIS-Formaten wie GML oder Shapefile genutzt, insbesondere bei INSPIRE-Daten oder in Open-Data-Initiativen.
+| Der Begriff „Alternative Encoding“ bedeutet, dass statt des offiziellen Standardformats (bei INSPIRE typischerweise GML) ein anderes, in der Praxis besser nutzbares Format verwendet wird, zum Beispiel GeoJSON für Webanwendungen oder GeoPackage für Desktop- und mobile GIS-Software.
+| Alternative Encodings helfen dabei, die Datenzugänglichkeit, Verarbeitungsleistung und Interoperabilität zu erhöhen — beispielsweise durch kompaktere und leichter handhabbare Dateien oder eine bessere Unterstützung in modernen Tools.
+
+
+GeoJSON und GeoPackage
+""""""""""""""""""""""
+
+| **GeoJSON** ist ein textbasiertes, leichtgewichtiges Austauschformat, das besonders für Webanwendungen und APIs geeignet ist und mit zahlreichen Plattformen interoperabel ist.
+| **GeoPackage** ist ein Datei-basiertes Datenbankformat auf SQLite-Basis, das Vektordaten, Rasterdaten, Sachdaten und Metadaten effizient und leistungsfähig in nur einer Datei speichert. Dies ist besonders vorteilhaft für größere oder komplexere Geodatensätze.
+
+Alternative Encoding bietet die Möglichkeit, dieselben Geodaten flexibler zu verteilen, ohne die semantische Information zu verändern, sondern nur das Format anzupassen, um spezielle Anwendungsanforderungen oder technische Umgebungen besser zu bedienen.
+
+
+https://wiki.gdi-de.org/spaces/insp/pages/1454243908/2025-11-13+GDI-DE4EU
+
+
+
 STAC-Standard / STAC API
 ------------------------
 
-Der STAC-Standard (SpatioTemporal Asset Catalog) ist ein offener Standard für die Beschreibung, Katalogisierung und Abfrage von Geodaten. Er wurde entwickelt, um den Zugang zu raum-zeitlichen Daten wie Bilddaten, Punktwolken oder digitalen Orthophotos zu vereinfachen und zu standardisieren.
+STAC (SpatioTemporal Asset Catalog) ist ein Standard für Geodaten, der es ermöglicht, raumzeitliche Daten (Raster- und Vektordaten) einheitlich, standardisiert und einfach auffindbar zu machen. Es definiert ein interoperables Metadaten-Framework, das die Beschreibung von Geodaten mit zentralen Metainformationen wie räumlicher und zeitlicher Ausdehnung sowie technischen Details ermöglicht. Dadurch wird das Durchsuchen, Zugreifen und Austauschen von Geodaten verschiedener Anbieter über standardisierte Kataloge und APIs sowohl dynamisch als auch statisch erleichtert. Somit dient STAC der besseren Auffindbarkeit, Zugänglichkeit und Interoperabilität von Geodaten. STAC ist flexibel erweiterbar für diverse Anwendungsfälle und Datenformate, beispielsweise Satellitenbilder, Punktwolken oder Wetterdaten.
 
 Hauptmerkmale
 """""""""""""
@@ -86,6 +108,6 @@ Vorteile
 - **Flexibilität:** Raum für Erweiterungen, um spezifische Anforderungen abzudecken.
 - **Effizienz:** Ermöglicht gezielte Abfragen nach Metainformationen wie Bounding Box oder Zeitstempel.
 
-.. note:: STAC wird zunehmend in Geodateninfrastrukturen eingesetzt, z.B. bei der Bereitstellung von freien Geodaten durch Behörden wie das Landesamt für Geoinformation Niedersachsen (LGLN).
+.. note:: STAC wird zunehmend in Geodateninfrastrukturen eingesetzt, z.B. bei der Bereitstellung von freien Geodaten durch Behörden wie das Landesamt für Geoinformation Niedersachsen (LGLN). https://youtu.be/m9ulOVSp6Rg?si=nb9nILfYS5NMGuKS
 
 ----------------------------------------------------------------------------------------------
