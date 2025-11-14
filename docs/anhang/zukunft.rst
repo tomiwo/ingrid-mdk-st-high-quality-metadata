@@ -108,6 +108,9 @@ Vorteile
 - **Flexibilität:** Raum für Erweiterungen, um spezifische Anforderungen abzudecken.
 - **Effizienz:** Ermöglicht gezielte Abfragen nach Metainformationen wie Bounding Box oder Zeitstempel.
 
-.. note:: STAC wird zunehmend in Geodateninfrastrukturen eingesetzt, z.B. bei der Bereitstellung von freien Geodaten durch Behörden wie das Landesamt für Geoinformation Niedersachsen (LGLN). https://youtu.be/m9ulOVSp6Rg?si=nb9nILfYS5NMGuKS
+.. note:: STAC wird zunehmend in Geodateninfrastrukturen eingesetzt, z.B. bei der Bereitstellung von freien Geodaten durch Behörden wie das Landesamt für Geoinformation Niedersachsen (LGLN). 
+
+
+FOSSGIS Konferenz 2024 : `Bereitstellung von freien Geodaten (OpenData) mit STAC beim LGLN <https://youtu.be/m9ulOVSp6Rg?si=nb9nILfYS5NMGuKS>`_
 
 ----------------------------------------------------------------------------------------------
