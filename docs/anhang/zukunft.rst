@@ -93,8 +93,8 @@ Online-Veranstaltung der GDI-DE: `2025-11-13 - GDI-DE4EU <https://wiki.gdi-de.or
 ----------------------------------------------------------------------------------------------
 
 
-STAC-Standard / STAC API
-------------------------
+STAC-Standard
+--------------
 
 STAC (SpatioTemporal Asset Catalog) ist ein Standard für Geodaten, der es ermöglicht, raumzeitliche Daten (Raster- und Vektordaten) einheitlich, standardisiert und einfach auffindbar zu machen. Es definiert ein interoperables Metadaten-Framework, das die Beschreibung von Geodaten mit zentralen Metainformationen wie räumlicher und zeitlicher Ausdehnung sowie technischen Details ermöglicht. Dadurch wird das Durchsuchen, Zugreifen und Austauschen von Geodaten verschiedener Anbieter über standardisierte Kataloge und APIs sowohl dynamisch als auch statisch erleichtert. Somit dient STAC der besseren Auffindbarkeit, Zugänglichkeit und Interoperabilität von Geodaten. STAC ist flexibel erweiterbar für diverse Anwendungsfälle und Datenformate, beispielsweise Satellitenbilder, Punktwolken oder Wetterdaten.
 
