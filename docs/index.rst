@@ -24,7 +24,12 @@ Hinweis: Die Inhalte wurden teilweise mit künstlicher Intelligenz (KI) generier
 
 ----------------------------------------------------------------------------------------------------------------
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Metadatenkataloge
 
+   kataloge/metadatenkatalog_sachsen-anhalt.rst
+   kataloge/kommunaler-metadatenkatalog_sachsen-anhalt.rst
 
 .. toctree::
    :maxdepth: 3
@@ -33,13 +38,6 @@ Hinweis: Die Inhalte wurden teilweise mit künstlicher Intelligenz (KI) generier
    grundlagen/einfuehrung.rst
    grundlagen/metadateninfrastruktur.rst
    grundlagen/metadatenstandards.rst
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Metadatenkataloge
-
-   kataloge/metadatenkatalog_sachsen-anhalt.rst
-   kataloge/kommunaler-metadatenkatalog_sachsen-anhalt.rst
 
 .. toctree::
    :maxdepth: 3
