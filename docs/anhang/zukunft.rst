@@ -90,6 +90,7 @@ Alternative Encoding bietet die Möglichkeit, dieselben Geodaten flexibler zu ve
 
 Onlineveranstaltung der GDI-DE: `2025-11-13 - GDI-DE4EU <https://wiki.gdi-de.org/spaces/insp/pages/1454243908/2025-11-13+GDI-DE4EU>`_
 
+----------------------------------------------------------------------------------------------
 
 
 STAC-Standard / STAC API
