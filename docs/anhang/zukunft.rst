@@ -85,7 +85,10 @@ GeoJSON und GeoPackage
 Alternative Encoding bietet die Möglichkeit, dieselben Geodaten flexibler zu verteilen, ohne die semantische Information zu verändern, sondern nur das Format anzupassen, um spezielle Anwendungsanforderungen oder technische Umgebungen besser zu bedienen.
 
 
-https://wiki.gdi-de.org/spaces/insp/pages/1454243908/2025-11-13+GDI-DE4EU
+.. note:: Alternative Encoding wird von GeoSN (Sachsen) eingesetzt.
+
+
+Onlineveranstaltung der GDI-DE: `2025-11-13 - GDI-DE4EU <https://wiki.gdi-de.org/spaces/insp/pages/1454243908/2025-11-13+GDI-DE4EU>`_
 
 
 
