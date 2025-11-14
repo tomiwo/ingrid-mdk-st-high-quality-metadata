@@ -71,9 +71,8 @@ Die OGC API - Tiles ist der Nachfolger des Web Map Tile Service (WMTS). Sie unte
 Alternative Encoding
 ---------------------
 
-| GeoJSON und GeoPackage werden oft als alternative Encodings zu traditionellen GIS-Formaten wie GML oder Shapefile genutzt, insbesondere bei INSPIRE-Daten oder in Open-Data-Initiativen.
-| Der Begriff „Alternative Encoding“ bedeutet, dass statt des offiziellen Standardformats (bei INSPIRE typischerweise GML) ein anderes, in der Praxis besser nutzbares Format verwendet wird, zum Beispiel GeoJSON für Webanwendungen oder GeoPackage für Desktop- und mobile GIS-Software.
-| Alternative Encodings helfen dabei, die Datenzugänglichkeit, Verarbeitungsleistung und Interoperabilität zu erhöhen — beispielsweise durch kompaktere und leichter handhabbare Dateien oder eine bessere Unterstützung in modernen Tools.
+
+Alternative Encoding bietet die Möglichkeit, dieselben Geodaten flexibler zu verteilen, ohne die semantische Information zu verändern, sondern nur das Format anzupassen, um spezielle Anwendungsanforderungen oder technische Umgebungen besser zu bedienen. GeoJSON und GeoPackage werden oft als alternative Encodings zu traditionellen GIS-Formaten wie GML oder Shapefile genutzt, insbesondere bei INSPIRE-Daten oder in Open-Data-Initiativen. Der Begriff „Alternative Encoding“ bedeutet, dass statt des offiziellen Standardformats (bei INSPIRE typischerweise GML) ein anderes, in der Praxis besser nutzbares Format verwendet wird, zum Beispiel GeoJSON für Webanwendungen oder GeoPackage für Desktop- und mobile GIS-Software. Alternative Encodings helfen dabei, die Datenzugänglichkeit, Verarbeitungsleistung und Interoperabilität zu erhöhen — beispielsweise durch kompaktere und leichter handhabbare Dateien oder eine bessere Unterstützung in modernen Tools.
 
 
 GeoJSON
@@ -86,9 +85,6 @@ GeoPackage
 """"""""""
 
 **GeoPackage** ist ein Datei-basiertes Datenbankformat auf SQLite-Basis, das Vektordaten, Rasterdaten, Sachdaten und Metadaten effizient und leistungsfähig in nur einer Datei speichert. Dies ist besonders vorteilhaft für größere oder komplexere Geodatensätze.
-
-
-Alternative Encoding bietet die Möglichkeit, dieselben Geodaten flexibler zu verteilen, ohne die semantische Information zu verändern, sondern nur das Format anzupassen, um spezielle Anwendungsanforderungen oder technische Umgebungen besser zu bedienen.
 
 
 .. note:: GeoSN (Sachsen) setzt beispielsweise auf alternatives Encoding.
