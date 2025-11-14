@@ -76,11 +76,17 @@ Alternative Encoding
 | Alternative Encodings helfen dabei, die Datenzugänglichkeit, Verarbeitungsleistung und Interoperabilität zu erhöhen — beispielsweise durch kompaktere und leichter handhabbare Dateien oder eine bessere Unterstützung in modernen Tools.
 
 
-GeoJSON und GeoPackage
-""""""""""""""""""""""
+GeoJSON
+"""""""
 
-| **GeoJSON** ist ein textbasiertes, leichtgewichtiges Austauschformat, das besonders für Webanwendungen und APIs geeignet ist und mit zahlreichen Plattformen interoperabel ist.
-| **GeoPackage** ist ein Datei-basiertes Datenbankformat auf SQLite-Basis, das Vektordaten, Rasterdaten, Sachdaten und Metadaten effizient und leistungsfähig in nur einer Datei speichert. Dies ist besonders vorteilhaft für größere oder komplexere Geodatensätze.
+**GeoJSON** ist ein textbasiertes, leichtgewichtiges Austauschformat, das besonders für Webanwendungen und APIs geeignet ist und mit zahlreichen Plattformen interoperabel ist.
+
+
+GeoPackage
+""""""""""
+
+**GeoPackage** ist ein Datei-basiertes Datenbankformat auf SQLite-Basis, das Vektordaten, Rasterdaten, Sachdaten und Metadaten effizient und leistungsfähig in nur einer Datei speichert. Dies ist besonders vorteilhaft für größere oder komplexere Geodatensätze.
+
 
 Alternative Encoding bietet die Möglichkeit, dieselben Geodaten flexibler zu verteilen, ohne die semantische Information zu verändern, sondern nur das Format anzupassen, um spezielle Anwendungsanforderungen oder technische Umgebungen besser zu bedienen.
 
