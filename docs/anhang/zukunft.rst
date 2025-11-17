@@ -5,7 +5,7 @@ Blick in die Zukunft
 
 **Datenbereitstellung über Geodatendienste oder Schnittstellen (API)**
 
-In Zukunft werden die bestehenden Standards durch neue Standards ergänzt oder ersetzt. Hier werden die wichtigsten beschrieben, die sich derzeit in der Entwicklung befinden.
+In Zukunft werden die bestehenden Standards durch neue ergänzt oder ersetzt. Im Folgenden werden die wichtigsten dieser neuen Standards beschrieben, die sich derzeit in der Entwicklung befinden.
 
 ----------------------------------------------------------------------------------------------
 
