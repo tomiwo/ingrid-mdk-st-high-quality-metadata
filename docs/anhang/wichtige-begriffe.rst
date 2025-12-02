@@ -148,9 +148,7 @@ GIS findet Anwendung in vielen Bereichen wie Stadtplanung, Umweltschutz, Logisti
 
 -----------------------------------------------------------------------------------------------
 
-Geodatenportal Sachsen-Anhalt
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Weitere Erklärungen zu GeoBegriffen <https://www.lvermgeo.sachsen-anhalt.de/de/gdp-glossar.html>`_
+.. hint:: `Weitere Erklärungen zu Geobegriffen finden Sie im Geodatenportal Sachsen-Anhalt. <https://www.lvermgeo.sachsen-anhalt.de/de/gdp-glossar.html>`_
 
 -----------------------------------------------------------------------------------------------
