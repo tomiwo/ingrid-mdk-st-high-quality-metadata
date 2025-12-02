@@ -146,9 +146,6 @@ Die Besonderheit eines GIS liegt in der Verknüpfung von Geometriedaten (Form un
 GIS findet Anwendung in vielen Bereichen wie Stadtplanung, Umweltschutz, Logistik, Marketing und Katastrophenmanagement. Es ermöglicht fundierte Entscheidungen basierend auf räumlichen Daten und deren Visualisierung.
 
 
------------------------------------------------------------------------------------------------
 
+.. hint:: `Weitere Erklärungen zu geografischen Begriffen finden Sie im Geodatenportal Sachsen-Anhalt. <https://www.lvermgeo.sachsen-anhalt.de/de/gdp-glossar.html>`_
 
-.. hint:: `Weitere Erklärungen zu Geobegriffen finden Sie im Geodatenportal Sachsen-Anhalt. <https://www.lvermgeo.sachsen-anhalt.de/de/gdp-glossar.html>`_
-
------------------------------------------------------------------------------------------------
