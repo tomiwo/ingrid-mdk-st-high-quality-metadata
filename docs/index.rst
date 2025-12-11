@@ -18,6 +18,9 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 | **Status:** abgeschlossen
 
 
+"Metadatenpflege ist nicht sexy, sondern smart – sie spart Zeit, Nerven und Geld.
+
+
 ----------------------------------------------------------------------------------------------------------------
 
 Hinweis: Die Inhalte wurden teilweise mit künstlicher Intelligenz (KI) generiert und anschließend überprüft.
