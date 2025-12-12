@@ -19,7 +19,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 
 ----------------------------------------------------------------------------------------------------------------
 
-**"Metadatenpflege ist nicht sexy, sondern smart. Sie spart bei der Datensuche Zeit, Nerven und Geld."**
+*"Metadatenpflege ist nicht sexy, sondern smart. Sie spart bei der Datensuche Zeit, Nerven und Geld."*
 
 ----------------------------------------------------------------------------------------------------------------
 
