@@ -17,9 +17,9 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 | **Leitfaden-Version:** 3.0, 11.12.2025
 | **Status:** abgeschlossen
 
+----------------------------------------------------------------------------------------------------------------
 
 *"Metadatenpflege ist nicht sexy, sondern smart. Sie spart bei der Suche Zeit, Nerven und Geld."*
-
 
 ----------------------------------------------------------------------------------------------------------------
 
