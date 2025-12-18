@@ -1,10 +1,10 @@
 .. meta::
-  :description: Qualitativ hochwertige Metadaten erfassen und pflegen
+  :description: Qualitätssicherung von Metadaten bei der Erfassung und Pflege
   :keywords  lang=de: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Informationssysteme, Datenbanken, Datensammlungen, Dokumente, Literatur, Projekte, Fachinformationen, Umweltdaten, Geodaten, Erfassung, Pflege, Beschreibung, Dokumentation, IGE-NG, InGrid Editor, Qualität, hochwertig
   
-=========================================================================================
-Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatenerfasser -
-=========================================================================================
+==============================================================
+Qualitätssicherung von Metadaten bei der Erfassung und Pflege
+==============================================================
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Qualitativ hochwertige Metadaten erfassen und pflegen - Hinweise für Metadatene
 | **Datenbanken:** Metadatenkatalog und kommunaler Metadatenkatalog Sachsen-Anhalt
 | **Metadatenprofile:** Metadatenkatalog und kommunaler Metadatenkatalog Sachsen-Anhalt
 
-| **Leitfaden-Version:** 3.0, 11.12.2025
+| **Leitfaden-Version:** 3.1, 18.12.2025
 | **Status:** abgeschlossen
 
 ----------------------------------------------------------------------------------------------------------------
