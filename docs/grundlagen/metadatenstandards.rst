@@ -46,9 +46,9 @@ Die Open Data und PSI-Richtlinie  fördert die Nutzung offener Daten, die in off
 Hochwertige Datensätze (HVD)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Die auf der Grundlage der Open Data und PSI-Richtlinie erlassene DVO-HVD definiert Hochwertige Datensätze als “Dokumente einer öffentlichen Stelle, deren Weiterverwendung mit wichtigen Vorteilen für die Gesellschaft, die Umwelt und die Wirtschaft verbunden ist” und die durch die öffentlichen Stellen als Open Data bereitzustellen sind. Die  DVO HVD regelt die Veröffentlichung bestimmter Hochwertige Datensätze von öffentlichen Stellen in maschinenlesbarem Format und über Anwendungsprogrammierschnittstellen (APIs). 
+Die auf Grundlage der Open-Data- und PSI-Richtlinie erlassene "Durchführungsverordnung (EU) 2023/138 zur Festlegung bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung" (DVO-HVD) definiert hochwertige Datensätze als „Dokumente einer öffentlichen Stelle, deren Weiterverwendung mit wichtigen Vorteilen für Gesellschaft, Umwelt und Wirtschaft verbunden ist“ und die von den öffentlichen Stellen als Open Data bereitgestellt werden müssen. Die DVO-HVD regelt die Veröffentlichung bestimmter hochwertiger Datensätze von öffentlichen Stellen in maschinenlesbarem Format und über Anwendungsprogrammierschnittstellen (APIs). 
 
-Hinweis: Die HVD-Richtlinie trat am 9. Juni 2024 in Kraft. Die HVD-Richtlinie betrifft sowohl die Landes- als auch die Kommunalverwaltung.
+Hinweis: Die Durchführungsverordnung-HVD ist seit dem 9. Juni 2024 in Kraft. Die DVO-HVD betrifft sowohl die Landes- als auch die Kommunalverwaltung.
 
 
 INSPIRE-konforme Geodaten
