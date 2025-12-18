@@ -15,7 +15,7 @@ Qualitätssicherung von Metadaten bei der Erfassung und Pflege
 | **Metadatenprofile:** Metadatenkatalog und kommunaler Metadatenkatalog Sachsen-Anhalt
 
 | **Leitfaden-Version:** 3.1, 18.12.2025
-| **Status:** abgeschlossen
+| **Status:** in Bearbeitung
 
 ----------------------------------------------------------------------------------------------------------------
 
