@@ -12,11 +12,11 @@ Gute Datenbeschreibungen minimieren den Rechercheaufwand und erleichtern die Ein
 
 Eine gute Beschreibung von Datenressourcen hat folgende Vorteile, die je nach Art und Zugänglichkeit der Daten mehr oder weniger stark ausgeprägt sind:
 
-– Die Daten sind katalogisiert, verzeichnet und verschlagwortet.
-– Die Entstehung der Daten ist sowohl intern als auch extern nachvollziehbar.
-– Die Daten stehen dem potenziellen Nutzer ohne Wartezeit zur Verfügung.
-– Die Daten können in ihrem inhaltlichen Kontext betrachtet werden.
-– Alle Informationen zu den Daten sind direkt verfügbar, einschließlich der Ansprechpartner.
+- Die Daten sind katalogisiert, verzeichnet und verschlagwortet.
+- Die Entstehung der Daten ist sowohl intern als auch extern nachvollziehbar.
+- Die Daten stehen dem potenziellen Nutzer ohne Wartezeit zur Verfügung.
+- Die Daten können in ihrem inhaltlichen Kontext betrachtet werden.
+- Alle Informationen zu den Daten sind direkt verfügbar, einschließlich der Ansprechpartner.
 - Eine Recherche nach Daten kann jederzeit, von jedem Ort und mit minimalem Aufwand durchgeführt werden.
 
 Wir zeigen Ihnen, wie Sie Ihr Wissen über Metadaten vertiefen und die Qualität Ihrer Datenbestände verbessern können. Nutzen Sie dazu diesen Leitfaden!
