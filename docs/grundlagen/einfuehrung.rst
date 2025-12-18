@@ -10,7 +10,7 @@ Für die Nutzung von Daten in einer Metadaten-/Geodateninfrastruktur ist eine pr
 
 Gute Datenbeschreibungen minimieren den Rechercheaufwand und erleichtern die Einschätzung der Nutzbarkeit von Daten für ein Projekt. Die Frage, ob Daten zu einem bestimmten Thema bereits vorhanden sind oder selbst erstellt werden müssen, kann nun kurzfristig beantwortet werden. Auch der persönliche Nutzen für die Person, die die Recherche durchführt, ist zu berücksichtigen. Häufig wiederkehrende Fragen, beispielsweise zu den verfügbaren Formaten, dem Datenmodell, den Nutzungsbedingungen oder den anfallenden Kosten, können im Rahmen der eigenverantwortlichen Recherche direkt und ohne weitere persönliche Rückfragen beantwortet werden. Dies spart Zeit und Nerven auf beiden Seiten.
 
-Eine gute Beschreibung von Datenressourcen hat folgende Vorteile, die je nach Art und Zugänglichkeit der Daten mehr oder weniger stark ausgeprägt sind:
+Eine gute Beschreibung von Daten hat folgende Vorteile, die je nach Art und Zugänglichkeit der Daten mehr oder weniger stark ausgeprägt sind:
 
 - Die Daten sind katalogisiert, verzeichnet und verschlagwortet.
 - Die Entstehung der Daten ist sowohl intern als auch extern nachvollziehbar.
