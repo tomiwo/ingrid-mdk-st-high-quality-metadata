@@ -75,7 +75,7 @@ METAVER dient als gemeinsames Metadatenportal für mehrere deutsche Bundeslände
 | **AdV-MIS**
 | Metadateninformationssystem der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV)
 
-Das AdV-MIS dient als zentrales Metainformationssystem der Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV), um Informationen über verfügbare digitale und analoge Geobasisdaten der deutschen Landesvermessung hinsichtlich Inhalt, Ausdehnung, Qualität, Raumbezug und Vertrieb bereitzustellen.
+Das AdV-MIS dient als zentrales Metadateninformationssystem der Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV), um Informationen über verfügbare digitale und analoge Geobasisdaten der deutschen Landesvermessung hinsichtlich Inhalt, Ausdehnung, Qualität, Raumbezug und Vertrieb bereitzustellen.
 
   https://advmis.geodatenzentrum.de/
 
