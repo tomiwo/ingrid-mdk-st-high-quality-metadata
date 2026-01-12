@@ -1,7 +1,7 @@
 
-===============================================
-Bewertung der Daten- und der Metadatenqualität
-===============================================
+==============================================================
+Bewertung der Daten-, der Datensatz- und der Metadatenqualität
+==============================================================
 
 Das Fraunhofer-Institut für Offene Kommunikationssysteme (FOKUS) hat in einem „Leitfaden für qualitativ Hochwertige Daten und Metadaten“ von 2019, unter Punkt 4 ein „Bewertungsschemata für die Qualität von Daten veröffentlicht. Hier ein Auszug aus diesem Dokument:
 
