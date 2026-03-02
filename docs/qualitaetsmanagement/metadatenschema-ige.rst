@@ -125,9 +125,9 @@ Raumbezug
 
 Für die Angabe der Raumbezüge stehen drei Möglichkeiten zur Verfügung:
 
-1. **freie Eingabe:** Nominatim, ein Dienst von OpenStreetMap
-2. **Geo-Thesaurus:** Ein Dienst des Bundesamtes für Kartographie und Geodäsie (BKG) 
-3. **Raumbezug WKT:** Well-Known Text für die Darstellung von Polygonen (für Experten)
+1. **freie Eingabe** (Nominatim ist ein freier Geokodierungsdienst, der auf den Daten von OpenStreetMap (OSM) basiert. Er ermöglicht die Umwandlung von Adressen in geografische Koordinaten und umgekehrt)
+2. **Geo-Thesaurus** (Geographisches Namensverzeichnis des Bundesamtes für Kartographie und Geodäsie, das standardisierte Ortsnamen und zugehörige Geodaten bereitstellt - Gazetteer.)
+3. **Raumbezug WKT** (Well-Known Text ist ein standardisiertes Textformat zur Beschreibung von geometrischen Objekten, z.B. Polygonen.)
 
 .. seealso:: Wie die Raumbezüge angegeben werden, ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-raumbezug>`_ beschrieben.
 
