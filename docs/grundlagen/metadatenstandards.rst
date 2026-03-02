@@ -66,6 +66,4 @@ Das Integrierte Verwaltungs- und Kontrollsystem (InVeKoS) ist ein EU-weites Syst
 AdV-konforme Geodaten
 ^^^^^^^^^^^^^^^^^^^^^
 
-Die Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) ist ein Zusammenschluss der Vermessungsverwaltungen der Bundesländer. Ihre Aufgabe ist es, raumbezogene Basisdaten (auch Geobasisdaten genannt) für Verwaltung, Wirtschaft und private Nutzer bereitzustellen. AdV-konforme Geodaten sind an das Datenschema der AdV angepasst. und werden bundesweit konform an das Metdateninformationssystem der AdV zusammengeführt. werden in den Metadaten entsprechend als AdV-konform gekennzeichnet und verschlagwortet. Metadaten, die in den Ländern als AdV-konform erfasst werden, werden bundesweit im Metdateninformationssystem der AdV zusammengeführt.
-
-
+Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) ist ein Zusammenschluss der Vermessungsverwaltungen der Bundesländer. Ihre Aufgabe ist es, raumbezogene Basisdaten (auch Geobasisdaten genannt) für Verwaltung, Wirtschaft und private Nutzer bereitzustellen. AdV-konforme Geodaten sind an das Datenschema der AdV angepasst und werden bundesweit in das Metadateninformationssystem der AdV zusammengeführt. Die Metadaten werden bei der Erfassung entsprechend als AdV-konform gekennzeichnet und verschlagwortet.
