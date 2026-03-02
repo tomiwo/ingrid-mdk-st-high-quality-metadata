@@ -15,9 +15,9 @@ FAIR steht für:
 
 **Findable (Auffindbar)**:
 
-- Die (Meta-)Daten erhalten einen eindeutigen und dauerhaften Identifier.
+- Die (Meta-) Daten erhalten einen eindeutigen und dauerhaften Identifikator.
 - Die Daten werden durch detaillierte Metadaten beschrieben.
-- Die (Meta-)Daten werden in durchsuchbaren Verzeichnissen erfasst.
+- Die (Meta-) Daten werden in durchsuchbaren Verzeichnissen erfasst.
 
 
 **Accessible (Zugänglich)**:
@@ -61,12 +61,11 @@ Die Qualitätsmerkmale für Daten und Metadaten lassen sich in mehrere Kategorie
 
 **FAIR-Prinzipien**
 
-Die FAIR-Prinzipien sind wichtige Leitlinien für die Qualität von Daten und Metadaten:
-
 | **Findable (Auffindbar):** Die Daten sollten leicht auffindbar sein, z.B. durch eindeutige Identifikatoren.
 | **Accessible (Zugänglich):** Daten und Metadaten sollten über Standardprotokolle zugänglich sein.
 | **Interoperable (Interoperabel):** Die Daten sollten mit anderen Datensätzen kombinierbar sein.
 | **Reusable (Wiederverwendbar):** Die Daten sollten gut beschrieben und für zukünftige Forschung nutzbar sein.
+
 
 **Spezifische Qualitätsmerkmale**
 
@@ -76,11 +75,13 @@ Die FAIR-Prinzipien sind wichtige Leitlinien für die Qualität von Daten und Me
 | **Standardisierte Formate:** Die Verwendung von Standardformaten erhöht die Nutzbarkeit.
 | **Ausreichende Dokumentation:** Kontextinformationen über die fachliche Grundlage sollten verfügbar sein.
 
+
 **Technische Aspekte**
 
 | **Maschinenlesbarkeit:** Die Daten sollten in einem Format vorliegen, das eine automatische Verarbeitung ermöglicht.
 | **Korrekte Formatierung:** Die Daten sollten in der richtigen Struktur und ohne Formatierungsfehler vorliegen.
 | **Verwendung kontrollierter Vokabulare:** Dies verbessert die Vergleichbarkeit und Auffindbarkeit der Daten.
+
 
 **Metadaten-spezifische Qualitätsmerkmale**
 
