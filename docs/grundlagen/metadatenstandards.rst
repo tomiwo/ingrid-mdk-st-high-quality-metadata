@@ -12,7 +12,7 @@ ISO 19115 "Geographic Information - Metadata" ist eine internationale Norm zur S
 
 | 1. ein umfassendes Schema zur Beschreibung von Geoinformationen und zugehörigen Diensten
 
-| 2. Informationen über
+| 2. Informationen über:
    - Inhalt der Geodaten
    - Räumlich-zeitliche Bezüge
    - Datenqualität
