@@ -139,7 +139,7 @@ Er erfasst mehrere Ebenen wie Bundesland, Regierungsbezirk, Kreis und Gemeinde.
 
 **Beispiel:** Sachsen-Anhalt, Bundesland (ARS: 15). 
 
-Durch das Aufziehen eines Rechtecks in der Karte können die entsprechenden Koordinaten für dieses Gebiet in der freien Eingabe automatisch ermittelt werden. Bei Betätigung des Buttons „ÜBERNEHMEN“ werden sie in die Metadaten übernommen.
+Nur bei der Auswahl „freie Eingabe” können in der angezeigten Karte durch das Aufziehen eines Rechtecks (Bounding Box) Koordinaten für ein bestimmtes Gebiet automatisch ermittelt werden. Bei Betätigung des Buttons „ÜBERNEHMEN“ werden sie in die Metadaten übernommen.
 
 **Beispiel:** SW Breite,Länge: 50.972317°, 10.526374°NO Breite,Länge: 53.060074°, 13.309751°
 
