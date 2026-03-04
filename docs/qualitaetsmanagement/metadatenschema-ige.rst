@@ -197,7 +197,7 @@ Der Regionalschlüssel sollte nur angegeben werden, wenn der geometrische Umring
 
 Feld Koordinatenreferenzsystem
 """""""""""""""""""""""""""""""
-Hier sind die Koordinatenreferenzsysteme anzugeben, in denen die zu erfassenden Geodaten ausgegeben werden können. Die entsprechenden Koordinatenreferenzsysteme sind vollständig anzugeben. Die gebräuchlichsten Koordinatenreferenzsysteme stehen oben in der durch eine horizontale Linie abgegrenzten Favoritenliste. Der Raumbezug kann durch Höhenangaben (Minimum, Maximum, Maßeinheit) und das Vertikaldatum ergänzt werden. Für weitere Angaben steht das Feld „Erläuterung” zur Verfügung.
+Hier sind die Koordinatenreferenzsysteme anzugeben, in denen die zu erfassenden Geodaten ausgegeben werden können. Die entsprechenden Koordinatenreferenzsysteme sind vollständig anzugeben. Die gebräuchlichsten Koordinatenreferenzsysteme finden Sie in der Favoritenliste oben, die durch eine horizontale Linie abgegrenzt ist. Der Raumbezug kann durch Höhenangaben (Minimum, Maximum und Maßeinheit) sowie das Vertikaldatum ergänzt werden. Für weitere Angaben steht das Feld „Erläuterung” zur Verfügung.
 
 ---------------------------------------------------------------------------------------------------
 
