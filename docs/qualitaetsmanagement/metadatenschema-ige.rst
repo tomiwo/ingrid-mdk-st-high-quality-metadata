@@ -132,9 +132,12 @@ Der Dienst ermöglicht die Umwandlung von Adressen und  in geografische Koordina
 Nominatim unterstützt die Suche nach: Adressen, Ortsnamen, Postleitzahlen, Straßennamen, Städte, Länder, Sehenswürdigkeiten und Naturräume.
 Die Suche ist auf Deutschland beschränkt. In der Karte wird die Ortsangabe innerhalb eines Rechtecks, der sogenannten Bounding Box, angezeigt.
 
-Wenn das angezeigte Kontrollkästchen aktiviert wird, wird bei der Auswahl des Raumbezugs auch der Amtliche Regionalschlüssel (ARS) angezeigt.
+Bei der Auswahl des Raumbezugs wird im gleichnamigen Feld auch der Amtliche Regionalschlüssel (ARS) ausgegeben.
+Der ARS ist ein eindeutiger, numerischer Code zur Identifikation geografischer Verwaltungseinheiten in Deutschland.
+Der ARS ist ein übergeordneter Schlüssel zur Identifikation von Regionen auf verschiedenen Verwaltungsebenen.
+Er erfasst mehrere Ebenen wie Bundesland, Regierungsbezirk, Kreis und Gemeinde.
 
-**Beispiel:** Sachsen-Anhalt, Bundesland (ARS: 15) 
+Beispiel: Sachsen-Anhalt, Bundesland (ARS: 15). 
 
 Durch das Aufziehen eines Rechtecks in der Karte können die entsprechenden Koordinaten für dieses Gebiet in der freien Eingabe automatisch ermittelt werden. Bei Betätigung des Buttons „ÜBERNEHMEN“ werden sie in die Metadaten übernommen.
 
@@ -150,9 +153,12 @@ Die Suche ist auf Deutschland beschränkt. In der Karte wird die Ortsangabe inne
 Ein Thesaurus ist ein systematisch strukturierter Wortschatz, der Begriffe in Beziehung setzt (Synonyme, Ober- und Unterbegriffe, verwandte Begriffe).
 Ein Geo-Thesaurus fokussiert auf geographische und raumbezogene Begriffe, um die Suche, Klassifikation und den Austausch von Geodaten zu erleichtern.
 
-Wenn das angezeigte Kontrollkästchen aktiviert wird, wird bei der Auswahl des Raumbezugs auch der Amtliche Regionalschlüssel (ARS) angezeigt.
+Bei der Auswahl des Raumbezugs wird im gleichnamigen Feld auch der Amtliche Regionalschlüssel (ARS) ausgegeben.
+Der ARS ist ein eindeutiger, numerischer Code zur Identifikation geografischer Verwaltungseinheiten in Deutschland.
+Der ARS ist ein übergeordneter Schlüssel zur Identifikation von Regionen auf verschiedenen Verwaltungsebenen.
+Er erfasst mehrere Ebenen wie Bundesland, Regierungsbezirk, Kreis und Gemeinde.
 
-**Beispiel:** Sachsen-Anhalt, Bundesland (ARS: 15) 
+Beispiel: Sachsen-Anhalt, Bundesland (ARS: 15). 
 
 
 3. **Raumbezug WKT**
@@ -165,7 +171,7 @@ In WKT wird der Raumbezug durch die Geometrie selbst definiert (Punkt, Linie, Po
 
 **Beispiele**
 
-Punkt: POINT (13.4050 52.5200) (z.B. Koordinaten von Berlin)
+Punkt: POINT (11.6276 52.1205) (z.B. Koordinaten von Magdeburg)
 
 Linie: LINESTRING (13.4050 52.5200, 13.4060 52.5210, 13.4070 52.5220)
 
@@ -173,6 +179,17 @@ Polygon: POLYGON ((13.4050 52.5200, 13.4060 52.5200, 13.4060 52.5210, 13.4050 52
 
 
 .. seealso:: Wie die Raumbezüge angegeben werden, ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-raumbezug>`_ beschrieben.
+
+
+
+Der amtliche Regionalschlüssel (ARS) des Statistischen Bundesamtes dient als ergänzende Angabe zur BoundingBox und präzisiert die Beschreibung der räumlichen Ausdehnung einer Geodatenressource. Es sind nur jene Ziffern des ARS anzugeben, die die jeweilige administrative Ebene abbilden:
+
+    Gemeinde: alle 12 Stellen des ARS sind erforderlich
+    Gemeindeverband: die ersten 9 Stellen des ARS sind anzugeben
+    Bundesland: die ersten 2 Stellen des ARS sind ausreichend
+    Nationalstaat 'Bundesrepublik Deutschland': die Eingabe einer einzigen '0' ist ausreichend. Für die Ausgabeformate (ISO-XML, Portal uvm.) wird der Wert automatisch auf 12 Stellen ('000000000000') vervollständigt.
+
+Der Regionalschlüssel sollte nur angegeben werden, wenn der geometrische Umring einer administrativen Einheit zutreffend ist und die Geodatenressource vollständig darin liegt.
 
 
 
