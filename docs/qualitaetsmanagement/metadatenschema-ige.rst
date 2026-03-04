@@ -137,7 +137,7 @@ Der ARS ist ein eindeutiger, numerischer Code zur Identifikation geografischer V
 Der ARS ist ein übergeordneter Schlüssel zur Identifikation von Regionen auf verschiedenen Verwaltungsebenen.
 Er erfasst mehrere Ebenen wie Bundesland, Regierungsbezirk, Kreis und Gemeinde.
 
-Beispiel: Sachsen-Anhalt, Bundesland (ARS: 15). 
+**Beispiel:** Sachsen-Anhalt, Bundesland (ARS: 15). 
 
 Durch das Aufziehen eines Rechtecks in der Karte können die entsprechenden Koordinaten für dieses Gebiet in der freien Eingabe automatisch ermittelt werden. Bei Betätigung des Buttons „ÜBERNEHMEN“ werden sie in die Metadaten übernommen.
 
@@ -158,7 +158,7 @@ Der ARS ist ein eindeutiger, numerischer Code zur Identifikation geografischer V
 Der ARS ist ein übergeordneter Schlüssel zur Identifikation von Regionen auf verschiedenen Verwaltungsebenen.
 Er erfasst mehrere Ebenen wie Bundesland, Regierungsbezirk, Kreis und Gemeinde.
 
-Beispiel: Sachsen-Anhalt, Bundesland (ARS: 15). 
+**Beispiel:** Sachsen-Anhalt, Bundesland (ARS: 15). 
 
 
 3. **Raumbezug WKT**
