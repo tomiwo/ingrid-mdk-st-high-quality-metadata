@@ -125,9 +125,41 @@ Raumbezug
 
 Für die Angabe der Raumbezüge stehen drei Möglichkeiten zur Verfügung:
 
-1. **freie Eingabe** (Nominatim ist ein freier Geokodierungsdienst, der auf den Daten von OpenStreetMap (OSM) basiert. Er ermöglicht die Umwandlung von Adressen in geografische Koordinaten und umgekehrt)
-2. **Geo-Thesaurus** (Geographisches Namensverzeichnis des Bundesamtes für Kartographie und Geodäsie, das standardisierte Ortsnamen und zugehörige Geodaten bereitstellt - Gazetteer.)
-3. **Raumbezug WKT** (Well-Known Text ist ein standardisiertes Textformat zur Beschreibung von geometrischen Objekten, z.B. Polygonen.)
+1. **freie Eingabe** 
+
+Hinter der freien Eingabe verbirgt sich der freie Geokodierungsdienst Nominatim, der auf den Daten von OpenStreetMap (OSM) basiert.
+Der Dienst ermöglicht die Umwandlung von Adressen und  in geografische Koordinaten und umgekehrt.
+Nominatim unterstützt die Suche nach: Adressen, Ortsnamen, Postleitzahlen, Straßennamen, Städte, Länder, Sehenswürdigkeiten und Naturräume.
+Die Suche ist auf Deutschland beschränkt. In der Karte wird die Ortsangabe innerhalb eines Rechtecks, der sogenannten Bounding Box, angezeigt.
+
+
+2. **Geo-Thesaurus**
+
+Der Geo-Thesaurus des Bundesamts für Kartographie und Geodäsie (BKG) ist ein standardisiertes, kontrolliertes Vokabular zur Beschreibung und Klassifikation geographischer Begriffe und Themen.
+Die Suche ist auf Deutschland beschränkt. In der Karte wird die Ortsangabe innerhalb eines Rechtecks, der sogenannten Bounding Box, angezeigt.
+
+Ein Thesaurus ist ein systematisch strukturierter Wortschatz, der Begriffe in Beziehung setzt (Synonyme, Ober- und Unterbegriffe, verwandte Begriffe).
+Ein Geo-Thesaurus fokussiert auf geographische und raumbezogene Begriffe, um die Suche, Klassifikation und den Austausch von Geodaten zu erleichtern.
+
+
+3. **Raumbezug WKT**
+
+Der Raumbezug als WKT (Well-Known Text) ist ein standardisiertes Textformat zur Beschreibung von geometrischen Objekten in der Geoinformatik.
+WKT ist eine von der Open Geospatial Consortium (OGC) definierte Textdarstellung für Geometrien.
+Es beschreibt Punkt-, Linien- und Flächengeometrien sowie komplexere Formen in einer menschenlesbaren Form.
+Der Raumbezug beschreibt die geometrische Lage eines Objekts auf der Erdoberfläche.
+In WKT wird der Raumbezug durch die Geometrie selbst definiert (Punkt, Linie, Polygon etc.).
+
+Punkt:
+POINT (13.4050 52.5200)
+(z.B. Koordinaten von Berlin)
+
+Linie:
+LINESTRING (13.4050 52.5200, 13.4060 52.5210, 13.4070 52.5220)
+
+Polygon:
+POLYGON ((13.4050 52.5200, 13.4060 52.5200, 13.4060 52.5210, 13.4050 52.5210, 13.4050 52.5200))
+(ein geschlossener Bereich)
 
 .. seealso:: Wie die Raumbezüge angegeben werden, ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-raumbezug>`_ beschrieben.
 
