@@ -132,6 +132,15 @@ Der Dienst ermöglicht die Umwandlung von Adressen und  in geografische Koordina
 Nominatim unterstützt die Suche nach: Adressen, Ortsnamen, Postleitzahlen, Straßennamen, Städte, Länder, Sehenswürdigkeiten und Naturräume.
 Die Suche ist auf Deutschland beschränkt. In der Karte wird die Ortsangabe innerhalb eines Rechtecks, der sogenannten Bounding Box, angezeigt.
 
+Wenn das angezeigte Kontrollkästchen aktiviert wird, wird bei der Auswahl des Raumbezugs auch der Amtliche Regionalschlüssel (ARS) angezeigt.
+
+**Beispiel:** Sachsen-Anhalt, Bundesland (ARS: 15) 
+
+Durch das Aufziehen eines Rechtecks in der Karte können die entsprechenden Koordinaten für dieses Gebiet in der freien Eingabe automatisch ermittelt werden. Bei Betätigung des Buttons „ÜBERNEHMEN“ werden sie in die Metadaten übernommen.
+
+**Beispiel:** SW Breite,Länge: 50.972317°, 10.526374°NO Breite,Länge: 53.060074°, 13.309751°
+
+
 
 2. **Geo-Thesaurus**
 
@@ -140,6 +149,10 @@ Die Suche ist auf Deutschland beschränkt. In der Karte wird die Ortsangabe inne
 
 Ein Thesaurus ist ein systematisch strukturierter Wortschatz, der Begriffe in Beziehung setzt (Synonyme, Ober- und Unterbegriffe, verwandte Begriffe).
 Ein Geo-Thesaurus fokussiert auf geographische und raumbezogene Begriffe, um die Suche, Klassifikation und den Austausch von Geodaten zu erleichtern.
+
+Wenn das angezeigte Kontrollkästchen aktiviert wird, wird bei der Auswahl des Raumbezugs auch der Amtliche Regionalschlüssel (ARS) angezeigt.
+
+**Beispiel:** Sachsen-Anhalt, Bundesland (ARS: 15) 
 
 
 3. **Raumbezug WKT**
@@ -150,21 +163,17 @@ Es beschreibt Punkt-, Linien- und Flächengeometrien sowie komplexere Formen in 
 Der Raumbezug beschreibt die geometrische Lage eines Objekts auf der Erdoberfläche.
 In WKT wird der Raumbezug durch die Geometrie selbst definiert (Punkt, Linie, Polygon etc.).
 
+**Beispiele**
+
 Punkt: POINT (13.4050 52.5200) (z.B. Koordinaten von Berlin)
 
 Linie: LINESTRING (13.4050 52.5200, 13.4060 52.5210, 13.4070 52.5220)
 
 Polygon: POLYGON ((13.4050 52.5200, 13.4060 52.5200, 13.4060 52.5210, 13.4050 52.5210, 13.4050 52.5200)) (ein geschlossener Bereich)
 
+
 .. seealso:: Wie die Raumbezüge angegeben werden, ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-raumbezug>`_ beschrieben.
 
-Durch Aktivieren des angezeigten Kontrollkästchens kann bei der Auswahl des Raumbezugs der Amtliche Regionalschlüssel (ARS) mit angezeigt werden.
-
-**Beispiel:** Sachsen-Anhalt, Bundesland (ARS: 15) 
-
-Durch Aufziehen eines Rechtecks in der Karte werden die entsprechenden Koordinaten für dieses Gebiet automatisch ermittelt und bei Betätigung des Buttons „ÜBERNEHMEN“ angezeigt.
-
-**Beispiel:** SW Breite,Länge: 50.972317°, 10.526374°NO Breite,Länge: 53.060074°, 13.309751°
 
 
 Feld Koordinatenreferenzsystem
