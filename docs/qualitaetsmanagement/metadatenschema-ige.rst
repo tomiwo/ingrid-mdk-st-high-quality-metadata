@@ -158,7 +158,7 @@ Polygon: POLYGON ((13.4050 52.5200, 13.4060 52.5200, 13.4060 52.5210, 13.4050 52
 
 .. seealso:: Wie die Raumbezüge angegeben werden, ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-raumbezug>`_ beschrieben.
 
-Bei der Auswahl des Raumbezugs kann durch Aktivieren des angezeigten Kontrollkästchens der Amtliche Regionalschlüssel (ARS) mit angezeigt werden.
+Durch Aktivieren des angezeigten Kontrollkästchens kann bei der Auswahl des Raumbezugs der Amtliche Regionalschlüssel (ARS) mit angezeigt werden.
 
 **Beispiel:** Sachsen-Anhalt, Bundesland (ARS: 15) 
 
