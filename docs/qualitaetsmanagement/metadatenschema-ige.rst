@@ -185,7 +185,7 @@ Polygon: POLYGON ((13.4050 52.5200, 13.4060 52.5200, 13.4060 52.5210, 13.4050 52
 
 
 
-Der amtliche Regionalschlüssel (ARS) des Statistischen Bundesamtes dient als ergänzende Angabe zur BoundingBox und präzisiert die Beschreibung der räumlichen Ausdehnung einer Geodatenressource. Es sind nur jene Ziffern des ARS anzugeben, die die jeweilige administrative Ebene abbilden:
+Der **amtliche Regionalschlüssel (ARS)** des Statistischen Bundesamtes dient als ergänzende Angabe zur BoundingBox und präzisiert die Beschreibung der räumlichen Ausdehnung einer Geodatenressource. Es sind nur jene Ziffern des ARS anzugeben, die die jeweilige administrative Ebene abbilden:
 
 | Gemeinde: alle 12 Stellen des ARS sind erforderlich
 | Gemeindeverband: die ersten 9 Stellen des ARS sind anzugeben
