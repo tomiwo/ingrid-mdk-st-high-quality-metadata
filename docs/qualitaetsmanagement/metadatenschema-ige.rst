@@ -132,7 +132,7 @@ Der Dienst ermöglicht die Umwandlung von Adressen und  in geografische Koordina
 Nominatim unterstützt die Suche nach: Adressen, Ortsnamen, Postleitzahlen, Straßennamen, Städte, Länder, Sehenswürdigkeiten und Naturräume.
 Die Suche ist auf Deutschland beschränkt. In der Karte wird die Ortsangabe innerhalb eines Rechtecks, der sogenannten Bounding Box, angezeigt.
 
-Bei der Auswahl des Raumbezugs wird im gleichnamigen Feld auch der Amtliche Regionalschlüssel (ARS) ausgegeben.
+Bei der Auswahl des Raumbezugs wird auch der Amtliche Regionalschlüssel (ARS) ausgegeben.
 Der ARS ist ein eindeutiger, numerischer Code zur Identifikation geografischer Verwaltungseinheiten in Deutschland.
 Der ARS ist ein übergeordneter Schlüssel zur Identifikation von Regionen auf verschiedenen Verwaltungsebenen.
 Er erfasst mehrere Ebenen wie Bundesland, Regierungsbezirk, Kreis und Gemeinde.
