@@ -153,8 +153,7 @@ Nur bei der Auswahl „freie Eingabe” können in der angezeigten Karte durch d
 Der Geo-Thesaurus des Bundesamts für Kartographie und Geodäsie (BKG) ist ein standardisiertes, kontrolliertes Vokabular zur Beschreibung und Klassifikation geographischer Begriffe und Themen.
 Die Suche ist auf Deutschland beschränkt. In der Karte wird die Ortsangabe innerhalb eines Rechtecks, der sogenannten Bounding Box, angezeigt.
 
-Ein Thesaurus ist ein systematisch strukturierter Wortschatz, der Begriffe in Beziehung setzt (Synonyme, Ober- und Unterbegriffe, verwandte Begriffe).
-Ein Geo-Thesaurus fokussiert auf geographische und raumbezogene Begriffe, um die Suche, Klassifikation und den Austausch von Geodaten zu erleichtern.
+.. node:: Ein Thesaurus ist ein systematisch strukturierter Wortschatz, der Begriffe in Beziehung setzt (Synonyme, Ober- und Unterbegriffe, verwandte Begriffe). Ein Geo-Thesaurus fokussiert auf geographische und raumbezogene Begriffe, um die Suche, Klassifikation und den Austausch von Geodaten zu erleichtern.
 
 Bei der Auswahl des Raumbezugs wird im gleichnamigen Feld auch der Amtliche Regionalschlüssel (ARS) ausgegeben.
 Der ARS ist ein eindeutiger, numerischer Code zur Identifikation geografischer Verwaltungseinheiten in Deutschland.
