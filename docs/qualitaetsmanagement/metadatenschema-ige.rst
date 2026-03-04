@@ -150,16 +150,11 @@ Es beschreibt Punkt-, Linien- und Flächengeometrien sowie komplexere Formen in 
 Der Raumbezug beschreibt die geometrische Lage eines Objekts auf der Erdoberfläche.
 In WKT wird der Raumbezug durch die Geometrie selbst definiert (Punkt, Linie, Polygon etc.).
 
-Punkt:
-POINT (13.4050 52.5200)
-(z.B. Koordinaten von Berlin)
+Punkt: POINT (13.4050 52.5200) (z.B. Koordinaten von Berlin)
 
-Linie:
-LINESTRING (13.4050 52.5200, 13.4060 52.5210, 13.4070 52.5220)
+Linie: LINESTRING (13.4050 52.5200, 13.4060 52.5210, 13.4070 52.5220)
 
-Polygon:
-POLYGON ((13.4050 52.5200, 13.4060 52.5200, 13.4060 52.5210, 13.4050 52.5210, 13.4050 52.5200))
-(ein geschlossener Bereich)
+Polygon: POLYGON ((13.4050 52.5200, 13.4060 52.5200, 13.4060 52.5210, 13.4050 52.5210, 13.4050 52.5200)) (ein geschlossener Bereich)
 
 .. seealso:: Wie die Raumbezüge angegeben werden, ist in der `Bedienungsanleitung  für den InGrid Editor <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-raumbezug>`_ beschrieben.
 
