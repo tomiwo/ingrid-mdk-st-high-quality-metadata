@@ -5,47 +5,6 @@ Bereitstellung von qualitativ hochwertigen Metadaten
 
 ---------------------------------------------------------------------------------------------
 
-Die FAIR Data Prinzipien
---------------------------
-
-Die FAIR-Prinzipien sind Leitlinien für die optimale Aufbereitung von Daten und Metadaten, um sie für Menschen und Maschinen gleichermaßen nutzbar zu machen. 
-
-FAIR steht für:
-
-
-**Findable (Auffindbar)**:
-
-- Die (Meta-) Daten erhalten einen eindeutigen und dauerhaften Identifikator.
-- Die Daten werden durch detaillierte Metadaten beschrieben.
-- Die (Meta-) Daten werden in durchsuchbaren Verzeichnissen erfasst.
-
-
-**Accessible (Zugänglich)**:
-
-- Daten und Metadaten sind über offene Standard-Kommunikationsprotokolle zugänglich.
-- Metadaten bleiben auch dann verfügbar, wenn die eigentlichen Daten nicht (mehr) zugänglich sind.
-
-
-**Interoperable (Interoperabel)**:
-
-- Die Daten können mit anderen Datensätzen kombiniert und ausgetauscht werden.
-- Verwendung von kontrollierten Vokabularen, Klassifikationen oder Ontologien.
-
-
-**Reusable (Wiederverwendbar)**:
-
-- Gute Daten- und Metadatenbeschreibung
-- Klare Angabe der Nutzungsbedingungen und Verwendung einer möglichst offenen Datennutzungslizenz.
-- Quellenangaben für die Auswertung der Daten.
-
-Die FAIR-Prinzipien gelten sowohl für die eigentlichen Datenelemente (z.B. Texte, Bilder, 3D-Modelle) als auch für die beschreibenden Metadaten. Sie zielen darauf ab, den Austausch und die Wiederverwendbarkeit von Daten zu fördern und sind bereits Standard in vielen Forschungseinrichtungen weltweit.
-
-
-.. seealso:: Das Umweltbundesamt hat am 27.01.2025 das Portal `Umwelt.info <https://umwelt.info/de/>`_ offiziell in Betrieb genommen. In der `Metadaten-/Datensuche <https://umwelt.info/de/suche>`_ erfolgt eine Bewertung der Metadaten und Daten nach den FAIR-Prinzipien.
-
-
----------------------------------------------------------------------------------------------
-
 Qualitätsmerkmale für Daten und Metadaten
 ------------------------------------------
 
@@ -90,3 +49,43 @@ Die Qualitätsmerkmale für Daten und Metadaten lassen sich in mehrere Kategorie
 | **Standardisierung:** Verwendung standardisierter Metadatenschemata zur Verbesserung der Interoperabilität.
 
 Regelmäßige Überprüfungen und Verbesserungen der Daten- und Metadatenqualität sind entscheidend, um ihren Wert und ihre Nutzbarkeit langfristig zu erhalten.
+
+---------------------------------------------------------------------------------------------
+
+Die ausführliche Darstellung der FAIR-Data-Prinzipien
+-----------------------------------------------------
+
+Die FAIR-Prinzipien sind Leitlinien für die optimale Aufbereitung von Daten und Metadaten, um sie für Menschen und Maschinen gleichermaßen nutzbar zu machen. 
+
+FAIR steht für:
+
+
+**Findable (Auffindbar)**:
+
+- Die (Meta-) Daten erhalten einen eindeutigen und dauerhaften Identifikator.
+- Die Daten werden durch detaillierte Metadaten beschrieben.
+- Die (Meta-) Daten werden in durchsuchbaren Verzeichnissen erfasst.
+
+
+**Accessible (Zugänglich)**:
+
+- Daten und Metadaten sind über offene Standard-Kommunikationsprotokolle zugänglich.
+- Metadaten bleiben auch dann verfügbar, wenn die eigentlichen Daten nicht (mehr) zugänglich sind.
+
+
+**Interoperable (Interoperabel)**:
+
+- Die Daten können mit anderen Datensätzen kombiniert und ausgetauscht werden.
+- Verwendung von kontrollierten Vokabularen, Klassifikationen oder Ontologien.
+
+
+**Reusable (Wiederverwendbar)**:
+
+- Gute Daten- und Metadatenbeschreibung
+- Klare Angabe der Nutzungsbedingungen und Verwendung einer möglichst offenen Datennutzungslizenz.
+- Quellenangaben für die Auswertung der Daten.
+
+Die FAIR-Prinzipien gelten sowohl für die eigentlichen Datenelemente (z.B. Texte, Bilder, 3D-Modelle) als auch für die beschreibenden Metadaten. Sie zielen darauf ab, den Austausch und die Wiederverwendbarkeit von Daten zu fördern und sind bereits Standard in vielen Forschungseinrichtungen weltweit.
+
+
+.. seealso:: Das Umweltbundesamt hat am 27.01.2025 das Portal `Umwelt.info <https://umwelt.info/de/>`_ offiziell in Betrieb genommen. In der `Metadaten-/Datensuche <https://umwelt.info/de/suche>`_ erfolgt eine Bewertung der Metadaten und Daten nach den FAIR-Prinzipien.
