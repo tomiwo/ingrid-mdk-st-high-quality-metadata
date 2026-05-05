@@ -17,7 +17,7 @@ Qualität der Offenheit und der Verwendbarkeit von Daten - 5-Sterne-Modell
 -------------------------------------------------------------------------
 
 
-Tim Berners-Lee, Direktor des World Wide Web Consortiums (W3C), entwickelte das 5- Sterne Modell im Jahr 2001. (10) Das Modell bewertet die technische Verwendbarkeit und Zugänglichkeit von Datensätzen. Die einzelnen Stufen des 5-Sterne-Modells werden nachfolgend erläutert:
+Tim Berners-Lee, Direktor des World Wide Web Consortiums (W3C), entwickelte das 5- Sterne Modell im Jahr 2001. Das Modell bewertet die technische Verwendbarkeit und Zugänglichkeit von Datensätzen. Die einzelnen Stufen des 5-Sterne-Modells werden nachfolgend erläutert:
 
 
 | **★ Offene Lizenz**
@@ -120,14 +120,14 @@ Abb.: 5-Sterne-Modell von Tim Berners-Lee - Stufen
 Die folgenden Punkte geben einen Überblick über einige maschinenlesbare und offene Formate:
 
 
-**Maschinenlesbarkeit (12):**
+**Maschinenlesbarkeit:**
 
 - Gar nicht bis gering: PDF, DOC, DOCX, GIF, JPG, JPEG, PNG, TIFF, GeoTIFF, ODT
 - Überwiegend: TXT, RTF, ODS, XLS, CSV, HTML, XLSX
 - Vollständig: XML, RDF, RSS, KMZ, DXF, GPX, GML
 
 
-**Offene Standards (13):**
+**Offene Standards:**
 
 - Proprietäre Formate: XLS, DOC, PPT
 - Standardisierte, aber nicht offene Formate: RTF, GIF, JPG/JPEG, TIFF, GeoTIFF, DXF, GPX
