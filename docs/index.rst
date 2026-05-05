@@ -16,7 +16,7 @@ Hinweise für Metadatenerfasser
 | **Datenbanken:** Metadatenkatalog und kommunaler Metadatenkatalog Sachsen-Anhalt
 | **Metadatenprofile:** Metadatenkatalog und kommunaler Metadatenkatalog Sachsen-Anhalt
 
-| **Leitfaden-Version:** 3.1, 04.05.2026
+| **Leitfaden-Version:** 3.1, 05.05.2026
 | **Status:** in Bearbeitung
 
 ----------------------------------------------------------------------------------------------------------------
